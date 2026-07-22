@@ -82,3 +82,22 @@ Noto Nastaliq Urdu is under the SIL Open Font License and is redistributed in
 Every applied diagram is an *ijtihādī* application, not a fatwā. This is stated
 on the landing page, the browse footer, and the method page — please keep it
 there if you restyle.
+## Full corpus sync
+
+From the CovenantTheology repo, run:
+
+```bash
+python ../CovenantTheology/scripts/sync_to_misaq2.py
+```
+
+This syncs:
+
+- **Tafsir** — rebuilds `data/tafsir.json` (201 āyah notes)
+- **Concept maps** — 312 concept plates → `svg/en/concept-*.svg`, part 16 in `diagrams.json`
+- **Canon set** — 20 canon SVGs → `svg/en/canon-*.svg`, part 17 in `diagrams.json`
+- **QBank** — full `qbank/` tree (420 questions + plates)
+- **Downloads** — PDFs into `downloads/` + `data/downloads.json`
+- **Lexicon / Hadith / Study** — `data/lexicon.json`, `data/hadith.json`, `data/study.json`
+- **Hub pages** — `study.html`, `lexicon.html`, `hadith.html`, `downloads.html` (nav patched sitewide)
+
+Existing bilingual application diagrams (316 items, parts 1–15) are preserved.

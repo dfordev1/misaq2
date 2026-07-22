@@ -162,6 +162,8 @@ const CT = (function () {
   // stay readable with no markup ceremony.
   const UI = {
     'Home': 'سرورق', 'Diagrams': 'خاکے', 'Method': 'منہج', 'Tafsīr': 'تفسیر',
+    'Quiz': 'آزمائش', 'Study': 'مطالعہ', 'Downloads': 'ڈاؤن لوڈ',
+    'Lexicon': 'لغت', 'Hadith': 'حدیث',
     'All domains': 'تمام میدان', 'All axes': 'تمام محور',
     'Introduction diagrams': 'تعارفی خاکے',
     'Search titles, captions, citations…': 'عنوان، وضاحت یا حوالہ تلاش کریں…',

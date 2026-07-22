@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" width="1000" height="700">
+<rect width="1000" height="700" fill="#f4f7f6"/>
+<text x="500" y="95" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="28" fill="#1a2332" font-weight="700">Axiom Loci</text><text x="500" y="125" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#4a5560">Where each axiom anchors.</text><rect x="230" y="165" width="174" height="38" rx="6" fill="#0d6e6e"/>
+<text x="317" y="189" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#ffffff" font-weight="700">Axiom</text>
+<rect x="410" y="165" width="174" height="38" rx="6" fill="#0d6e6e"/>
+<text x="497" y="189" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#ffffff" font-weight="700">Locus</text>
+<rect x="590" y="165" width="174" height="38" rx="6" fill="#0d6e6e"/>
+<text x="677" y="189" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#ffffff" font-weight="700">Ref</text>
+<rect x="230" y="211" width="174" height="36" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="317" y="233" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">Bind</text>
+<rect x="410" y="211" width="174" height="36" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="497" y="233" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">ahd</text>
+<rect x="590" y="211" width="174" height="36" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="677" y="233" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">16:91</text>
+<rect x="230" y="253" width="174" height="36" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="317" y="275" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">Heavy</text>
+<rect x="410" y="253" width="174" height="36" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="497" y="275" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">mithaq</text>
+<rect x="590" y="253" width="174" height="36" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="677" y="275" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">33:7</text>
+<rect x="230" y="295" width="174" height="36" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="317" y="317" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">Trust</text>
+<rect x="410" y="295" width="174" height="36" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="497" y="317" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">amanah</text>
+<rect x="590" y="295" width="174" height="36" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="677" y="317" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">33:72</text>
+<rect x="230" y="337" width="174" height="36" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="317" y="359" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">Hisab</text>
+<rect x="410" y="337" width="174" height="36" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="497" y="359" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">masul</text>
+<rect x="590" y="337" width="174" height="36" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="677" y="359" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">17:34</text><rect x="0" y="628" width="1000" height="72" rx="0" fill="#1a2332"/><text x="60" y="665" text-anchor="start" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#ffffff" font-weight="700">Axioms and Architecture</text><text x="940" y="665" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#b8860b" font-weight="700">Plate 210</text>
+</svg>

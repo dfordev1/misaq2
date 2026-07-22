@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Hadith — Islamic Covenant Theology</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="top"><div class="wrap topin">
+  <a class="brand" href="index.html">Islamic <span>Covenant Theology</span></a>
+  <nav class="main">
+    <a href="index.html">Home</a>
+    <a href="browse.html">Diagrams</a>
+    <a href="tafsir.html">Tafsīr</a>
+    <a href="qbank/index.html">Quiz</a>
+    <a href="study.html">Study</a>
+    <a href="downloads.html">Downloads</a>
+    <a href="read.html">تعارف</a>
+    <a href="about.html" class="hide-s">Method</a>
+  </nav>
+</div></header>
+
+<main class="wrap hub-main">
+  <div class="rule hub-rule"></div>
+  <h1 class="hub-title">Hadith notes</h1>
+  <p class="hub-lede">Fifty covenant-themed hadith dossiers (H01–H50).</p>
+  <div class="hub-table-wrap"><table class="hub-table" id="had-table">
+    <thead><tr><th>ID</th><th>Title</th><th>Grade</th><th>Collections</th><th>Theme</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+</main>
+<script>
+(async function(){
+  const d = await (await fetch('data/hadith.json')).json();
+  const tb = document.querySelector('#had-table tbody');
+  d.entries.forEach(h=>{
+    const tr = document.createElement('tr');
+    tr.innerHTML = '<td><code>'+h.id+'</code></td><td>'+h.title+'</td><td>'+h.grade+'</td><td>'+h.collections+'</td><td>'+h.theme+'</td>';
+    tb.appendChild(tr);
+  });
+})();
+</script>
+<footer class="bot"><div class="wrap">
+  <p>Every diagram and note here is an ijtihādī study aid, not a fatwā.</p>
+</div></footer>
+<script src="app.js"></script>
+
+</body>
+</html>

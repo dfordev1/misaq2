@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" width="900" height="520">
+<rect width="900" height="520" fill="#f4f7f6"/>
+<text x="450" y="40" text-anchor="middle" font-family="Georgia, serif" font-size="26" fill="#1a2332" font-weight="700">Covenantal Lexicon Field</text>
+<text x="450" y="68" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#4a5560">Words that orbit ahd / mithaq</text>
+<circle cx="450" cy="280" r="70" fill="#0d6e6e"/>
+<text x="450" y="275" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#fff" font-weight="700">Ahd</text>
+<text x="450" y="295" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#fff" font-weight="700">Mithaq</text>
+<rect x="80" y="140" width="140" height="50" rx="10" fill="#fff" stroke="#b8860b" stroke-width="2"/>
+<text x="150" y="170" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1a2332" font-weight="700">Wad (promise)</text>
+<rect x="680" y="140" width="140" height="50" rx="10" fill="#fff" stroke="#2d6a4f" stroke-width="2"/>
+<text x="750" y="170" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1a2332" font-weight="700">Amanah</text>
+<rect x="80" y="280" width="140" height="50" rx="10" fill="#fff" stroke="#0d6e6e" stroke-width="2"/>
+<text x="150" y="310" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1a2332" font-weight="700">Bayah</text>
+<rect x="680" y="280" width="140" height="50" rx="10" fill="#fff" stroke="#8b3a3a" stroke-width="2"/>
+<text x="750" y="310" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1a2332" font-weight="700">Uqud</text>
+<rect x="80" y="400" width="140" height="50" rx="10" fill="#fff" stroke="#5a6a75" stroke-width="2"/>
+<text x="150" y="430" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1a2332" font-weight="700">Ayman (oaths)</text>
+<rect x="680" y="400" width="140" height="50" rx="10" fill="#fff" stroke="#b8860b" stroke-width="2"/>
+<text x="750" y="430" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1a2332" font-weight="700">Dhimma</text>
+<line x1="220" y1="165" x2="380" y2="250" stroke="#94a3b0" stroke-width="2"/>
+<line x1="680" y1="165" x2="520" y2="250" stroke="#94a3b0" stroke-width="2"/>
+<line x1="220" y1="305" x2="380" y2="280" stroke="#94a3b0" stroke-width="2"/>
+<line x1="680" y1="305" x2="520" y2="280" stroke="#94a3b0" stroke-width="2"/>
+<line x1="220" y1="425" x2="390" y2="320" stroke="#94a3b0" stroke-width="2"/>
+<line x1="680" y1="425" x2="510" y2="320" stroke="#94a3b0" stroke-width="2"/>
+<text x="450" y="490" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#4a5560">Field membership is not identity - read local context</text>
+</svg>

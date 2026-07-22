@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" width="1000" height="700">
+<rect width="1000" height="700" fill="#f4f7f6"/>
+<text x="500" y="95" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="28" fill="#1a2332" font-weight="700">T6-T10 Theses Block 2</text><text x="500" y="125" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#4a5560">Second five theses.</text><rect x="48" y="155" width="168" height="40" rx="8" fill="#0d6e6e"/>
+<text x="132" y="181" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#ffffff" font-weight="700">T6</text>
+<rect x="52" y="207" width="160" height="32" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="132" y="227" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">Hadith order</text>
+<rect x="232" y="155" width="168" height="40" rx="8" fill="#0d6e6e"/>
+<text x="316" y="181" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#ffffff" font-weight="700">T7</text>
+<rect x="236" y="207" width="160" height="32" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="316" y="227" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">Study path</text>
+<rect x="416" y="155" width="168" height="40" rx="8" fill="#0d6e6e"/>
+<text x="500" y="181" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#ffffff" font-weight="700">T8</text>
+<rect x="420" y="207" width="160" height="32" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="500" y="227" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">Contested tag</text>
+<rect x="600" y="155" width="168" height="40" rx="8" fill="#0d6e6e"/>
+<text x="684" y="181" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#ffffff" font-weight="700">T9</text>
+<rect x="604" y="207" width="160" height="32" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="684" y="227" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">CT appendix</text>
+<rect x="784" y="155" width="168" height="40" rx="8" fill="#0d6e6e"/>
+<text x="868" y="181" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#ffffff" font-weight="700">T10</text>
+<rect x="788" y="207" width="160" height="32" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="868" y="227" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">Completion</text><rect x="0" y="628" width="1000" height="72" rx="0" fill="#1a2332"/><text x="60" y="665" text-anchor="start" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#ffffff" font-weight="700">Axioms and Architecture</text><text x="940" y="665" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#b8860b" font-weight="700">Plate 212</text>
+</svg>

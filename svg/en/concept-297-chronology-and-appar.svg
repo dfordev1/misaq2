@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" width="1000" height="700">
+<rect width="1000" height="700" fill="#f4f7f6"/>
+<text x="500" y="95" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="28" fill="#1a2332" font-weight="700">Beginner vs Ultimate Filter</text><text x="500" y="125" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#4a5560">What to read when.</text><rect x="80" y="155" width="380" height="44" rx="10" fill="#0d6e6e"/>
+<text x="270" y="183" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#ffffff" font-weight="700">Beginner</text>
+<rect x="540" y="155" width="380" height="44" rx="10" fill="#8b3a3a"/>
+<text x="730" y="183" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#ffffff" font-weight="700">Ultimate</text>
+<rect x="90" y="215" width="360" height="36" rx="12" fill="#ffffff" stroke="#0d6e6e" stroke-width="2"/>
+<text x="270" y="238" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1a2332">This PDF</text>
+<rect x="90" y="259" width="360" height="36" rx="12" fill="#ffffff" stroke="#0d6e6e" stroke-width="2"/>
+<text x="270" y="282" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1a2332">Spine only</text>
+<rect x="550" y="215" width="360" height="36" rx="12" fill="#ffffff" stroke="#8b3a3a" stroke-width="2"/>
+<text x="730" y="238" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1a2332">Full Summa</text>
+<rect x="550" y="259" width="360" height="36" rx="12" fill="#ffffff" stroke="#8b3a3a" stroke-width="2"/>
+<text x="730" y="282" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1a2332">Tarjih depth</text><rect x="0" y="628" width="1000" height="72" rx="0" fill="#1a2332"/><text x="60" y="665" text-anchor="start" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#ffffff" font-weight="700">Chronology and Apparatus</text><text x="940" y="665" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#b8860b" font-weight="700">Plate 297</text>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="900" height="480">
+<rect width="900" height="480" fill="#f4f7f6"/>
+<text x="450" y="40" text-anchor="middle" font-family="Georgia, serif" font-size="26" fill="#1a2332" font-weight="700">Prophetic Mithaq</text>
+<text x="450" y="68" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#4a5560">Q 33:7 - messengers under solemn compact</text>
+<rect x="350" y="100" width="200" height="55" rx="10" fill="#0d6e6e"/>
+<text x="450" y="133" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#fff" font-weight="700">Allah takes mithaq</text>
+<line x1="450" y1="155" x2="450" y2="190" stroke="#1a2332" stroke-width="3"/>
+<rect x="300" y="190" width="300" height="50" rx="8" fill="#b8860b"/>
+<text x="450" y="220" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#fff" font-weight="700">and from YOU (Prophet)</text>
+<line x1="200" y1="280" x2="700" y2="280" stroke="#0d6e6e" stroke-width="3"/>
+<circle cx="200" cy="280" r="8" fill="#0d6e6e"/>
+<circle cx="325" cy="280" r="8" fill="#0d6e6e"/>
+<circle cx="450" cy="280" r="8" fill="#0d6e6e"/>
+<circle cx="575" cy="280" r="8" fill="#0d6e6e"/>
+<circle cx="700" cy="280" r="8" fill="#0d6e6e"/>
+<text x="200" y="315" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1a2332">Nuh</text>
+<text x="325" y="315" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1a2332">Ibrahim</text>
+<text x="450" y="315" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1a2332">Musa</text>
+<text x="575" y="315" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1a2332">Isa</text>
+<text x="700" y="315" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1a2332">prophets</text>
+<rect x="200" y="360" width="500" height="70" rx="10" fill="#fff" stroke="#0d6e6e" stroke-width="2"/>
+<text x="450" y="390" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#1a2332" font-weight="700">Mithaqan ghalizan - a solemn covenant</text>
+<text x="450" y="415" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#4a5560">Prophethood = covenantal office</text>
+</svg>

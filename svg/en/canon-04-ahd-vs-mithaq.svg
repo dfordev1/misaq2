@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" width="900" height="520">
+<rect width="900" height="520" fill="#f4f7f6"/>
+<text x="450" y="40" text-anchor="middle" font-family="Georgia, serif" font-size="26" fill="#1a2332" font-weight="700">Ahd vs Mithaq</text>
+<text x="450" y="68" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#4a5560">Two lead words - overlap, not rigid walls</text>
+<rect x="60" y="110" width="340" height="320" rx="14" fill="#fff" stroke="#0d6e6e" stroke-width="3"/>
+<rect x="60" y="110" width="340" height="56" rx="14" fill="#0d6e6e"/>
+<text x="230" y="145" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#fff" font-weight="700">Ahd</text>
+<text x="230" y="200" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#1a2332">Commitment / pledge / charge</text>
+<text x="230" y="235" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#4a5560">Often obligation language</text>
+<text x="230" y="280" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1a2332">Examples:</text>
+<text x="230" y="310" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#4a5560">Q 16:91 fulfill</text>
+<text x="230" y="335" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#4a5560">Q 17:34 will be questioned</text>
+<text x="230" y="360" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#4a5560">Q 20:115 Adam</text>
+<text x="230" y="385" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#4a5560">Q 36:60 vs Shaytan</text>
+<rect x="500" y="110" width="340" height="320" rx="14" fill="#fff" stroke="#b8860b" stroke-width="3"/>
+<rect x="500" y="110" width="340" height="56" rx="14" fill="#b8860b"/>
+<text x="670" y="145" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#fff" font-weight="700">Mithaq</text>
+<text x="670" y="200" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#1a2332">Confirmed / solemn compact</text>
+<text x="670" y="235" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#4a5560">Often ratification / solemnity</text>
+<text x="670" y="280" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1a2332">Examples:</text>
+<text x="670" y="310" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#4a5560">Q 7:172 Alast</text>
+<text x="670" y="335" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#4a5560">Q 33:7 prophets</text>
+<text x="670" y="360" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#4a5560">Q 2:83 Bani Israil</text>
+<text x="670" y="385" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#4a5560">Q 4:21 marriage ghaliz</text>
+<rect x="280" y="455" width="340" height="40" rx="8" fill="#1a2332"/>
+<text x="450" y="480" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#fff">Rule: read local context - they can appear together</text>
+</svg>

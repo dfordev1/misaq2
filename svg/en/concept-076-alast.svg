@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" width="1000" height="700">
+<rect width="1000" height="700" fill="#f4f7f6"/>
+<text x="500" y="95" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="28" fill="#1a2332" font-weight="700">Kayf Positions A-D</text><text x="500" y="125" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#4a5560">Modality debate map.</text><rect x="48" y="155" width="214" height="40" rx="8" fill="#0d6e6e"/>
+<text x="155" y="181" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#ffffff" font-weight="700">A</text>
+<rect x="52" y="207" width="206" height="32" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="155" y="227" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">Real assembly</text>
+<rect x="52" y="245" width="206" height="32" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="155" y="265" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">All souls</text>
+<rect x="278" y="155" width="214" height="40" rx="8" fill="#0d6e6e"/>
+<text x="385" y="181" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#ffffff" font-weight="700">B</text>
+<rect x="282" y="207" width="206" height="32" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="385" y="227" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">Representative</text>
+<rect x="282" y="245" width="206" height="32" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="385" y="265" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">Adam seed</text>
+<rect x="508" y="155" width="214" height="40" rx="8" fill="#0d6e6e"/>
+<text x="615" y="181" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#ffffff" font-weight="700">C</text>
+<rect x="512" y="207" width="206" height="32" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="615" y="227" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">Covenant state</text>
+<rect x="512" y="245" width="206" height="32" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="615" y="265" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">Not spatial</text>
+<rect x="738" y="155" width="214" height="40" rx="8" fill="#0d6e6e"/>
+<text x="845" y="181" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#ffffff" font-weight="700">D</text>
+<rect x="742" y="207" width="206" height="32" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="845" y="227" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">Caution</text>
+<rect x="742" y="245" width="206" height="32" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="845" y="265" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">Tag dispute</text><rect x="0" y="628" width="1000" height="72" rx="0" fill="#1a2332"/><text x="60" y="665" text-anchor="start" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#ffffff" font-weight="700">Alast</text><text x="940" y="665" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#b8860b" font-weight="700">Plate 076</text>
+</svg>

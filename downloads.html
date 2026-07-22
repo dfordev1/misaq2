@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Downloads — Islamic Covenant Theology</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="top"><div class="wrap topin">
+  <a class="brand" href="index.html">Islamic <span>Covenant Theology</span></a>
+  <nav class="main">
+    <a href="index.html">Home</a>
+    <a href="browse.html">Diagrams</a>
+    <a href="tafsir.html">Tafsīr</a>
+    <a href="qbank/index.html">Quiz</a>
+    <a href="study.html">Study</a>
+    <a href="downloads.html" class="on">Downloads</a>
+    <a href="read.html">تعارف</a>
+    <a href="about.html" class="hide-s">Method</a>
+  </nav>
+</div></header>
+
+<main class="wrap hub-main">
+  <div class="rule hub-rule"></div>
+  <h1 class="hub-title">Downloads</h1>
+  <p class="hub-lede" id="dl-intro">PDF books and diagram collections.</p>
+  <div class="hub-dl" id="dl-grid"></div>
+</main>
+<script>
+(async function(){
+  const d = await (await fetch('data/downloads.json')).json();
+  const ur = CT.lang()==='ur';
+  document.querySelector('.hub-title').textContent = ur ? d.title_ur : d.title_en;
+  const g = document.getElementById('dl-grid');
+  if (!d.items.length) { g.innerHTML = '<p class="empty">No PDFs synced yet.</p>'; return; }
+  d.items.forEach(it=>{
+    const a = document.createElement('a');
+    a.className = 'hub-dl-card';
+    a.href = 'downloads/'+it.file;
+    a.download = it.file;
+    const mb = (it.bytes/1048576).toFixed(1);
+    a.innerHTML = '<h3>'+(ur?it.title_ur:it.title_en)+'</h3><p>'+(ur?(it.blurb_ur||it.blurb_en):it.blurb_en)+'</p><span class="hub-dl-meta">PDF · '+mb+' MB</span>';
+    g.appendChild(a);
+  });
+})();
+</script>
+<footer class="bot"><div class="wrap">
+  <p>Every diagram and note here is an ijtihādī study aid, not a fatwā.</p>
+</div></footer>
+<script src="app.js"></script>
+
+</body>
+</html>

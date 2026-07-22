@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="900" height="480">
+<rect width="900" height="480" fill="#f4f7f6"/>
+<text x="450" y="40" text-anchor="middle" font-family="Georgia, serif" font-size="26" fill="#1a2332" font-weight="700">Fulfill vs Break</text>
+<text x="450" y="68" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#4a5560">The fidelity fork - Q 16:91 / Q 13:20-25</text>
+<rect x="325" y="100" width="250" height="55" rx="10" fill="#1a2332"/>
+<text x="450" y="133" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#fff" font-weight="700">A covenant / oath is made</text>
+<line x1="450" y1="155" x2="450" y2="200" stroke="#1a2332" stroke-width="3"/>
+<line x1="220" y1="200" x2="680" y2="200" stroke="#1a2332" stroke-width="3"/>
+<line x1="220" y1="200" x2="220" y2="240" stroke="#2d6a4f" stroke-width="3"/>
+<line x1="680" y1="200" x2="680" y2="240" stroke="#8b3a3a" stroke-width="3"/>
+<rect x="100" y="240" width="240" height="160" rx="12" fill="#2d6a4f"/>
+<text x="220" y="280" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#fff" font-weight="700">FULFILL</text>
+<text x="220" y="310" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#d8f3e3">awfu bi-ahd</text>
+<text x="220" y="340" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#d8f3e3">keep amanah</text>
+<text x="220" y="370" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#d8f3e3">reward / success</text>
+<rect x="560" y="240" width="240" height="160" rx="12" fill="#8b3a3a"/>
+<text x="680" y="280" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#fff" font-weight="700">BREAK</text>
+<text x="680" y="310" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#fde8e8">naqd / nakth</text>
+<text x="680" y="340" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#fde8e8">sell for small price</text>
+<text x="680" y="370" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#fde8e8">curse / loss / questioning</text>
+<text x="450" y="450" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#4a5560">Allah is kafil over confirmed oaths (Q 16:91)</text>
+</svg>

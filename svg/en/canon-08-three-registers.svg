@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" width="900" height="560">
+<rect width="900" height="560" fill="#f4f7f6"/>
+<text x="450" y="40" text-anchor="middle" font-family="Georgia, serif" font-size="26" fill="#1a2332" font-weight="700">Three Registers</text>
+<text x="450" y="68" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#4a5560">Same fidelity sky - different ground - do not collapse</text>
+<rect x="40" y="110" width="260" height="280" rx="14" fill="#fff" stroke="#0d6e6e" stroke-width="3"/>
+<rect x="40" y="110" width="260" height="50" rx="14" fill="#0d6e6e"/>
+<text x="170" y="142" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#fff" font-weight="700">Theological</text>
+<text x="170" y="200" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#1a2332">Alast</text>
+<text x="170" y="230" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#1a2332">Prophetic mithaq</text>
+<text x="170" y="270" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#4a5560">Tools: tafsir / creed</text>
+<text x="170" y="300" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#4a5560">Q 7:172 / Q 33:7</text>
+<rect x="320" y="110" width="260" height="280" rx="14" fill="#fff" stroke="#b8860b" stroke-width="3"/>
+<rect x="320" y="110" width="260" height="50" rx="14" fill="#b8860b"/>
+<text x="450" y="142" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#fff" font-weight="700">Communal / Political</text>
+<text x="450" y="200" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#1a2332">Bayah</text>
+<text x="450" y="230" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#1a2332">Treaties / dhimma</text>
+<text x="450" y="270" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#4a5560">Tools: sirah / siyasa</text>
+<text x="450" y="300" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#4a5560">Q 48:10 / Q 9:4</text>
+<rect x="600" y="110" width="260" height="280" rx="14" fill="#fff" stroke="#2d6a4f" stroke-width="3"/>
+<rect x="600" y="110" width="260" height="50" rx="14" fill="#2d6a4f"/>
+<text x="730" y="142" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#fff" font-weight="700">Legal</text>
+<text x="730" y="200" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#1a2332">Uqud</text>
+<text x="730" y="230" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#1a2332">Oaths / contracts</text>
+<text x="730" y="270" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#4a5560">Tools: fiqh</text>
+<text x="730" y="300" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#4a5560">Q 5:1 / Q 5:89</text>
+<rect x="150" y="430" width="600" height="50" rx="10" fill="#1a2332"/>
+<text x="450" y="460" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#fff">Overlap: marriage = legal aqd + mithaq ghaliz (Q 4:21)</text>
+</svg>

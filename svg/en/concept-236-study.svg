@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" width="1000" height="700">
+<rect width="1000" height="700" fill="#f4f7f6"/>
+<text x="500" y="95" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="28" fill="#1a2332" font-weight="700">Common Mistakes</text><text x="500" y="125" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#4a5560">What students do wrong.</text><rect x="230" y="165" width="174" height="38" rx="6" fill="#0d6e6e"/>
+<text x="317" y="189" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#ffffff" font-weight="700">Mistake</text>
+<rect x="410" y="165" width="174" height="38" rx="6" fill="#0d6e6e"/>
+<text x="497" y="189" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#ffffff" font-weight="700">Fix</text>
+<rect x="590" y="165" width="174" height="38" rx="6" fill="#0d6e6e"/>
+<text x="677" y="189" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#ffffff" font-weight="700">Plate</text>
+<rect x="230" y="211" width="174" height="36" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="317" y="233" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">Collapse registers</text>
+<rect x="410" y="211" width="174" height="36" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="497" y="233" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">Tag primary</text>
+<rect x="590" y="211" width="174" height="36" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="677" y="233" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">Registers</text>
+<rect x="230" y="253" width="174" height="36" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="317" y="275" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">Skip proof</text>
+<rect x="410" y="253" width="174" height="36" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="497" y="275" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">Use pipeline</text>
+<rect x="590" y="253" width="174" height="36" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="677" y="275" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">Proof</text>
+<rect x="230" y="295" width="174" height="36" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="317" y="317" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">CT import</text>
+<rect x="410" y="295" width="174" height="36" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="497" y="317" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">Appendix only</text>
+<rect x="590" y="295" width="174" height="36" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="677" y="317" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">Appendix CT</text><rect x="0" y="628" width="1000" height="72" rx="0" fill="#1a2332"/><text x="60" y="665" text-anchor="start" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#ffffff" font-weight="700">Study</text><text x="940" y="665" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#b8860b" font-weight="700">Plate 236</text>
+</svg>

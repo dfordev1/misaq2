@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Study path — Islamic Covenant Theology</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="top"><div class="wrap topin">
+  <a class="brand" href="index.html">Islamic <span>Covenant Theology</span></a>
+  <nav class="main">
+    <a href="index.html">Home</a>
+    <a href="browse.html">Diagrams</a>
+    <a href="tafsir.html">Tafsīr</a>
+    <a href="qbank/index.html">Quiz</a>
+    <a href="study.html" class="on">Study</a>
+    <a href="downloads.html">Downloads</a>
+    <a href="read.html">تعارف</a>
+    <a href="about.html" class="hide-s">Method</a>
+  </nav>
+</div></header>
+
+<main class="wrap hub-main">
+  <div class="rule hub-rule"></div>
+  <h1 class="hub-title">Start here</h1>
+  <p class="hub-lede" id="study-intro"></p>
+  <ol class="hub-steps" id="study-steps"></ol>
+</main>
+<script>
+(async function(){
+  const d = await (await fetch('data/study.json')).json();
+  const ur = CT.lang()==='ur';
+  document.querySelector('.hub-title').textContent = ur ? d.title_ur : d.title_en;
+  document.getElementById('study-intro').textContent = ur ? d.intro_ur : d.intro_en;
+  const ol = document.getElementById('study-steps');
+  d.steps.forEach(s=>{
+    const li = document.createElement('li');
+    li.className = 'hub-step';
+    const a = document.createElement('a');
+    a.href = s.href;
+    if (s.external) a.target = '_blank'; a.rel = 'noopener';
+    a.innerHTML = '<strong>'+(ur?s.title_ur:s.title_en)+'</strong><span>'+(ur?(s.blurb_ur||s.blurb_en):s.blurb_en)+'</span>';
+    li.appendChild(a);
+    ol.appendChild(li);
+  });
+})();
+</script>
+<footer class="bot"><div class="wrap">
+  <p>Every diagram and note here is an ijtihādī study aid, not a fatwā.</p>
+</div></footer>
+<script src="app.js"></script>
+
+</body>
+</html>

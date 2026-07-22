@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" width="900" height="520">
+<rect width="900" height="520" fill="#f4f7f6"/>
+<text x="450" y="40" text-anchor="middle" font-family="Georgia, serif" font-size="26" fill="#1a2332" font-weight="700">Source Hierarchy</text>
+<text x="450" y="68" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#4a5560">What outranks what in this science</text>
+<rect x="150" y="100" width="600" height="58" rx="8" fill="#0d6e6e"/>
+<text x="450" y="125" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#fff" font-weight="700">1 - Quran</text>
+<text x="450" y="145" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#d7f0ef">Final authority for doctrine</text>
+<polygon points="450,185 435,168 465,168" fill="#1a2332"/>
+<rect x="170" y="190" width="560" height="58" rx="8" fill="#147a7a"/>
+<text x="450" y="215" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#fff" font-weight="700">2 - Authentic Sunnah</text>
+<text x="450" y="235" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#d7f0ef">Bukhari and Muslim first</text>
+<polygon points="450,275 435,258 465,258" fill="#1a2332"/>
+<rect x="190" y="280" width="520" height="58" rx="8" fill="#b8860b"/>
+<text x="450" y="305" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#fff" font-weight="700">3 - Classical tafsir</text>
+<text x="450" y="325" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#fff8e7">Tabari / Ibn Kathir / Qurtubi / Razi</text>
+<polygon points="450,365 435,348 465,348" fill="#1a2332"/>
+<rect x="210" y="370" width="480" height="50" rx="8" fill="#5a6a75"/>
+<text x="450" y="400" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#fff" font-weight="700">4 - Kalam / fiqh / tasawwuf (tagged)</text>
+<polygon points="450,447 435,430 465,430" fill="#1a2332"/>
+<rect x="230" y="452" width="440" height="42" rx="8" fill="#94a3b0"/>
+<text x="450" y="478" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#fff" font-weight="700">5 - Modern maps only - not creed</text>
+</svg>

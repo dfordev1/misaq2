@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" width="1000" height="700">
+<rect width="1000" height="700" fill="#f4f7f6"/>
+<text x="500" y="95" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="28" fill="#1a2332" font-weight="700">Dossier Q 2:83</text><text x="500" y="125" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#4a5560">Bani Israil charter dossier.</text><rect x="320" y="165" width="174" height="38" rx="6" fill="#0d6e6e"/>
+<text x="407" y="189" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#ffffff" font-weight="700">Term</text>
+<rect x="500" y="165" width="174" height="38" rx="6" fill="#0d6e6e"/>
+<text x="587" y="189" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#ffffff" font-weight="700">Duty</text>
+<rect x="320" y="211" width="174" height="36" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="407" y="233" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">Tawhid</text>
+<rect x="500" y="211" width="174" height="36" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="587" y="233" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">Yes</text>
+<rect x="320" y="253" width="174" height="36" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="407" y="275" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">Parents</text>
+<rect x="500" y="253" width="174" height="36" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="587" y="275" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">Kind</text>
+<rect x="320" y="295" width="174" height="36" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="407" y="317" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">Salah</text>
+<rect x="500" y="295" width="174" height="36" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="587" y="317" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">Keep</text>
+<rect x="320" y="337" width="174" height="36" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="407" y="359" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">Zakah</text>
+<rect x="500" y="337" width="174" height="36" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="587" y="359" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">Give</text><rect x="0" y="628" width="1000" height="72" rx="0" fill="#1a2332"/><text x="60" y="665" text-anchor="start" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#ffffff" font-weight="700">Dossiers</text><text x="940" y="665" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#b8860b" font-weight="700">Plate 251</text>
+</svg>

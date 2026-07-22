@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" width="1000" height="700">
+<rect width="1000" height="700" fill="#f4f7f6"/>
+<text x="500" y="95" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="28" fill="#1a2332" font-weight="700">Canon: Eschatology Court</text><text x="500" y="125" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#4a5560">Courtroom columns canon.</text><rect x="88" y="155" width="264" height="40" rx="8" fill="#0d6e6e"/>
+<text x="220" y="181" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#ffffff" font-weight="700">Recall</text>
+<rect x="92" y="207" width="256" height="32" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="220" y="227" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">Alast</text>
+<rect x="92" y="245" width="256" height="32" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="220" y="265" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">Ahd</text>
+<rect x="368" y="155" width="264" height="40" rx="8" fill="#0d6e6e"/>
+<text x="500" y="181" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#ffffff" font-weight="700">Question</text>
+<rect x="372" y="207" width="256" height="32" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="500" y="227" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">17:34</text>
+<rect x="372" y="245" width="256" height="32" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="500" y="265" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">Deeds</text>
+<rect x="648" y="155" width="264" height="40" rx="8" fill="#0d6e6e"/>
+<text x="780" y="181" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#ffffff" font-weight="700">Judge</text>
+<rect x="652" y="207" width="256" height="32" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="780" y="227" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">Mercy</text>
+<rect x="652" y="245" width="256" height="32" rx="12" fill="#ffffff" stroke="#4a5560" stroke-width="1"/>
+<text x="780" y="265" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#1a2332">Justice</text><rect x="0" y="628" width="1000" height="72" rx="0" fill="#1a2332"/><text x="60" y="665" text-anchor="start" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#ffffff" font-weight="700">Canon</text><text x="940" y="665" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#b8860b" font-weight="700">Plate 270</text>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" width="900" height="560">
+<rect width="900" height="560" fill="#f4f7f6"/>
+<text x="450" y="40" text-anchor="middle" font-family="Georgia, serif" font-size="26" fill="#1a2332" font-weight="700">Scripture Peoples Pattern</text>
+<text x="450" y="68" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#4a5560">Axis 3 - covenant to remonstrance to warning</text>
+<rect x="40" y="120" width="150" height="100" rx="10" fill="#0d6e6e"/>
+<text x="115" y="160" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#fff" font-weight="700">1. Take</text>
+<text x="115" y="185" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#d7f0ef">mithaq</text>
+<text x="115" y="205" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#d7f0ef">Q 2:83 / 5:12</text>
+<polygon points="200,170 230,170 230,160 260,180 230,200 230,190 200,190" fill="#1a2332"/>
+<rect x="270" y="120" width="150" height="100" rx="10" fill="#147a7a"/>
+<text x="345" y="160" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#fff" font-weight="700">2. Terms</text>
+<text x="345" y="185" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#d7f0ef">tawhid / ethics</text>
+<text x="345" y="205" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#d7f0ef">salah / zakah</text>
+<polygon points="430,170 460,170 460,160 490,180 460,200 460,190 430,190" fill="#1a2332"/>
+<rect x="500" y="120" width="150" height="100" rx="10" fill="#b8860b"/>
+<text x="575" y="160" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#fff" font-weight="700">3. Messengers</text>
+<text x="575" y="185" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#fff8e7">sent again</text>
+<text x="575" y="205" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#fff8e7">Q 5:70</text>
+<polygon points="660,170 690,170 690,160 720,180 690,200 690,190 660,190" fill="#1a2332"/>
+<rect x="730" y="120" width="140" height="100" rx="10" fill="#8b3a3a"/>
+<text x="800" y="160" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#fff" font-weight="700">4. Breach</text>
+<text x="800" y="185" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#fde8e8">naqd</text>
+<text x="800" y="205" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#fde8e8">forget / sell</text>
+<rect x="120" y="280" width="660" height="70" rx="10" fill="#1a2332"/>
+<text x="450" y="310" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#fff" font-weight="700">5. Consequence language</text>
+<text x="450" y="335" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#d7f0ef">curse / hardness / enmity / loss - as Quran states</text>
+<rect x="120" y="380" width="660" height="80" rx="10" fill="#fff" stroke="#b8860b" stroke-width="3"/>
+<text x="450" y="415" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#1a2332" font-weight="700">6. Mirror for Final Ummah</text>
+<text x="450" y="440" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#4a5560">Do not conceal / sell ahd / keep fidelity / stay just</text>
+</svg>

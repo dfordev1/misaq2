@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Lexicon — Islamic Covenant Theology</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="top"><div class="wrap topin">
+  <a class="brand" href="index.html">Islamic <span>Covenant Theology</span></a>
+  <nav class="main">
+    <a href="index.html">Home</a>
+    <a href="browse.html">Diagrams</a>
+    <a href="tafsir.html">Tafsīr</a>
+    <a href="qbank/index.html">Quiz</a>
+    <a href="study.html">Study</a>
+    <a href="downloads.html">Downloads</a>
+    <a href="read.html">تعارف</a>
+    <a href="about.html" class="hide-s">Method</a>
+  </nav>
+</div></header>
+
+<main class="wrap hub-main">
+  <div class="rule hub-rule"></div>
+  <h1 class="hub-title">Lexicon</h1>
+  <p class="hub-lede">Core covenant lexemes in the Mithaq paradigm.</p>
+  <div class="hub-list" id="lex-list"></div>
+</main>
+<script>
+(async function(){
+  const d = await (await fetch('data/lexicon.json')).json();
+  const host = document.getElementById('lex-list');
+  d.terms.forEach(t=>{
+    const art = document.createElement('article');
+    art.className = 'hub-card';
+    art.innerHTML = '<h2>'+t.title+'</h2><p class="hub-sum">'+t.summary+'</p><div class="hub-detail">'+t.html+'</div>';
+    art.querySelector('h2').addEventListener('click', ()=> art.classList.toggle('open'));
+    host.appendChild(art);
+  });
+})();
+</script>
+<footer class="bot"><div class="wrap">
+  <p>Every diagram and note here is an ijtihādī study aid, not a fatwā.</p>
+</div></footer>
+<script src="app.js"></script>
+
+</body>
+</html>

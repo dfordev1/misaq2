@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" width="900" height="560">
+<rect width="900" height="560" fill="#f4f7f6"/>
+<text x="450" y="40" text-anchor="middle" font-family="Georgia, serif" font-size="26" fill="#1a2332" font-weight="700">Eschatology Courtroom</text>
+<text x="450" y="68" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#4a5560">What returns on the Day - simplified</text>
+<rect x="300" y="100" width="300" height="60" rx="10" fill="#0d6e6e"/>
+<text x="450" y="135" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#fff" font-weight="700">Judgment Day</text>
+<line x1="450" y1="160" x2="450" y2="200" stroke="#1a2332" stroke-width="3"/>
+<line x1="150" y1="200" x2="750" y2="200" stroke="#1a2332" stroke-width="3"/>
+<line x1="150" y1="200" x2="150" y2="230" stroke="#0d6e6e" stroke-width="3"/>
+<line x1="300" y1="200" x2="300" y2="230" stroke="#147a7a" stroke-width="3"/>
+<line x1="450" y1="200" x2="450" y2="230" stroke="#8b3a3a" stroke-width="3"/>
+<line x1="600" y1="200" x2="600" y2="230" stroke="#b8860b" stroke-width="3"/>
+<line x1="750" y1="200" x2="750" y2="230" stroke="#2d6a4f" stroke-width="3"/>
+<rect x="70" y="230" width="160" height="100" rx="10" fill="#0d6e6e"/>
+<text x="150" y="270" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#fff" font-weight="700">Alast</text>
+<text x="150" y="295" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#d7f0ef">hujjah</text>
+<rect x="220" y="230" width="160" height="100" rx="10" fill="#147a7a"/>
+<text x="300" y="270" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#fff" font-weight="700">Ahd</text>
+<text x="300" y="295" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#d7f0ef">questioned</text>
+<rect x="370" y="230" width="160" height="100" rx="10" fill="#8b3a3a"/>
+<text x="450" y="270" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#fff" font-weight="700">Sellers</text>
+<text x="450" y="295" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#fde8e8">Q 3:77</text>
+<rect x="520" y="230" width="160" height="100" rx="10" fill="#b8860b"/>
+<text x="600" y="270" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#fff" font-weight="700">Purchase</text>
+<text x="600" y="295" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#fff8e7">Q 9:111</text>
+<rect x="670" y="230" width="160" height="100" rx="10" fill="#2d6a4f"/>
+<text x="750" y="270" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#fff" font-weight="700">Keepers</text>
+<text x="750" y="295" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#d8f3e3">inherit</text>
+<rect x="120" y="380" width="660" height="80" rx="10" fill="#fff" stroke="#1a2332" stroke-width="2"/>
+<text x="450" y="415" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#1a2332" font-weight="700">Mercy limits mechanical entitlement</text>
+<text x="450" y="440" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#4a5560">Islamic frame: tawhid, mercy, accepted deeds - not Christian CT</text>
+</svg>

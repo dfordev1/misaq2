@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" width="900" height="560">
+<rect width="900" height="560" fill="#f4f7f6"/>
+<text x="450" y="40" text-anchor="middle" font-family="Georgia, serif" font-size="24" fill="#1a2332" font-weight="700">Six Axioms of the Mithaq Paradigm</text>
+<text x="450" y="68" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#4a5560">Summa backbone - memorize</text>
+<rect x="40" y="100" width="400" height="60" rx="8" fill="#0d6e6e"/>
+<text x="240" y="135" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#fff" font-weight="700">A1 Lordship - Allah is Rabb</text>
+<rect x="460" y="100" width="400" height="60" rx="8" fill="#147a7a"/>
+<text x="660" y="135" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#fff" font-weight="700">A2 Primordial - Alast binds</text>
+<rect x="40" y="180" width="400" height="60" rx="8" fill="#b8860b"/>
+<text x="240" y="215" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#fff" font-weight="700">A3 Prophetic mithaq</text>
+<rect x="460" y="180" width="400" height="60" rx="8" fill="#2d6a4f"/>
+<text x="660" y="215" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#fff" font-weight="700">A4 Fidelity - keep covenants</text>
+<rect x="40" y="260" width="400" height="60" rx="8" fill="#5a6a75"/>
+<text x="240" y="295" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#fff" font-weight="700">A5 Continuity / warning</text>
+<rect x="460" y="260" width="400" height="60" rx="8" fill="#8b3a3a"/>
+<text x="660" y="295" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#fff" font-weight="700">A6 Eschatology - judged</text>
+<rect x="120" y="360" width="660" height="120" rx="12" fill="#fff" stroke="#1a2332" stroke-width="2"/>
+<text x="450" y="400" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#4a5560">Core sentence</text>
+<text x="450" y="430" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#1a2332" font-weight="700">Allah binds by lordship, specifies by prophecy,</text>
+<text x="450" y="455" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#1a2332" font-weight="700">requires fidelity, and judges the covenant</text>
+</svg>

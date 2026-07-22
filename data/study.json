@@ -1,0 +1,72 @@
+{
+  "title_en": "Start here",
+  "title_ur": "یہاں سے شروع کریں",
+  "intro_en": "A ordered path through the polished misaq2 site — from method to tafsir, concept maps, quiz, and the deep GitHub corpus.",
+  "intro_ur": "پالش شدہ misaq2 سائٹ کا ترتیب شدہ راستہ — منہج سے تفسیر، تصوراتی خاکے، کوíz اور گہرے GitHub ذخیرے تک۔",
+  "steps": [
+    {
+      "n": 1,
+      "title_en": "Method & limits",
+      "title_ur": "منہج اور حدود",
+      "href": "about.html",
+      "blurb_en": "Source hierarchy, six axes, and how to read applied diagrams."
+    },
+    {
+      "n": 2,
+      "title_en": "Urdu introduction",
+      "title_ur": "اردو تعارف",
+      "href": "read.html",
+      "blurb_en": "Six-chapter Urdu primer on ʿahd, mīthāq, amānah and ʿuqūd."
+    },
+    {
+      "n": 3,
+      "title_en": "Mithaq Tafsir (First Edition)",
+      "title_ur": "میثاق تفسیر",
+      "href": "tafsir.html",
+      "blurb_en": "201 covenant loci across 60 sūrahs with Arabic text and study notes."
+    },
+    {
+      "n": 4,
+      "title_en": "Concept maps",
+      "title_ur": "تصوراتی خاکے",
+      "href": "browse.html?part=16",
+      "blurb_en": "312 paradigm concept plates — method, proof, dossiers, and architecture."
+    },
+    {
+      "n": 5,
+      "title_en": "Application quiz",
+      "title_ur": "اطلاقی آزمائش",
+      "href": "qbank/index.html",
+      "blurb_en": "420 scenario questions with diagram plates across 25 domains."
+    },
+    {
+      "n": 6,
+      "title_en": "Covenant lexicon",
+      "title_ur": "معاہداتی لغت",
+      "href": "lexicon.html",
+      "blurb_en": "Core lexemes: ʿahd, mīthāq, amānah, bayʿah, dhimmah, wadʿ, ʿuqūd."
+    },
+    {
+      "n": 7,
+      "title_en": "Hadith dossiers",
+      "title_ur": "حدیث نوٹ",
+      "href": "hadith.html",
+      "blurb_en": "Fifty covenant-themed hadith notes (H01–H50) with grades and Qurʾān links."
+    },
+    {
+      "n": 8,
+      "title_en": "PDF downloads",
+      "title_ur": "PDF ڈاؤن لوڈ",
+      "href": "downloads.html",
+      "blurb_en": "Books and diagram collections for offline study."
+    },
+    {
+      "n": 9,
+      "title_en": "Deep corpus (GitHub)",
+      "title_ur": "گہرا ذخیرہ",
+      "href": "https://dfordev1.github.io/misaq/",
+      "external": true,
+      "blurb_en": "Full Mithaq corpus: QUSX packages, METHOD review, and edition builds."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="900" height="480">
+<rect width="900" height="480" fill="#f4f7f6"/>
+<text x="450" y="40" text-anchor="middle" font-family="Georgia, serif" font-size="26" fill="#1a2332" font-weight="700">Study Path</text>
+<text x="450" y="68" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#4a5560">From foundations to Ultimate Summa</text>
+<rect x="50" y="110" width="140" height="70" rx="10" fill="#0d6e6e"/>
+<text x="120" y="140" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#fff" font-weight="700">00 Method</text>
+<text x="120" y="162" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#d7f0ef">lexicon</text>
+<polygon points="200,145 230,145 230,135 260,155 230,175 230,165 200,165" fill="#1a2332"/>
+<rect x="270" y="110" width="140" height="70" rx="10" fill="#147a7a"/>
+<text x="340" y="140" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#fff" font-weight="700">01 Beginner</text>
+<text x="340" y="162" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#d7f0ef">Alast / fulfill</text>
+<polygon points="420,145 450,145 450,135 480,155 450,175 450,165 420,165" fill="#1a2332"/>
+<rect x="490" y="110" width="140" height="70" rx="10" fill="#b8860b"/>
+<text x="560" y="140" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#fff" font-weight="700">02 Intermediate</text>
+<text x="560" y="162" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#fff8e7">hadith / history</text>
+<polygon points="640,145 670,145 670,135 700,155 670,175 670,165 640,165" fill="#1a2332"/>
+<rect x="710" y="110" width="140" height="70" rx="10" fill="#5a6a75"/>
+<text x="780" y="140" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#fff" font-weight="700">03 Advanced</text>
+<text x="780" y="162" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#e8eef2">debates</text>
+<line x1="780" y1="180" x2="780" y2="230" stroke="#1a2332" stroke-width="3"/>
+<rect x="300" y="230" width="300" height="80" rx="12" fill="#2d6a4f"/>
+<text x="450" y="265" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#fff" font-weight="700">04 Ultimate Summa</text>
+<text x="450" y="290" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#d8f3e3">Mithaq Paradigm + proofs</text>
+<rect x="150" y="350" width="600" height="80" rx="10" fill="#fff" stroke="#1a2332" stroke-width="2"/>
+<text x="450" y="385" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#1a2332" font-weight="700">Do not skip METHOD before Ultimate claims</text>
+<text x="450" y="410" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#4a5560">Keep contested issues labeled contested</text>
+</svg>

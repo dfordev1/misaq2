@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="900" height="480">
+<rect width="900" height="480" fill="#f4f7f6"/>
+<text x="450" y="40" text-anchor="middle" font-family="Georgia, serif" font-size="24" fill="#1a2332" font-weight="700">Not Christian Covenant Theology</text>
+<text x="450" y="68" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#4a5560">Boundary diagram - no syncretism</text>
+<rect x="60" y="120" width="360" height="260" rx="14" fill="#fff" stroke="#8b3a3a" stroke-width="3"/>
+<rect x="60" y="120" width="360" height="50" rx="14" fill="#8b3a3a"/>
+<text x="240" y="150" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#fff" font-weight="700">Christian CT (typical)</text>
+<text x="240" y="200" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1a2332">Works / Grace / Redemption</text>
+<text x="240" y="230" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1a2332">Trinity frameworks</text>
+<text x="240" y="260" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1a2332">Israel/Church typology</text>
+<text x="240" y="290" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1a2332">Federal Adam probation</text>
+<text x="240" y="330" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#8b3a3a" font-weight="700">NOT our frame</text>
+<rect x="480" y="120" width="360" height="260" rx="14" fill="#fff" stroke="#0d6e6e" stroke-width="3"/>
+<rect x="480" y="120" width="360" height="50" rx="14" fill="#0d6e6e"/>
+<text x="660" y="150" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#fff" font-weight="700">Islamic Mithaq Paradigm</text>
+<text x="660" y="200" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1a2332">Ahd / Mithaq from Quran</text>
+<text x="660" y="230" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1a2332">Strict tawhid</text>
+<text x="660" y="260" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1a2332">Prophetic mithaq Q 33:7</text>
+<text x="660" y="290" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#1a2332">Alast lordship testimony</text>
+<text x="660" y="330" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#0d6e6e" font-weight="700">Our frame</text>
+<text x="450" y="430" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#4a5560">Compare only after mastery - lantern outside the house</text>
+</svg>

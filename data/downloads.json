@@ -1,0 +1,46 @@
+{
+  "title_en": "Downloads",
+  "title_ur": "ڈاؤن لوڈ",
+  "items": [
+    {
+      "file": "Mithaq_Tafsir_First_Edition.pdf",
+      "title_en": "Mithaq Tafsir — First Edition",
+      "title_ur": "میثاق تفسیر — پہلا ایڈیشن",
+      "blurb_en": "201 covenant loci with Arabic text and Mithaq commentary.",
+      "blurb_ur": "201 covenant loci with Arabic text and Mithaq commentary.",
+      "bytes": 317529
+    },
+    {
+      "file": "Mithaq_Concept_Diagrams_300.pdf",
+      "title_en": "Mithaq Concept Diagrams (300 plates)",
+      "title_ur": "میثاق تصوراتی خاکے",
+      "blurb_en": "Paradigm concept plates: method, proof, study, and architecture.",
+      "blurb_ur": "Paradigm concept plates: method, proof, study, and architecture.",
+      "bytes": 530422
+    },
+    {
+      "file": "Mithaq_Application_Diagrams.pdf",
+      "title_en": "Mithaq Application Diagrams",
+      "title_ur": "میثاق اطلاقی خاکے",
+      "blurb_en": "Applied covenant diagrams across fifteen life domains.",
+      "blurb_ur": "Applied covenant diagrams across fifteen life domains.",
+      "bytes": 682621
+    },
+    {
+      "file": "Covenant_Theology_Concept_Diagrams.pdf",
+      "title_en": "Covenant Theology Concept Diagrams",
+      "title_ur": "معاہداتی الٰہیات — تصوراتی خاکے",
+      "blurb_en": "Alternate concept-diagram edition (when built).",
+      "blurb_ur": "Alternate concept-diagram edition (when built).",
+      "bytes": 113273
+    },
+    {
+      "file": "Kitab_al_Mithaq_Ultimate_Deep.pdf",
+      "title_en": "Kitāb al-Mīthāq — Ultimate Deep",
+      "title_ur": "کتاب المیثاق — گہرا مطالعہ",
+      "blurb_en": "Full deep corpus book export (when built).",
+      "blurb_ur": "Full deep corpus book export (when built).",
+      "bytes": 859335
+    }
+  ]
+}

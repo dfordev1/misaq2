@@ -1,0 +1,605 @@
+{
+  "count": 50,
+  "entries": [
+    {
+      "id": "H01",
+      "title": "Signs of hypocrite: lies, breaks promise, betrays trust",
+      "grade": "sahih",
+      "collections": "Bukhari, Muslim",
+      "theme": "Amanah and ahd ethic",
+      "axis": "alast",
+      "quran_links": [
+        "4:58",
+        "8:27",
+        "23:8"
+      ]
+    },
+    {
+      "id": "H02",
+      "title": "Four traits of hypocrisy including treachery when covenanting",
+      "grade": "sahih",
+      "collections": "Bukhari, Muslim",
+      "theme": "Covenant fidelity vs nifaq",
+      "axis": "alast",
+      "quran_links": [
+        "2:27",
+        "9:77",
+        "3:77"
+      ]
+    },
+    {
+      "id": "H03",
+      "title": "Render the trust to the one who entrusted you",
+      "grade": "verify",
+      "collections": "Abu Dawud, Tirmidhi",
+      "theme": "Amanah rendering",
+      "axis": "person",
+      "quran_links": [
+        "4:58",
+        "33:72"
+      ]
+    },
+    {
+      "id": "H04",
+      "title": "Whoever does not fulfill trust has no iman",
+      "grade": "verify",
+      "collections": "Tabarani",
+      "theme": "Trust and faith bond",
+      "axis": "person",
+      "quran_links": [
+        "8:27",
+        "70:32"
+      ]
+    },
+    {
+      "id": "H05",
+      "title": "Believer is one from whose tongue and hand Muslims are safe",
+      "grade": "sahih",
+      "collections": "Bukhari, Muslim",
+      "theme": "Social safety as covenant sign",
+      "axis": "person",
+      "quran_links": [
+        "49:10",
+        "23:8"
+      ]
+    },
+    {
+      "id": "H06",
+      "title": "Muslim is brother of Muslim; he does not wrong him",
+      "grade": "sahih",
+      "collections": "Bukhari, Muslim",
+      "theme": "Brotherhood obligation",
+      "axis": "polity",
+      "quran_links": [
+        "49:10",
+        "58:22"
+      ]
+    },
+    {
+      "id": "H07",
+      "title": "Do not envy, hate, or turn backs on one another",
+      "grade": "sahih",
+      "collections": "Bukhari, Muslim",
+      "theme": "Community cohesion",
+      "axis": "polity",
+      "quran_links": [
+        "3:103",
+        "49:10"
+      ]
+    },
+    {
+      "id": "H08",
+      "title": "When he speaks he lies; when he promises he breaks",
+      "grade": "sahih",
+      "collections": "Bukhari, Muslim",
+      "theme": "Hypocrisy and broken word",
+      "axis": "alast",
+      "quran_links": [
+        "63:1",
+        "9:77"
+      ]
+    },
+    {
+      "id": "H09",
+      "title": "Most hated to Allah: quarrelsome oath-breaker",
+      "grade": "sahih",
+      "collections": "Bukhari, Muslim",
+      "theme": "Oath ethics",
+      "axis": "person",
+      "quran_links": [
+        "16:91",
+        "5:89"
+      ]
+    },
+    {
+      "id": "H10",
+      "title": "Bayah upon Islam",
+      "grade": "sahih",
+      "collections": "Bukhari, Muslim",
+      "theme": "Axis 4 entry pledge",
+      "axis": "polity",
+      "quran_links": [
+        "48:10",
+        "60:12"
+      ]
+    },
+    {
+      "id": "H11",
+      "title": "Bayah to hear and obey in ease and hardship",
+      "grade": "sahih",
+      "collections": "Bukhari, Muslim",
+      "theme": "Obedience bond",
+      "axis": "polity",
+      "quran_links": [
+        "48:10",
+        "33:1"
+      ]
+    },
+    {
+      "id": "H12",
+      "title": "Bayah of women upon stipulated conditions",
+      "grade": "sahih",
+      "collections": "Bukhari",
+      "theme": "Women's pledge parallel",
+      "axis": "polity",
+      "quran_links": [
+        "60:12"
+      ]
+    },
+    {
+      "id": "H13",
+      "title": "Bayah al-Ridwan under the tree",
+      "grade": "sahih",
+      "collections": "Bukhari, Muslim",
+      "theme": "Hudaybiyah pledge",
+      "axis": "polity",
+      "quran_links": [
+        "48:18",
+        "48:10"
+      ]
+    },
+    {
+      "id": "H14",
+      "title": "Whoever dies without bayah dies death of jahiliyyah",
+      "grade": "sahih",
+      "collections": "Muslim",
+      "theme": "Political theology — read with fiqh",
+      "axis": "polity",
+      "quran_links": [
+        "48:10",
+        "33:72"
+      ]
+    },
+    {
+      "id": "H15",
+      "title": "Bayah is upon hand not upon sword",
+      "grade": "verify",
+      "collections": "Ahmad",
+      "theme": "Pledge manner",
+      "axis": "polity",
+      "quran_links": [
+        "48:10"
+      ]
+    },
+    {
+      "id": "H16",
+      "title": "Obedience only in what is right",
+      "grade": "sahih",
+      "collections": "Bukhari, Muslim",
+      "theme": "Limits of obedience",
+      "axis": "polity",
+      "quran_links": [
+        "33:1",
+        "4:58"
+      ]
+    },
+    {
+      "id": "H17",
+      "title": "There is no obedience in sin",
+      "grade": "sahih",
+      "collections": "Bukhari, Muslim",
+      "theme": "Moral limit on pledge",
+      "axis": "polity",
+      "quran_links": [
+        "60:12"
+      ]
+    },
+    {
+      "id": "H18",
+      "title": "Muslims bound by their conditions except what forbids haram",
+      "grade": "verify",
+      "collections": "Abu Dawud, Tirmidhi",
+      "theme": "Contract ethic",
+      "axis": "person",
+      "quran_links": [
+        "5:1",
+        "4:21"
+      ]
+    },
+    {
+      "id": "H19",
+      "title": "Believers conditions among themselves are binding",
+      "grade": "sahih",
+      "collections": "Bukhari",
+      "theme": "Mutual stipulations",
+      "axis": "person",
+      "quran_links": [
+        "5:1",
+        "2:282"
+      ]
+    },
+    {
+      "id": "H20",
+      "title": "Warning against wronging a muahid",
+      "grade": "sahih",
+      "collections": "Bukhari",
+      "theme": "Dhimma and protection",
+      "axis": "polity",
+      "quran_links": [
+        "60:8",
+        "9:6"
+      ]
+    },
+    {
+      "id": "H21",
+      "title": "Fulfillment and treachery in war and siyar",
+      "grade": "sahih",
+      "collections": "Bukhari, Muslim",
+      "theme": "Treaty fidelity",
+      "axis": "polity",
+      "quran_links": [
+        "8:56",
+        "9:4",
+        "9:12"
+      ]
+    },
+    {
+      "id": "H22",
+      "title": "Muslims must fulfill their conditions",
+      "grade": "verify",
+      "collections": "Abu Dawud",
+      "theme": "Uqud ethic",
+      "axis": "person",
+      "quran_links": [
+        "5:1",
+        "16:91"
+      ]
+    },
+    {
+      "id": "H23",
+      "title": "Whoever kills muahid will not smell Paradise",
+      "grade": "sahih",
+      "collections": "Bukhari",
+      "theme": "Protected non-combatant",
+      "axis": "polity",
+      "quran_links": [
+        "60:8",
+        "9:6"
+      ]
+    },
+    {
+      "id": "H24",
+      "title": "Treachery does not enter Paradise",
+      "grade": "verify",
+      "collections": "Abu Dawud",
+      "theme": "Treaty treachery",
+      "axis": "polity",
+      "quran_links": [
+        "8:58",
+        "9:8"
+      ]
+    },
+    {
+      "id": "H25",
+      "title": "Oaths are by what you find in your hands",
+      "grade": "sahih",
+      "collections": "Bukhari, Muslim",
+      "theme": "Oath confirmation",
+      "axis": "person",
+      "quran_links": [
+        "16:91",
+        "5:89"
+      ]
+    },
+    {
+      "id": "H26",
+      "title": "Expiation for broken oaths — feed or clothe",
+      "grade": "sahih",
+      "collections": "Bukhari, Muslim",
+      "theme": "Oath expiation path",
+      "axis": "person",
+      "quran_links": [
+        "5:89",
+        "2:225"
+      ]
+    },
+    {
+      "id": "H27",
+      "title": "Marriage is my sunnah; whoever turns away is not of me",
+      "grade": "verify",
+      "collections": "Ibn Majah",
+      "theme": "Marriage solemnity",
+      "axis": "person",
+      "quran_links": [
+        "4:21",
+        "24:33"
+      ]
+    },
+    {
+      "id": "H28",
+      "title": "Best of you are best to their wives",
+      "grade": "sahih",
+      "collections": "Tirmidhi",
+      "theme": "Spousal covenant conduct",
+      "axis": "person",
+      "quran_links": [
+        "4:21",
+        "65:2"
+      ]
+    },
+    {
+      "id": "H29",
+      "title": "Fear Allah regarding women; you took them by amanah of Allah",
+      "grade": "sahih",
+      "collections": "Muslim",
+      "theme": "Marriage as trust",
+      "axis": "person",
+      "quran_links": [
+        "4:21",
+        "33:72"
+      ]
+    },
+    {
+      "id": "H30",
+      "title": "Every child born on fitrah",
+      "grade": "sahih",
+      "collections": "Bukhari, Muslim",
+      "theme": "Fitrah parallel to Alast",
+      "axis": "alast",
+      "quran_links": [
+        "7:172",
+        "30:30"
+      ]
+    },
+    {
+      "id": "H31",
+      "title": "Extraction and testimony narratives on Q 7:172",
+      "grade": "disputed",
+      "collections": "Ahmad, tafsir chains",
+      "theme": "Alast modality support — never override ayah",
+      "axis": "alast",
+      "quran_links": [
+        "7:172",
+        "7:173"
+      ]
+    },
+    {
+      "id": "H32",
+      "title": "Allah created Adam in His image (meaning per scholars)",
+      "grade": "sahih",
+      "collections": "Muslim",
+      "theme": "Human dignity and charge",
+      "axis": "alast",
+      "quran_links": [
+        "7:172",
+        "20:115"
+      ]
+    },
+    {
+      "id": "H33",
+      "title": "Souls were troops; those who recognized each other befriended",
+      "grade": "sahih",
+      "collections": "Bukhari, Muslim",
+      "theme": "Pre-worldly affinity reports",
+      "axis": "alast",
+      "quran_links": [
+        "7:172"
+      ]
+    },
+    {
+      "id": "H34",
+      "title": "Deeds are by intentions",
+      "grade": "sahih",
+      "collections": "Bukhari, Muslim",
+      "theme": "Worship telos and sincerity",
+      "axis": "alast",
+      "quran_links": [
+        "51:56",
+        "2:21"
+      ]
+    },
+    {
+      "id": "H35",
+      "title": "Religion is sincerity to Allah, Book, Messenger, leaders, Muslims",
+      "grade": "sahih",
+      "collections": "Muslim",
+      "theme": "Comprehensive fidelity",
+      "axis": "alast",
+      "quran_links": [
+        "48:10",
+        "33:7"
+      ]
+    },
+    {
+      "id": "H36",
+      "title": "Whoever cheats us is not of us",
+      "grade": "sahih",
+      "collections": "Muslim",
+      "theme": "Commercial honesty",
+      "axis": "person",
+      "quran_links": [
+        "4:58",
+        "5:1"
+      ]
+    },
+    {
+      "id": "H37",
+      "title": "May Allah curse one who gives bribe and takes it",
+      "grade": "verify",
+      "collections": "Tirmidhi",
+      "theme": "Justice in transactions",
+      "axis": "person",
+      "quran_links": [
+        "4:58",
+        "16:90"
+      ]
+    },
+    {
+      "id": "H38",
+      "title": "Rights of neighbor — Jibril kept advising until thought he would inherit",
+      "grade": "sahih",
+      "collections": "Bukhari, Muslim",
+      "theme": "Social covenant duties",
+      "axis": "person",
+      "quran_links": [
+        "4:36",
+        "16:90"
+      ]
+    },
+    {
+      "id": "H39",
+      "title": "Whoever believes in Allah and Last Day let him speak good or remain silent",
+      "grade": "sahih",
+      "collections": "Bukhari, Muslim",
+      "theme": "Speech as trust",
+      "axis": "person",
+      "quran_links": [
+        "49:12",
+        "17:34"
+      ]
+    },
+    {
+      "id": "H40",
+      "title": "Each of you is a shepherd responsible for his flock",
+      "grade": "sahih",
+      "collections": "Bukhari, Muslim",
+      "theme": "Amanah of authority",
+      "axis": "alast",
+      "quran_links": [
+        "33:72",
+        "4:58"
+      ]
+    },
+    {
+      "id": "H41",
+      "title": "Have I conveyed? O Allah bear witness",
+      "grade": "sahih",
+      "collections": "Bukhari",
+      "theme": "Prophetic charge fulfillment",
+      "axis": "prophet",
+      "quran_links": [
+        "33:7",
+        "3:81"
+      ]
+    },
+    {
+      "id": "H42",
+      "title": "All of you are responsible and all of you will be asked",
+      "grade": "verify",
+      "collections": "Abu Dawud",
+      "theme": "Accountability structure",
+      "axis": "alast",
+      "quran_links": [
+        "17:34",
+        "33:72"
+      ]
+    },
+    {
+      "id": "H43",
+      "title": "Feet of servant will not move until asked about life, youth, wealth",
+      "grade": "verify",
+      "collections": "Tirmidhi",
+      "theme": "Eschatological questioning",
+      "axis": "eschaton",
+      "quran_links": [
+        "17:34",
+        "102:8"
+      ]
+    },
+    {
+      "id": "H44",
+      "title": "Whoever has wronged his brother let him settle before Day no dinar",
+      "grade": "sahih",
+      "collections": "Bukhari, Muslim",
+      "theme": "Settle trusts before akhirah",
+      "axis": "eschaton",
+      "quran_links": [
+        "17:34",
+        "4:58"
+      ]
+    },
+    {
+      "id": "H45",
+      "title": "Ahd will be questioned — paired teaching on accountability",
+      "grade": "verify",
+      "collections": "Corpus synthesis",
+      "theme": "Quranic accountability frame",
+      "axis": "eschaton",
+      "quran_links": [
+        "17:34",
+        "36:60"
+      ]
+    },
+    {
+      "id": "H46",
+      "title": "Two blessings many waste: health and free time",
+      "grade": "sahih",
+      "collections": "Bukhari",
+      "theme": "Stewardship of life",
+      "axis": "alast",
+      "quran_links": [
+        "51:56",
+        "103:3"
+      ]
+    },
+    {
+      "id": "H47",
+      "title": "Allah will ask about His favors",
+      "grade": "verify",
+      "collections": "Tirmidhi",
+      "theme": "Divine favor and response",
+      "axis": "eschaton",
+      "quran_links": [
+        "16:91",
+        "17:34"
+      ]
+    },
+    {
+      "id": "H48",
+      "title": "Shafaah belongs to Allah alone",
+      "grade": "sahih",
+      "collections": "Bukhari, Muslim",
+      "theme": "Intercession under divine ahd",
+      "axis": "eschaton",
+      "quran_links": [
+        "19:87",
+        "39:44"
+      ]
+    },
+    {
+      "id": "H49",
+      "title": "Believers mutual love mercy compassion like one body",
+      "grade": "sahih",
+      "collections": "Bukhari, Muslim",
+      "theme": "Community covenant body",
+      "axis": "polity",
+      "quran_links": [
+        "48:29",
+        "49:10"
+      ]
+    },
+    {
+      "id": "H50",
+      "title": "Fulfill trusts on Last Day before deeds weighed",
+      "grade": "verify",
+      "collections": "Corpus synthesis",
+      "theme": "Trust settlement eschatology",
+      "axis": "eschaton",
+      "quran_links": [
+        "4:58",
+        "70:32",
+        "17:34"
+      ]
+    }
+  ]
+}

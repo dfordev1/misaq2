@@ -175,3 +175,34 @@ footer.bot p{margin:0 0 8px;line-height:1.7}
   nav.main a.hide-s{display:none}
   .hero{padding:48px 0 36px}
 }
+/* ---------- hub pages (study, lexicon, hadith, downloads) ---------- */
+.hub-main{padding:52px 0 80px;max-width:860px}
+.hub-rule{width:96px;height:4px;background:var(--gold);margin-bottom:22px}
+.hub-title{font-size:2rem;font-weight:500;margin:0 0 12px}
+.hub-lede{color:#514b41;line-height:1.72;margin:0 0 28px;max-width:62ch}
+.hub-steps{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:14px}
+.hub-step a{display:block;padding:18px 20px;background:var(--card);border:1px solid var(--line);
+  border-radius:5px;transition:.15s}
+.hub-step a:hover{border-color:var(--gold);background:var(--paper2)}
+.hub-step strong{display:block;font-size:1.05rem;margin-bottom:6px;color:var(--teal)}
+.hub-step span{color:#514b41;font-size:.92rem;line-height:1.6}
+.hub-list{display:flex;flex-direction:column;gap:16px}
+.hub-card{background:var(--card);border:1px solid var(--line);border-radius:5px;padding:18px 20px}
+.hub-card h2{margin:0;font-size:1.15rem;color:var(--teal);cursor:pointer;font-weight:500}
+.hub-sum{margin:10px 0 0;color:#514b41;line-height:1.65;font-size:.94rem}
+.hub-detail{display:none;margin-top:14px;padding-top:14px;border-top:1px solid var(--line);
+  font-size:.92rem;line-height:1.7;color:#514b41}
+.hub-card.open .hub-detail{display:block}
+.hub-table-wrap{overflow:auto;border:1px solid var(--line);border-radius:5px;background:var(--card)}
+.hub-table{width:100%;border-collapse:collapse;font-size:.88rem}
+.hub-table th,.hub-table td{padding:10px 14px;text-align:left;border-bottom:1px solid var(--line)}
+.hub-table th{background:var(--paper2);font-weight:600;color:var(--muted);font-size:.78rem;
+  letter-spacing:.06em;text-transform:uppercase}
+.hub-dl{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:18px}
+.hub-dl-card{display:block;padding:20px;background:var(--card);border:1px solid var(--line);
+  border-radius:5px;transition:.15s}
+.hub-dl-card:hover{border-color:var(--teal);box-shadow:var(--shadow)}
+.hub-dl-card h3{margin:0 0 8px;font-size:1.05rem;color:var(--teal);font-weight:500}
+.hub-dl-card p{margin:0 0 12px;color:#514b41;font-size:.9rem;line-height:1.6}
+.hub-dl-meta{font-size:.78rem;color:var(--muted);letter-spacing:.08em;text-transform:uppercase}
+.qbank-top{margin-bottom:24px;border-bottom:1px solid var(--line)}
