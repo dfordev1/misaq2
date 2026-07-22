@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="Georgia, 'Noto Serif', serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#a45c40"/>
+<text x="400" y="46" text-anchor="middle" font-size="11.0" font-weight="normal" fill="#777777">BUSINESS &amp; FINANCE</text>
+<text x="400" y="78" text-anchor="middle" font-size="24.0" font-weight="bold" fill="#2d2d2d">The Employer&#x27;s Duty of Care Cycle</text>
+<path d="M 454.5 156.2 A 128 128 0 0 1 515.8 217.5" fill="none" stroke="#a45c40" stroke-width="2.5" opacity="0.65"/>
+<polygon points="519.6,225.6 510.3,215.2 517.6,211.8" fill="#a45c40" opacity="0.9"/>
+<path d="M 515.8 326.5 A 128 128 0 0 1 454.5 387.8" fill="none" stroke="#a45c40" stroke-width="2.5" opacity="0.65"/>
+<polygon points="446.4,391.6 456.8,382.3 460.2,389.6" fill="#a45c40" opacity="0.9"/>
+<path d="M 345.5 387.8 A 128 128 0 0 1 284.2 326.5" fill="none" stroke="#a45c40" stroke-width="2.5" opacity="0.65"/>
+<polygon points="280.4,318.4 289.7,328.8 282.4,332.2" fill="#a45c40" opacity="0.9"/>
+<path d="M 284.2 217.5 A 128 128 0 0 1 345.5 156.2" fill="none" stroke="#a45c40" stroke-width="2.5" opacity="0.65"/>
+<polygon points="353.6,152.4 343.2,161.7 339.8,154.4" fill="#a45c40" opacity="0.9"/>
+<circle cx="400.0" cy="144.0" r="46" fill="#a45c40"/>
+<path d="M 381.0 141.3 L 396.2 129.9 L 403.8 129.9 L 419.0 141.3 L 412.9 147.4 L 400.0 138.3 L 387.1 147.4 Z" fill="#faf8f3"/>
+<text x="400" y="170" text-anchor="middle" font-size="10.5" font-weight="normal" fill="#faf8f3">Work given</text>
+<circle cx="528.0" cy="272.0" r="46" fill="#a45c40"/>
+<path d="M 528.0 245.8 L 543.2 252.6 L 543.2 267.8 C 543.2 276.9 535.6 281.5 528.0 283.8 C 520.4 281.5 512.8 276.9 512.8 267.8 L 512.8 252.6 Z" fill="#faf8f3"/>
+<text x="528" y="298" text-anchor="middle" font-size="10.5" font-weight="normal" fill="#faf8f3">Safe</text>
+<text x="528" y="310" text-anchor="middle" font-size="10.5" font-weight="normal" fill="#faf8f3">conditions</text>
+<circle cx="400.0" cy="400.0" r="46" fill="#a45c40"/>
+<ellipse cx="400.0" cy="401.9" rx="15.2" ry="4.9" fill="#faf8f3" opacity="0.60"/><ellipse cx="400.0" cy="393.5" rx="15.2" ry="4.9" fill="#faf8f3" opacity="0.80"/><ellipse cx="400.0" cy="385.2" rx="15.2" ry="4.9" fill="#faf8f3" opacity="1.00"/>
+<text x="400" y="426" text-anchor="middle" font-size="10.5" font-weight="normal" fill="#faf8f3">Wage paid</text>
+<circle cx="272.0" cy="272.0" r="46" fill="#a45c40"/>
+<circle cx="272.0" cy="264.0" r="16.7" fill="none" stroke="#faf8f3" stroke-width="3.4"/><line x1="272.0" y1="264.0" x2="272.0" y2="254.1" stroke="#faf8f3" stroke-width="2.7"/><line x1="272.0" y1="264.0" x2="279.6" y2="267.8" stroke="#faf8f3" stroke-width="2.7"/>
+<text x="272" y="298" text-anchor="middle" font-size="10.5" font-weight="normal" fill="#faf8f3">On time</text>
+<text x="400" y="276" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#2d2d2d">renewal of the</text>
+<text x="400" y="292" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#2d2d2d">hire</text>
+<line x1="90" y1="516" x2="710" y2="516" stroke="#c9c2b4" stroke-width="1"/>
+<text x="400" y="540" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">Fair wage, safe conditions, and honest work renew each pay period; break the cycle at</text>
+<text x="400" y="559" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">any point and the covenant of hire fails.</text>
+<text x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#a45c40">Ibn Majah — pay the worker before his sweat dries</text>
+</svg>

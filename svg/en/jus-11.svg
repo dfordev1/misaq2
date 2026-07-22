@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="Georgia, 'Noto Serif', serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#a45c40"/>
+<text x="400" y="46" text-anchor="middle" font-size="11.0" font-weight="normal" fill="#777777">JUSTICE &amp; ACCOUNTABILITY</text>
+<text x="400" y="78" text-anchor="middle" font-size="24.0" font-weight="bold" fill="#2d2d2d">The Punishment That Fits the Breach</text>
+<line x1="400" y1="170" x2="400" y2="380" stroke="#a45c40" stroke-width="7"/>
+<rect x="330" y="380" width="140" height="14" rx="4" fill="#a45c40"/>
+<line x1="200" y1="200" x2="600" y2="200" stroke="#a45c40" stroke-width="6"/>
+<circle cx="400" cy="200" r="13" fill="#2d2d2d"/>
+<line x1="215" y1="200" x2="215" y2="252" stroke="#a45c40" stroke-width="2"/>
+<path d="M 143 252 L 287 252 L 261 306 L 169 306 Z" fill="#ffffff" stroke="#a45c40" stroke-width="2"/>
+<path d="M 215.0 256.9 L 232.6 264.8 L 232.6 282.4 C 232.6 293.0 223.8 298.2 215.0 300.9 C 206.2 298.2 197.4 293.0 197.4 282.4 L 197.4 264.8 Z" fill="#a45c40"/>
+<text x="215" y="336" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#2d2d2d">The breach</text>
+<text x="215" y="352" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#777777">what was actually done</text>
+<line x1="585" y1="200" x2="585" y2="252" stroke="#a45c40" stroke-width="2"/>
+<path d="M 513 252 L 657 252 L 631 306 L 539 306 Z" fill="#ffffff" stroke="#a45c40" stroke-width="2"/>
+<line x1="585.0" y1="258.6" x2="585.0" y2="295.6" stroke="#a45c40" stroke-width="2.6"/><line x1="565.6" y1="263.0" x2="604.4" y2="263.0" stroke="#a45c40" stroke-width="2.6"/><path d="M 557.7 273.6 L 573.6 273.6 L 565.6 284.2 Z" fill="#a45c40"/><path d="M 596.4 273.6 L 612.3 273.6 L 604.4 284.2 Z" fill="#a45c40"/><rect x="574.4" y="295.6" width="21.1" height="3.5" fill="#a45c40"/>
+<text x="585" y="336" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#2d2d2d">The response</text>
+<text x="585" y="352" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#777777">what is actually owed</text>
+<text x="400" y="424" text-anchor="middle" font-size="12.5" font-weight="normal" fill="#777777">proportion, not payback</text>
+<line x1="90" y1="516" x2="710" y2="516" stroke="#c9c2b4" stroke-width="1"/>
+<text x="400" y="540" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">A response to wrongdoing is measured against the wrong itself, not against anger. Excess</text>
+<text x="400" y="559" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">in retaliation is its own injustice.</text>
+<text x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#a45c40">Q17:34</text>
+</svg>

@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Islamic Covenant Theology — ʿAhd, Mīthāq, Amānah</title>
+<meta name="description" content="316 diagrams and a full Urdu introduction applying ʿahd, mīthāq, amānah and ʿuqūd to work, family, money, civic life, technology, conflict and worship.">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="top"><div class="wrap topin">
+  <a class="brand" href="index.html">Islamic <span>Covenant Theology</span></a>
+  <nav class="main">
+    <a href="index.html" class="on">Home</a>
+    <a href="browse.html">Diagrams</a>
+    <a href="read.html">تعارف</a>
+    <a href="about.html" class="hide-s">Method</a>
+  </nav>
+</div></header>
+
+<section class="hero"><div class="wrap">
+  <div class="rule"></div>
+  <h1>Every promise you make is<br><em>already a covenant.</em></h1>
+  <p class="lede">ʿAhd, mīthāq, amānah and ʿuqūd are not a corner of fiqh — they are a
+  structural lens on the whole revelation. This is that lens applied: a full Urdu
+  introduction drawn from Qurʾān, ḥadīth, sīrah and the Islamic sciences, followed by
+  three hundred diagrams putting it to work in ordinary life.</p>
+  <div class="stats">
+    <div class="stat"><b>316</b><span>Diagrams</span></div>
+    <div class="stat"><b>15</b><span>Domains</span></div>
+    <div class="stat"><b>6</b><span>Intro chapters</span></div>
+    <div class="stat"><b>24k</b><span>Urdu words</span></div>
+  </div>
+  <div class="cta">
+    <a class="btn solid" href="browse.html">Browse the diagrams</a>
+    <a class="btn ghost" href="read.html">اردو تعارف پڑھیے</a>
+  </div>
+</div></section>
+
+<section class="wrap" style="padding:56px 0 20px">
+  <h2 style="font-size:1.5rem;font-weight:500;margin:0 0 8px">The fifteen domains</h2>
+  <p style="color:#6a6357;margin:0 0 6px;max-width:62ch;line-height:1.7">
+    Ordered from commerce to crisis — from the contracts we sign without reading to the
+    promises that become impossible to keep.</p>
+  <div class="parts" id="partlist"></div>
+</section>
+
+<section class="wrap" style="padding:44px 0 70px">
+  <h2 style="font-size:1.5rem;font-weight:500;margin:0 0 18px">A few to start with</h2>
+  <div class="grid" id="featured" style="padding-top:0"></div>
+</section>
+
+<footer class="bot"><div class="wrap">
+  <p><strong>A note on authority.</strong> Every diagram here is an ijtihādī application,
+  not a fatwā. Citations point to where a principle is grounded; they do not certify that
+  the application is the only defensible reading.</p>
+  <p>Set in Georgia and Noto Nastaliq Urdu. Qurʾānic Arabic is set in Naskh.</p>
+</div></footer>
+
+<script src="app.js"></script>
+<script>
+(async function(){
+  const d = await CT.data();
+  const rail = document.getElementById('partlist');
+  d.parts.forEach(p=>{
+    const a = document.createElement('a');
+    a.className='chip'; a.href='browse.html?part='+p.n;
+    a.textContent = CT.lang()==='ur' ? p.ur : p.en;
+    rail.appendChild(a);
+  });
+  const picks = ['biz-01','fam-02','dig-03','civ-05','wor-04','cri-06','jus-02','com-08','spc-09'];
+  const items = picks.map(id=>d.items.find(i=>i.id===id)).filter(Boolean);
+  CT.renderGrid(document.getElementById('featured'), items.length?items:d.items.slice(0,9));
+})();
+</script>
+</body>
+</html>

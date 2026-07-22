@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="'Noto Nastaliq Urdu', 'Urdu Typesetting', serif">
+<defs><style>text{font-family:'Noto Nastaliq Urdu', 'Urdu Typesetting', serif;direction:rtl;unicode-bidi:isolate;}text.lat{font-family:Georgia, 'Noto Serif', serif;direction:ltr;}</style><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#a45c40"/>
+<text class="ur" x="400" y="46" text-anchor="middle" font-size="12.8" font-weight="normal" fill="#777777">خاندان و ذاتی زندگی</text>
+<text class="ur" x="400" y="84" text-anchor="middle" font-size="27.8" font-weight="bold" fill="#2d2d2d">جلدی میں بٹتی وراثت</text>
+<rect x="188" y="161" width="200" height="128" rx="12" fill="#ffffff" stroke="#a45c40" stroke-width="1.8"/>
+<ellipse cx="288.0" cy="215.0" rx="18.4" ry="6.0" fill="#a45c40" opacity="0.60"/><ellipse cx="288.0" cy="204.8" rx="18.4" ry="6.0" fill="#a45c40" opacity="0.80"/><ellipse cx="288.0" cy="194.7" rx="18.4" ry="6.0" fill="#a45c40" opacity="1.00"/>
+<text class="ur" x="288" y="249" text-anchor="middle" font-size="13.9" font-weight="bold" fill="#2d2d2d">مقررہ حصہ، بیٹا</text>
+<rect x="412" y="161" width="200" height="128" rx="12" fill="#ffffff" stroke="#a45c40" stroke-width="1.8"/>
+<ellipse cx="512.0" cy="215.0" rx="18.4" ry="6.0" fill="#a45c40" opacity="0.60"/><ellipse cx="512.0" cy="204.8" rx="18.4" ry="6.0" fill="#a45c40" opacity="0.80"/><ellipse cx="512.0" cy="194.7" rx="18.4" ry="6.0" fill="#a45c40" opacity="1.00"/>
+<text class="ur" x="512" y="249" text-anchor="middle" font-size="13.9" font-weight="bold" fill="#2d2d2d">مقررہ حصہ، بیٹی</text>
+<rect x="188" y="311" width="200" height="128" rx="12" fill="#ffffff" stroke="#a45c40" stroke-width="1.8"/>
+<ellipse cx="288.0" cy="365.0" rx="18.4" ry="6.0" fill="#a45c40" opacity="0.60"/><ellipse cx="288.0" cy="354.8" rx="18.4" ry="6.0" fill="#a45c40" opacity="0.80"/><ellipse cx="288.0" cy="344.7" rx="18.4" ry="6.0" fill="#a45c40" opacity="1.00"/>
+<text class="ur" x="288" y="399" text-anchor="middle" font-size="13.9" font-weight="bold" fill="#2d2d2d">مقررہ حصہ، شریکِ</text>
+<text class="ur" x="288" y="422" text-anchor="middle" font-size="13.9" font-weight="bold" fill="#2d2d2d">حیات</text>
+<rect x="412" y="311" width="200" height="128" rx="12" fill="#ffffff" stroke="#a45c40" stroke-width="1.8"/>
+<ellipse cx="512.0" cy="365.0" rx="18.4" ry="6.0" fill="#a45c40" opacity="0.60"/><ellipse cx="512.0" cy="354.8" rx="18.4" ry="6.0" fill="#a45c40" opacity="0.80"/><ellipse cx="512.0" cy="344.7" rx="18.4" ry="6.0" fill="#a45c40" opacity="1.00"/>
+<text class="ur" x="512" y="399" text-anchor="middle" font-size="13.9" font-weight="bold" fill="#2d2d2d">مقررہ حصہ، والدین</text>
+<line x1="90" y1="492" x2="710" y2="492" stroke="#c9c2b4" stroke-width="1"/>
+<text class="ur" x="400" y="526" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">وراثت کے حصے مقررہ حقوق ہیں، احسان نہیں کہ ناپسندیدہ اولاد سے روک لیے جائیں یا</text>
+<text class="ur" x="400" y="553" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">پسندیدہ کو پہلے دے دیے جائیں۔</text>
+<text class="lat" x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#a45c40">Q4:11</text>
+</svg>

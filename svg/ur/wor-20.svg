@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="'Noto Nastaliq Urdu', 'Urdu Typesetting', serif">
+<defs><style>text{font-family:'Noto Nastaliq Urdu', 'Urdu Typesetting', serif;direction:rtl;unicode-bidi:isolate;}text.lat{font-family:Georgia, 'Noto Serif', serif;direction:ltr;}</style><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#0f5257"/>
+<text class="ur" x="400" y="46" text-anchor="middle" font-size="12.8" font-weight="normal" fill="#777777">عبادت و تزکیہ</text>
+<text class="ur" x="400" y="84" text-anchor="middle" font-size="27.8" font-weight="bold" fill="#2d2d2d">رات کی نماز جو کوئی نہیں دیکھتا</text>
+<path d="M 250 150 L 550 150 L 550 300 C 550 372 486 420 400 440 C 314 420 250 372 250 300 Z" fill="#0f5257" opacity="0.10" stroke="#0f5257" stroke-width="2.5"/>
+<text class="ur" x="400" y="176" text-anchor="middle" font-size="15.1" font-weight="bold" fill="#0f5257">بند دروازے کے پیچھے نبھایا</text>
+<circle cx="335" cy="232" r="31" fill="#ffffff" stroke="#0f5257" stroke-width="1.5"/>
+<circle cx="335.0" cy="230.0" r="15.0" fill="none" stroke="#0f5257" stroke-width="3.1"/><line x1="335.0" y1="230.0" x2="335.0" y2="221.2" stroke="#0f5257" stroke-width="2.4"/><line x1="335.0" y1="230.0" x2="341.8" y2="233.4" stroke="#0f5257" stroke-width="2.4"/>
+<text class="ur" x="335" y="282" text-anchor="middle" font-size="13.3" font-weight="normal" fill="#2d2d2d">دیر رات</text>
+<circle cx="465" cy="232" r="31" fill="#ffffff" stroke="#0f5257" stroke-width="1.5"/>
+<path d="M 465.0 243.6 C 443.9 230.7 452.8 215.0 465.0 225.2 C 477.2 215.0 486.1 230.7 465.0 243.6 Z" fill="#0f5257"/>
+<text class="ur" x="465" y="282" text-anchor="middle" font-size="13.3" font-weight="normal" fill="#2d2d2d">بلا تماشائی</text>
+<circle cx="335" cy="328" r="31" fill="#ffffff" stroke="#0f5257" stroke-width="1.5"/>
+<path d="M 318.0 330.8 L 331.6 320.6 L 338.4 320.6 L 352.0 330.8 L 346.6 336.2 L 335.0 328.0 L 323.4 336.2 Z" fill="#0f5257"/>
+<text class="ur" x="335" y="378" text-anchor="middle" font-size="13.3" font-weight="normal" fill="#2d2d2d">پھر بھی کھڑا</text>
+<text class="ur" x="335" y="400" text-anchor="middle" font-size="13.3" font-weight="normal" fill="#2d2d2d">رہا</text>
+<text class="ur" x="400" y="480" text-anchor="middle" font-size="15.1" font-weight="bold" fill="#2d2d2d">اخلاص وہیں جانچا جاتا جہاں کوئی گنتی نہ کرے</text>
+<line x1="90" y1="492" x2="710" y2="492" stroke="#c9c2b4" stroke-width="1"/>
+<text class="ur" x="400" y="526" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">عہد جو تنہائی میں نبھایا جائے، بلا گواہ، وہیں اس کا اخلاص ثابت ہوتا ہے — نہ کہ</text>
+<text class="ur" x="400" y="553" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">تماشے کے لیے کیا گیا عہد۔</text>
+<text class="lat" x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#0f5257">Bukhari, Kitab al-Iman — the sign of the hypocrite includes acting for show</text>
+</svg>

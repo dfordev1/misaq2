@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="'Noto Nastaliq Urdu', 'Urdu Typesetting', serif">
+<defs><style>text{font-family:'Noto Nastaliq Urdu', 'Urdu Typesetting', serif;direction:rtl;unicode-bidi:isolate;}text.lat{font-family:Georgia, 'Noto Serif', serif;direction:ltr;}</style><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#2e6f40"/>
+<text class="ur" x="400" y="46" text-anchor="middle" font-size="12.8" font-weight="normal" fill="#777777">عدل و جواب دہی</text>
+<text class="ur" x="400" y="84" text-anchor="middle" font-size="27.8" font-weight="bold" fill="#2d2d2d">قرض جو مقروض سے زیادہ جیتا ہے</text>
+<rect x="81" y="200" width="140" height="150" rx="12" fill="#2e6f40" opacity="0.55"/>
+<circle cx="151.0" cy="231.4" r="12.4" fill="#faf8f3"/><path d="M 128.7 282.2 a 22.3 28.5 0 0 1 44.6 0 Z" fill="#faf8f3"/>
+<text class="ur" x="151" y="302" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#faf8f3">ذمہ داری بنی</text>
+<line x1="225" y1="275" x2="241" y2="275" stroke="#2d2d2d" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="247" y="200" width="140" height="150" rx="12" fill="#2e6f40" opacity="0.70"/>
+<circle cx="317.0" cy="250.0" r="27.3" fill="none" stroke="#faf8f3" stroke-width="5.6"/><line x1="317.0" y1="250.0" x2="317.0" y2="233.9" stroke="#faf8f3" stroke-width="4.3"/><line x1="317.0" y1="250.0" x2="329.4" y2="256.2" stroke="#faf8f3" stroke-width="4.3"/>
+<text class="ur" x="317" y="302" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#faf8f3">فرد فوت ہوا</text>
+<line x1="391" y1="275" x2="407" y2="275" stroke="#2d2d2d" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="413" y="200" width="140" height="150" rx="12" fill="#2e6f40" opacity="0.85"/>
+<rect x="463.2" y="222.7" width="39.7" height="54.6" rx="3.1" fill="#faf8f3"/><rect x="470.6" y="232.6" width="24.8" height="3.1" fill="#2e6f40" opacity="0.85"/><rect x="470.6" y="243.2" width="24.8" height="3.1" fill="#2e6f40" opacity="0.85"/><rect x="470.6" y="253.7" width="24.8" height="3.1" fill="#2e6f40" opacity="0.85"/><rect x="470.6" y="264.3" width="24.8" height="3.1" fill="#2e6f40" opacity="0.85"/>
+<text class="ur" x="483" y="302" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#faf8f3">ترکہ نمٹایا</text>
+<text class="ur" x="483" y="326" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#faf8f3">گیا</text>
+<line x1="557" y1="275" x2="573" y2="275" stroke="#2d2d2d" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="579" y="200" width="140" height="150" rx="12" fill="#2e6f40" opacity="1.00"/>
+<ellipse cx="649.0" cy="266.1" rx="24.8" ry="8.1" fill="#faf8f3" opacity="0.60"/><ellipse cx="649.0" cy="252.5" rx="24.8" ry="8.1" fill="#faf8f3" opacity="0.80"/><ellipse cx="649.0" cy="238.8" rx="24.8" ry="8.1" fill="#faf8f3" opacity="1.00"/>
+<text class="ur" x="649" y="302" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#faf8f3">قرض پھر بھی</text>
+<text class="ur" x="649" y="326" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#faf8f3">ادا</text>
+<text class="ur" x="400" y="392" text-anchor="middle" font-size="14.5" font-weight="normal" fill="#777777">جواب دہی فرد سے زیادہ باقی رہتی ہے</text>
+<line x1="90" y1="492" x2="710" y2="492" stroke="#c9c2b4" stroke-width="1"/>
+<text class="ur" x="400" y="526" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">عہد کی ذمہ داری فرد کے ساتھ ختم نہیں ہوتی — ترکہ، جانشین یا وارث اب بھی وہی بوجھ</text>
+<text class="ur" x="400" y="553" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">اٹھاتا ہے۔</text>
+<text class="lat" x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#2e6f40">Q17:34</text>
+</svg>

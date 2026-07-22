@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="Georgia, 'Noto Serif', serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#0f5257"/>
+<text x="400" y="46" text-anchor="middle" font-size="11.0" font-weight="normal" fill="#777777">TRAVEL, MIGRATION &amp; HOSPITALITY</text>
+<text x="400" y="78" text-anchor="middle" font-size="24.0" font-weight="bold" fill="#2d2d2d">The Sanctuary That Cannot Be Stormed</text>
+<path d="M 250 150 L 550 150 L 550 300 C 550 372 486 420 400 440 C 314 420 250 372 250 300 Z" fill="#0f5257" opacity="0.10" stroke="#0f5257" stroke-width="2.5"/>
+<text x="400" y="176" text-anchor="middle" font-size="13.0" font-weight="bold" fill="#0f5257">sanctuary — held in amānah</text>
+<circle cx="335" cy="232" r="31" fill="#ffffff" stroke="#0f5257" stroke-width="1.5"/>
+<circle cx="335.0" cy="219.8" r="6.8" fill="#0f5257"/><path d="M 322.8 247.7 a 12.2 15.6 0 0 1 24.5 0 Z" fill="#0f5257"/>
+<text x="335" y="282" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#2d2d2d">The fearful</text>
+<circle cx="465" cy="232" r="31" fill="#ffffff" stroke="#0f5257" stroke-width="1.5"/>
+<path d="M 465.0 213.7 L 478.6 219.8 L 478.6 233.4 C 478.6 241.6 471.8 245.6 465.0 247.7 C 458.2 245.6 451.4 241.6 451.4 233.4 L 451.4 219.8 Z" fill="#0f5257"/>
+<text x="465" y="282" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#2d2d2d">Safety</text>
+<circle cx="335" cy="328" r="31" fill="#ffffff" stroke="#0f5257" stroke-width="1.5"/>
+<path d="M 318.0 326.0 L 335.0 310.7 L 352.0 326.0 Z" fill="#0f5257"/><rect x="322.8" y="326.0" width="24.5" height="15.6" fill="#0f5257" opacity="0.85"/>
+<text x="335" y="378" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#2d2d2d">Refuge itself</text>
+<text x="400" y="480" text-anchor="middle" font-size="13.0" font-weight="bold" fill="#2d2d2d">The sanctuary is guarded, never a hunting ground</text>
+<line x1="90" y1="516" x2="710" y2="516" stroke="#c9c2b4" stroke-width="1"/>
+<text x="400" y="540" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">A place of sanctuary holds the fearful in trust; violating that refuge for vengeance or</text>
+<text x="400" y="559" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">profit betrays what sanctuary means.</text>
+<text x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#0f5257">Q3:97 — whoever enters it is safe</text>
+</svg>

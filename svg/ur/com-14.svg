@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="'Noto Nastaliq Urdu', 'Urdu Typesetting', serif">
+<defs><style>text{font-family:'Noto Nastaliq Urdu', 'Urdu Typesetting', serif;direction:rtl;unicode-bidi:isolate;}text.lat{font-family:Georgia, 'Noto Serif', serif;direction:ltr;}</style><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#a45c40"/>
+<text class="ur" x="400" y="46" text-anchor="middle" font-size="12.8" font-weight="normal" fill="#777777">معاشرہ و ماحول</text>
+<text class="ur" x="400" y="84" text-anchor="middle" font-size="27.8" font-weight="bold" fill="#2d2d2d">جب گلی کو موت کی خبر ملے</text>
+<rect x="188" y="161" width="200" height="128" rx="12" fill="#ffffff" stroke="#a45c40" stroke-width="1.8"/>
+<circle cx="288.0" cy="189.2" r="9.2" fill="#a45c40"/><path d="M 271.4 226.9 a 16.6 21.2 0 0 1 33.1 0 Z" fill="#a45c40"/>
+<text class="ur" x="288" y="249" text-anchor="middle" font-size="13.9" font-weight="bold" fill="#2d2d2d">تدفین میں شرکت</text>
+<rect x="412" y="161" width="200" height="128" rx="12" fill="#ffffff" stroke="#a45c40" stroke-width="1.8"/>
+<path d="M 512.0 221.4 C 483.5 203.9 495.4 182.8 512.0 196.6 C 528.6 182.8 540.5 203.9 512.0 221.4 Z" fill="#a45c40"/>
+<text class="ur" x="512" y="249" text-anchor="middle" font-size="13.9" font-weight="bold" fill="#2d2d2d">خاندان کی تسلی</text>
+<rect x="188" y="311" width="200" height="128" rx="12" fill="#ffffff" stroke="#a45c40" stroke-width="1.8"/>
+<rect x="275.1" y="331.8" width="25.8" height="42.3" rx="4.1" fill="#a45c40"/><rect x="278.8" y="337.4" width="18.4" height="26.7" fill="#ffffff" opacity="0.9"/>
+<text class="ur" x="288" y="399" text-anchor="middle" font-size="13.9" font-weight="bold" fill="#2d2d2d">پکا کھانا لانا</text>
+<rect x="412" y="311" width="200" height="128" rx="12" fill="#ffffff" stroke="#a45c40" stroke-width="1.8"/>
+<circle cx="512.0" cy="353.0" r="20.2" fill="none" stroke="#a45c40" stroke-width="4.1"/><line x1="512.0" y1="353.0" x2="512.0" y2="341.0" stroke="#a45c40" stroke-width="3.2"/><line x1="512.0" y1="353.0" x2="521.2" y2="357.6" stroke="#a45c40" stroke-width="3.2"/>
+<text class="ur" x="512" y="399" text-anchor="middle" font-size="13.9" font-weight="bold" fill="#2d2d2d">بعد کے دنوں تک</text>
+<text class="ur" x="512" y="422" text-anchor="middle" font-size="13.9" font-weight="bold" fill="#2d2d2d">ساتھ</text>
+<line x1="90" y1="492" x2="710" y2="492" stroke="#c9c2b4" stroke-width="1"/>
+<text class="ur" x="400" y="526" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">ہمسائے کی تدفین میں شرکت، غمزدہ کی تسلی، اور بعد میں کھانا پہنچانا واجب برادرانہ</text>
+<text class="ur" x="400" y="553" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">فرائض ہیں، اختیاری اشارے نہیں۔</text>
+<text class="lat" x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#a45c40">Bukhari — Kitab al-Adab, rights of the neighbour</text>
+</svg>

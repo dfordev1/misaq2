@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="Georgia, 'Noto Serif', serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#a45c40"/>
+<text x="400" y="46" text-anchor="middle" font-size="11.0" font-weight="normal" fill="#777777">SPEECH, MEDIA &amp; TESTIMONY</text>
+<text x="400" y="78" text-anchor="middle" font-size="24.0" font-weight="bold" fill="#2d2d2d">Signing the Lease You Never Read</text>
+<rect x="81" y="200" width="140" height="150" rx="12" fill="#a45c40" opacity="0.55"/>
+<rect x="131.2" y="222.7" width="39.7" height="54.6" rx="3.1" fill="#faf8f3"/><rect x="138.6" y="232.6" width="24.8" height="3.1" fill="#a45c40" opacity="0.85"/><rect x="138.6" y="243.2" width="24.8" height="3.1" fill="#a45c40" opacity="0.85"/><rect x="138.6" y="253.7" width="24.8" height="3.1" fill="#a45c40" opacity="0.85"/><rect x="138.6" y="264.3" width="24.8" height="3.1" fill="#a45c40" opacity="0.85"/>
+<text x="151" y="302" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#faf8f3">Document handed</text>
+<line x1="225" y1="275" x2="241" y2="275" stroke="#2d2d2d" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="247" y="200" width="140" height="150" rx="12" fill="#a45c40" opacity="0.70"/>
+<circle cx="317.0" cy="231.4" r="12.4" fill="#faf8f3"/><path d="M 294.7 282.2 a 22.3 28.5 0 0 1 44.6 0 Z" fill="#faf8f3"/>
+<text x="317" y="302" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#faf8f3">Signed unread</text>
+<line x1="391" y1="275" x2="407" y2="275" stroke="#2d2d2d" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="413" y="200" width="140" height="150" rx="12" fill="#a45c40" opacity="0.85"/>
+<path d="M 469.4 246.3 L 469.4 233.9 a 13.6 13.6 0 0 1 27.3 0 L 496.6 246.3" fill="none" stroke="#faf8f3" stroke-width="5.6"/><rect x="461.9" y="246.3" width="42.2" height="29.8" rx="3.7" fill="#faf8f3"/>
+<text x="483" y="302" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#faf8f3">Terms now bind</text>
+<line x1="557" y1="275" x2="573" y2="275" stroke="#2d2d2d" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="579" y="200" width="140" height="150" rx="12" fill="#a45c40" opacity="1.00"/>
+<circle cx="649.0" cy="250.0" r="27.3" fill="none" stroke="#faf8f3" stroke-width="5.6"/><line x1="649.0" y1="250.0" x2="649.0" y2="233.9" stroke="#faf8f3" stroke-width="4.3"/><line x1="649.0" y1="250.0" x2="661.4" y2="256.2" stroke="#faf8f3" stroke-width="4.3"/>
+<text x="649" y="302" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#faf8f3">Ignorance no</text>
+<text x="649" y="317" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#faf8f3">excuse</text>
+<text x="400" y="392" text-anchor="middle" font-size="12.5" font-weight="normal" fill="#777777">do not pursue what you have no knowledge of</text>
+<line x1="90" y1="516" x2="710" y2="516" stroke="#c9c2b4" stroke-width="1"/>
+<text x="400" y="540" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">A signature is a form of testimony that you examined the terms. Signing blind does not</text>
+<text x="400" y="559" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">void the covenant it seals, it just makes the ignorance yours.</text>
+<text x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#a45c40">Q17:36</text>
+</svg>

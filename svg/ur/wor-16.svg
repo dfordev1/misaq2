@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="'Noto Nastaliq Urdu', 'Urdu Typesetting', serif">
+<defs><style>text{font-family:'Noto Nastaliq Urdu', 'Urdu Typesetting', serif;direction:rtl;unicode-bidi:isolate;}text.lat{font-family:Georgia, 'Noto Serif', serif;direction:ltr;}</style><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#0f5257"/>
+<text class="ur" x="400" y="46" text-anchor="middle" font-size="12.8" font-weight="normal" fill="#777777">عبادت و تزکیہ</text>
+<text class="ur" x="400" y="84" text-anchor="middle" font-size="27.8" font-weight="bold" fill="#2d2d2d">عمل سے پہلے دوسری سوچ</text>
+<line x1="400.0" y1="216.0" x2="400.0" y2="180.0" stroke="#0f5257" stroke-width="2" opacity="0.6"/>
+<circle cx="400.0" cy="140.0" r="38" fill="#ffffff" stroke="#0f5257" stroke-width="2"/>
+<path d="M 380.0 141.6 L 396.0 129.6 L 404.0 129.6 L 420.0 141.6 L 413.6 148.0 L 400.0 138.4 L 386.4 148.0 Z" fill="#0f5257"/>
+<text class="ur" x="400" y="196" text-anchor="middle" font-size="13.9" font-weight="normal" fill="#2d2d2d">بولنے سے پہلے</text>
+<line x1="466.0" y1="282.0" x2="502.0" y2="282.0" stroke="#0f5257" stroke-width="2" opacity="0.6"/>
+<circle cx="542.0" cy="282.0" r="38" fill="#ffffff" stroke="#0f5257" stroke-width="2"/>
+<ellipse cx="542.0" cy="288.4" rx="16.0" ry="5.2" fill="#0f5257" opacity="0.60"/><ellipse cx="542.0" cy="279.6" rx="16.0" ry="5.2" fill="#0f5257" opacity="0.80"/><ellipse cx="542.0" cy="270.8" rx="16.0" ry="5.2" fill="#0f5257" opacity="1.00"/>
+<text class="ur" x="542" y="338" text-anchor="middle" font-size="13.9" font-weight="normal" fill="#2d2d2d">خرچ سے پہلے</text>
+<line x1="400.0" y1="348.0" x2="400.0" y2="384.0" stroke="#0f5257" stroke-width="2" opacity="0.6"/>
+<circle cx="400.0" cy="424.0" r="38" fill="#ffffff" stroke="#0f5257" stroke-width="2"/>
+<circle cx="400.0" cy="420.0" r="17.6" fill="none" stroke="#0f5257" stroke-width="3.6"/><line x1="400.0" y1="420.0" x2="400.0" y2="409.6" stroke="#0f5257" stroke-width="2.8"/><line x1="400.0" y1="420.0" x2="408.0" y2="424.0" stroke="#0f5257" stroke-width="2.8"/>
+<text class="ur" x="400" y="480" text-anchor="middle" font-size="13.9" font-weight="normal" fill="#2d2d2d">تاخیر سے پہلے</text>
+<line x1="334.0" y1="282.0" x2="298.0" y2="282.0" stroke="#0f5257" stroke-width="2" opacity="0.6"/>
+<circle cx="258.0" cy="282.0" r="38" fill="#ffffff" stroke="#0f5257" stroke-width="2"/>
+<circle cx="258.0" cy="266.0" r="8.0" fill="#0f5257"/><path d="M 243.6 298.8 a 14.4 18.4 0 0 1 28.8 0 Z" fill="#0f5257"/>
+<text class="ur" x="258" y="338" text-anchor="middle" font-size="13.9" font-weight="normal" fill="#2d2d2d">فیصلے سے پہلے</text>
+<circle cx="400" cy="282" r="62" fill="#0f5257"/>
+<text class="ur" x="400" y="284" text-anchor="middle" font-size="16.2" font-weight="bold" fill="#faf8f3">تقویٰ —</text>
+<text class="ur" x="400" y="311" text-anchor="middle" font-size="16.2" font-weight="bold" fill="#faf8f3">عہد کا</text>
+<text class="ur" x="400" y="339" text-anchor="middle" font-size="16.2" font-weight="bold" fill="#faf8f3">شعور</text>
+<line x1="90" y1="492" x2="710" y2="492" stroke="#c9c2b4" stroke-width="1"/>
+<text class="ur" x="400" y="526" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">تقویٰ کوئی اکلوتا عمل نہیں بلکہ گفتگو، مال اور وقت میں چلنے والا شعور ہے — ہر</text>
+<text class="ur" x="400" y="553" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">انتخاب میں یاد کیا گیا عہد۔</text>
+<text class="lat" x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#0f5257">Q3:76 — whoever fulfils his covenant and fears Allah</text>
+</svg>

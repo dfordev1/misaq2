@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="'Noto Nastaliq Urdu', 'Urdu Typesetting', serif">
+<defs><style>text{font-family:'Noto Nastaliq Urdu', 'Urdu Typesetting', serif;direction:rtl;unicode-bidi:isolate;}text.lat{font-family:Georgia, 'Noto Serif', serif;direction:ltr;}</style><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#0f5257"/>
+<text class="ur" x="400" y="46" text-anchor="middle" font-size="12.8" font-weight="normal" fill="#777777">معاشرہ و ماحول</text>
+<text class="ur" x="400" y="84" text-anchor="middle" font-size="27.8" font-weight="bold" fill="#2d2d2d">زمین بطور امانت، عطیۂ مطلق نہیں</text>
+<line x1="400.0" y1="216.0" x2="400.0" y2="180.0" stroke="#0f5257" stroke-width="2" opacity="0.6"/>
+<circle cx="400.0" cy="140.0" r="38" fill="#ffffff" stroke="#0f5257" stroke-width="2"/>
+<rect x="397.6" y="138.4" width="4.8" height="16.0" fill="#0f5257"/><circle cx="400.0" cy="128.8" r="12.0" fill="#0f5257"/><circle cx="390.4" cy="136.8" r="8.0" fill="#0f5257" opacity="0.85"/><circle cx="409.6" cy="136.8" r="8.0" fill="#0f5257" opacity="0.85"/>
+<text class="ur" x="400" y="196" text-anchor="middle" font-size="13.9" font-weight="normal" fill="#2d2d2d">مٹی اور جنگل</text>
+<line x1="466.0" y1="282.0" x2="502.0" y2="282.0" stroke="#0f5257" stroke-width="2" opacity="0.6"/>
+<circle cx="542.0" cy="282.0" r="38" fill="#ffffff" stroke="#0f5257" stroke-width="2"/>
+<path d="M 542.0 259.6 C 555.6 276.4 556.4 295.6 542.0 295.6 C 527.6 295.6 528.4 276.4 542.0 259.6 Z" fill="#0f5257"/>
+<text class="ur" x="542" y="338" text-anchor="middle" font-size="13.9" font-weight="normal" fill="#2d2d2d">دریا اور بارش</text>
+<line x1="400.0" y1="348.0" x2="400.0" y2="384.0" stroke="#0f5257" stroke-width="2" opacity="0.6"/>
+<circle cx="400.0" cy="424.0" r="38" fill="#ffffff" stroke="#0f5257" stroke-width="2"/>
+<circle cx="400.0" cy="420.0" r="17.6" fill="#0f5257"/><ellipse cx="400.0" cy="420.0" rx="7.2" ry="17.6" fill="none" stroke="#ffffff" stroke-width="1.4" opacity="0.85"/><line x1="382.4" y1="420.0" x2="417.6" y2="420.0" stroke="#ffffff" stroke-width="1.4" opacity="0.85"/>
+<text class="ur" x="400" y="480" text-anchor="middle" font-size="13.9" font-weight="normal" fill="#2d2d2d">زمین اور فضا</text>
+<line x1="334.0" y1="282.0" x2="298.0" y2="282.0" stroke="#0f5257" stroke-width="2" opacity="0.6"/>
+<circle cx="258.0" cy="282.0" r="38" fill="#ffffff" stroke="#0f5257" stroke-width="2"/>
+<path d="M 258.0 294.0 C 233.2 278.8 243.6 260.4 258.0 272.4 C 272.4 260.4 282.8 278.8 258.0 294.0 Z" fill="#0f5257"/>
+<text class="ur" x="258" y="338" text-anchor="middle" font-size="13.9" font-weight="normal" fill="#2d2d2d">جانور اور</text>
+<text class="ur" x="258" y="361" text-anchor="middle" font-size="13.9" font-weight="normal" fill="#2d2d2d">انسان</text>
+<circle cx="400" cy="282" r="62" fill="#0f5257"/>
+<text class="ur" x="400" y="284" text-anchor="middle" font-size="16.2" font-weight="bold" fill="#faf8f3">خلافت —</text>
+<text class="ur" x="400" y="311" text-anchor="middle" font-size="16.2" font-weight="bold" fill="#faf8f3">زمین بطور</text>
+<text class="ur" x="400" y="339" text-anchor="middle" font-size="16.2" font-weight="bold" fill="#faf8f3">امانت</text>
+<line x1="90" y1="492" x2="710" y2="492" stroke="#c9c2b4" stroke-width="1"/>
+<text class="ur" x="400" y="526" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">خلافت انسان کا زمین پر مقام سونپی گئی امانت بتاتی ہے، غیرمشروط ملکیت نہیں — ہر</text>
+<text class="ur" x="400" y="553" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">استعمال دینے والے کو جواب دہ ہے۔</text>
+<text class="lat" x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#0f5257">Q2:30; Q33:72</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="Georgia, 'Noto Serif', serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#0f5257"/>
+<text x="400" y="46" text-anchor="middle" font-size="11.0" font-weight="normal" fill="#777777">EDUCATION &amp; KNOWLEDGE</text>
+<text x="400" y="78" text-anchor="middle" font-size="24.0" font-weight="bold" fill="#2d2d2d">The Faith You Hand to Your Child</text>
+<line x1="400.0" y1="216.0" x2="400.0" y2="180.0" stroke="#0f5257" stroke-width="2" opacity="0.6"/>
+<circle cx="400.0" cy="140.0" r="38" fill="#ffffff" stroke="#0f5257" stroke-width="2"/>
+<path d="M 400.0 152.0 C 375.2 136.8 385.6 118.4 400.0 130.4 C 414.4 118.4 424.8 136.8 400.0 152.0 Z" fill="#0f5257"/>
+<text x="400" y="196" text-anchor="middle" font-size="12.0" font-weight="normal" fill="#2d2d2d">Belief</text>
+<line x1="466.0" y1="282.0" x2="502.0" y2="282.0" stroke="#0f5257" stroke-width="2" opacity="0.6"/>
+<circle cx="542.0" cy="282.0" r="38" fill="#ffffff" stroke="#0f5257" stroke-width="2"/>
+<path d="M 542.0 264.4 C 530.0 258.0 521.2 262.0 521.2 264.4 L 521.2 291.6 C 521.2 289.2 530.0 286.0 542.0 291.6 C 554.0 286.0 562.8 289.2 562.8 291.6 L 562.8 264.4 C 562.8 262.0 554.0 258.0 542.0 264.4 Z" fill="#0f5257"/><line x1="542.0" y1="264.4" x2="542.0" y2="291.6" stroke="#ffffff" stroke-width="1.4"/>
+<text x="542" y="338" text-anchor="middle" font-size="12.0" font-weight="normal" fill="#2d2d2d">Scripture</text>
+<line x1="400.0" y1="348.0" x2="400.0" y2="384.0" stroke="#0f5257" stroke-width="2" opacity="0.6"/>
+<circle cx="400.0" cy="424.0" r="38" fill="#ffffff" stroke="#0f5257" stroke-width="2"/>
+<path d="M 380.0 425.6 L 396.0 413.6 L 404.0 413.6 L 420.0 425.6 L 413.6 432.0 L 400.0 422.4 L 386.4 432.0 Z" fill="#0f5257"/>
+<text x="400" y="480" text-anchor="middle" font-size="12.0" font-weight="normal" fill="#2d2d2d">Practice</text>
+<line x1="334.0" y1="282.0" x2="298.0" y2="282.0" stroke="#0f5257" stroke-width="2" opacity="0.6"/>
+<circle cx="258.0" cy="282.0" r="38" fill="#ffffff" stroke="#0f5257" stroke-width="2"/>
+<circle cx="258.0" cy="266.0" r="8.0" fill="#0f5257"/><path d="M 243.6 298.8 a 14.4 18.4 0 0 1 28.8 0 Z" fill="#0f5257"/>
+<text x="258" y="338" text-anchor="middle" font-size="12.0" font-weight="normal" fill="#2d2d2d">Character</text>
+<circle cx="400" cy="282" r="62" fill="#0f5257"/>
+<text x="400" y="284" text-anchor="middle" font-size="14.0" font-weight="bold" fill="#faf8f3">Child as</text>
+<text x="400" y="300" text-anchor="middle" font-size="14.0" font-weight="bold" fill="#faf8f3">amanah</text>
+<line x1="90" y1="516" x2="710" y2="516" stroke="#c9c2b4" stroke-width="1"/>
+<text x="400" y="540" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">Teaching a child their faith is completing the fitra they were born with, not implanting</text>
+<text x="400" y="559" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">something foreign; the primordial pledge is renewed in a young heart.</text>
+<text x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#0f5257">Q7:172 — am I not your Lord? Yes, we testify</text>
+</svg>

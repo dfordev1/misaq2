@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Method — Islamic Covenant Theology</title>
+<meta name="description" content="How this work is sourced, what the six covenantal axes mean, how to read the diagram templates, and the limits of the exercise.">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="top"><div class="wrap topin">
+  <a class="brand" href="index.html">Islamic <span>Covenant Theology</span></a>
+  <nav class="main">
+    <a href="index.html">Home</a>
+    <a href="browse.html">Diagrams</a>
+    <a href="read.html">تعارف</a>
+    <a href="about.html" class="on">Method</a>
+  </nav>
+</div></header>
+
+<main class="wrap" style="max-width:860px;padding-top:52px;padding-bottom:80px">
+  <div class="rule" style="width:96px;height:4px;background:var(--gold);margin-bottom:24px"></div>
+  <h1 style="font-size:2.3rem;font-weight:500;margin:0 0 20px;line-height:1.2">Method &amp; how to read this</h1>
+  <p style="line-height:1.75;color:#514b41;font-size:1.05rem;margin:0 0 32px">
+    Covenant is treated here as a structural category, not a topic. The claim is that
+    ʿahd and mīthāq organise a great deal of the revelation that is usually read piecemeal —
+    and that seeing the structure changes how the parts read.</p>
+
+  <h2 style="font-size:1.35rem;font-weight:500;margin:36px 0 10px;color:var(--teal)">Source hierarchy</h2>
+  <p style="line-height:1.75;margin:0 0 14px">Claims are grounded in this order: the Qurʾān;
+  then ṣaḥīḥ sunnah; then the classical tafsīr tradition; then kalām, taṣawwuf and fiqh
+  positions, each tagged to its school rather than presented as the position; then modern
+  scholarship. Where the tradition genuinely disagrees, the disagreement is shown as a fork
+  rather than resolved by preference.</p>
+
+  <h2 style="font-size:1.35rem;font-weight:500;margin:36px 0 10px;color:var(--teal)">The six axes</h2>
+  <p style="line-height:1.75;margin:0 0 16px">Each diagram is coloured by the covenantal
+  relation it turns on. This is the colour key used throughout:</p>
+  <ul id="axes" style="list-style:none;padding:0;margin:0 0 8px"></ul>
+
+  <h2 style="font-size:1.35rem;font-weight:500;margin:36px 0 10px;color:var(--teal)">The diagram templates</h2>
+  <p style="line-height:1.75;margin:0 0 14px">Ten recurring shapes, each chosen because the
+  idea is genuinely that shape — a duty running between two parties, a breach set against a
+  fulfilment, a process, a hub of obligations, a weighing, a trust held in a vessel, a
+  foundation stack, a decision gate, a cycle of renewal, a grid of parallel claims.</p>
+
+  <h2 style="font-size:1.35rem;font-weight:500;margin:36px 0 10px;color:var(--teal)">Limits</h2>
+  <p style="line-height:1.75;margin:0 0 14px">Every applied diagram is an
+  <em>ijtihādī</em> application, not a fatwā. A citation shows where the principle is
+  grounded; it does not certify that this application is the only defensible reading of it.
+  For anything consequential, ask someone qualified who knows your circumstances.</p>
+  <p style="line-height:1.75;margin:0 0 14px">The applications skew heavily interpersonal —
+  most of ordinary life is — so the prophetic and scripture-community axes appear far less
+  often here than they do in the underlying corpus.</p>
+
+  <h2 style="font-size:1.35rem;font-weight:500;margin:36px 0 10px;color:var(--teal)">Typography</h2>
+  <p style="line-height:1.75;margin:0 0 14px">Urdu is set in Noto Nastaliq Urdu. Qurʾānic
+  Arabic is deliberately set in Naskh, not Nastaliq, following convention. Citations stay in
+  Latin numerals, the form scholars cite by.</p>
+</main>
+
+<footer class="bot"><div class="wrap"><p>Islamic Covenant Theology — 316 diagrams, fifteen domains, six introductory chapters.</p></div></footer>
+<script src="app.js"></script>
+<script>
+const AX=[['alast','#0f5257','Allah &amp; humanity — the primordial pledge, fiṭra'],
+ ['prophet','#b8860b','Allah &amp; the prophets — mīthāq al-nabiyyīn'],
+ ['book','#6b4c9a','Scripture communities — People of the Book'],
+ ['polity','#4a4a68','Political &amp; communal — bayʿah, office, the state'],
+ ['person','#a45c40','Interpersonal — trade, family, neighbours, speech'],
+ ['eschaton','#2e6f40','Eschatological — the final reckoning of every covenant']];
+document.getElementById('axes').innerHTML = AX.map(([k,c,t])=>
+ `<li style="display:flex;align-items:center;gap:12px;padding:9px 0;border-bottom:1px solid var(--line)">
+  <span style="width:26px;height:26px;border-radius:4px;background:${c};flex:none"></span>
+  <span style="line-height:1.6">${t} <a href="browse.html?axis=${k}" style="color:var(--gold);font-size:.85rem;font-style:italic;margin-inline-start:6px">see all &rarr;</a></span></li>`).join('');
+</script>
+</body>
+</html>

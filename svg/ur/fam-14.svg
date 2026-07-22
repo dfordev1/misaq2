@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="'Noto Nastaliq Urdu', 'Urdu Typesetting', serif">
+<defs><style>text{font-family:'Noto Nastaliq Urdu', 'Urdu Typesetting', serif;direction:rtl;unicode-bidi:isolate;}text.lat{font-family:Georgia, 'Noto Serif', serif;direction:ltr;}</style><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#a45c40"/>
+<text class="ur" x="400" y="46" text-anchor="middle" font-size="12.8" font-weight="normal" fill="#777777">خاندان و ذاتی زندگی</text>
+<text class="ur" x="400" y="84" text-anchor="middle" font-size="27.8" font-weight="bold" fill="#2d2d2d">بہن کا وہ راز جو کسی کو نہ بتایا</text>
+<path d="M 250 150 L 550 150 L 550 300 C 550 372 486 420 400 440 C 314 420 250 372 250 300 Z" fill="#a45c40" opacity="0.10" stroke="#a45c40" stroke-width="2.5"/>
+<text class="ur" x="400" y="176" text-anchor="middle" font-size="15.1" font-weight="bold" fill="#a45c40">راز میں رکھا گیا</text>
+<circle cx="335" cy="232" r="31" fill="#ffffff" stroke="#a45c40" stroke-width="1.5"/>
+<path d="M 327.5 228.0 L 327.5 221.2 a 7.5 7.5 0 0 1 15.0 0 L 342.5 228.0" fill="none" stroke="#a45c40" stroke-width="3.1"/><rect x="323.4" y="228.0" width="23.1" height="16.3" rx="2.0" fill="#a45c40"/>
+<text class="ur" x="335" y="282" text-anchor="middle" font-size="13.3" font-weight="normal" fill="#2d2d2d">جو بتایا گیا</text>
+<circle cx="465" cy="232" r="31" fill="#ffffff" stroke="#a45c40" stroke-width="1.5"/>
+<circle cx="465.0" cy="219.8" r="6.8" fill="#a45c40"/><path d="M 452.8 247.7 a 12.2 15.6 0 0 1 24.5 0 Z" fill="#a45c40"/>
+<text class="ur" x="465" y="282" text-anchor="middle" font-size="13.3" font-weight="normal" fill="#2d2d2d">جس نے بتایا</text>
+<text class="ur" x="400" y="480" text-anchor="middle" font-size="15.1" font-weight="bold" fill="#2d2d2d">تم راز کے امین ہو، مالک نہیں</text>
+<line x1="90" y1="492" x2="710" y2="492" stroke="#c9c2b4" stroke-width="1"/>
+<text class="ur" x="400" y="526" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">بھروسے میں بتایا گیا خاندانی راز امانت ہے؛ رشتہ داروں یا سسرال میں غیبت کے لیے</text>
+<text class="ur" x="400" y="553" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">دہرانا امانت میں خیانت ہے۔</text>
+<text class="lat" x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#a45c40">Q4:58 — امانتیں اہل کے سپرد کرو</text>
+</svg>

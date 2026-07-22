@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="Georgia, 'Noto Serif', serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#6b4c9a"/>
+<text x="400" y="46" text-anchor="middle" font-size="11.0" font-weight="normal" fill="#777777">EDUCATION &amp; KNOWLEDGE</text>
+<text x="400" y="78" text-anchor="middle" font-size="24.0" font-weight="bold" fill="#2d2d2d">The Verse You Recited Word for Word</text>
+<rect x="164" y="200" width="140" height="150" rx="12" fill="#6b4c9a" opacity="0.55"/>
+<path d="M 234.0 228.9 C 215.4 219.0 201.8 225.2 201.8 228.9 L 201.8 271.1 C 201.8 267.4 215.4 262.4 234.0 271.1 C 252.6 262.4 266.2 267.4 266.2 271.1 L 266.2 228.9 C 266.2 225.2 252.6 219.0 234.0 228.9 Z" fill="#faf8f3"/><line x1="234.0" y1="228.9" x2="234.0" y2="271.1" stroke="#6b4c9a" stroke-width="2.2"/>
+<text x="234" y="302" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#faf8f3">Text received</text>
+<line x1="308" y1="275" x2="324" y2="275" stroke="#2d2d2d" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="330" y="200" width="140" height="150" rx="12" fill="#6b4c9a" opacity="0.78"/>
+<path d="M 369.0 258.7 L 393.8 240.1 L 406.2 240.1 L 431.0 258.7 L 421.1 268.6 L 400.0 253.7 L 378.9 268.6 Z" fill="#faf8f3"/>
+<text x="400" y="302" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#faf8f3">Checked closely</text>
+<line x1="474" y1="275" x2="490" y2="275" stroke="#2d2d2d" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="496" y="200" width="140" height="150" rx="12" fill="#6b4c9a" opacity="1.00"/>
+<circle cx="566.0" cy="231.4" r="12.4" fill="#faf8f3"/><path d="M 543.7 282.2 a 22.3 28.5 0 0 1 44.6 0 Z" fill="#faf8f3"/>
+<text x="566" y="302" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#faf8f3">Passed on exact</text>
+<text x="400" y="392" text-anchor="middle" font-size="12.5" font-weight="normal" fill="#777777">no silent edits, no convenient omissions</text>
+<line x1="90" y1="516" x2="710" y2="516" stroke="#c9c2b4" stroke-width="1"/>
+<text x="400" y="540" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">Transmitting a sacred or scholarly text accurately, without silent edits or convenient</text>
+<text x="400" y="559" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">omissions, keeps faith with everyone who will rely on it after you.</text>
+<text x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#6b4c9a">Q15:9 — We have sent down the reminder and We guard it</text>
+</svg>

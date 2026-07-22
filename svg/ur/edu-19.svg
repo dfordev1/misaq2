@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="'Noto Nastaliq Urdu', 'Urdu Typesetting', serif">
+<defs><style>text{font-family:'Noto Nastaliq Urdu', 'Urdu Typesetting', serif;direction:rtl;unicode-bidi:isolate;}text.lat{font-family:Georgia, 'Noto Serif', serif;direction:ltr;}</style><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#6b4c9a"/>
+<text class="ur" x="400" y="46" text-anchor="middle" font-size="12.8" font-weight="normal" fill="#777777">تعلیم و علم</text>
+<text class="ur" x="400" y="84" text-anchor="middle" font-size="27.8" font-weight="bold" fill="#2d2d2d">آیت جو لفظ بہ لفظ پڑھی</text>
+<rect x="164" y="200" width="140" height="150" rx="12" fill="#6b4c9a" opacity="0.55"/>
+<path d="M 234.0 228.9 C 215.4 219.0 201.8 225.2 201.8 228.9 L 201.8 271.1 C 201.8 267.4 215.4 262.4 234.0 271.1 C 252.6 262.4 266.2 267.4 266.2 271.1 L 266.2 228.9 C 266.2 225.2 252.6 219.0 234.0 228.9 Z" fill="#faf8f3"/><line x1="234.0" y1="228.9" x2="234.0" y2="271.1" stroke="#6b4c9a" stroke-width="2.2"/>
+<text class="ur" x="234" y="302" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#faf8f3">متن ملا</text>
+<line x1="308" y1="275" x2="324" y2="275" stroke="#2d2d2d" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="330" y="200" width="140" height="150" rx="12" fill="#6b4c9a" opacity="0.78"/>
+<path d="M 369.0 258.7 L 393.8 240.1 L 406.2 240.1 L 431.0 258.7 L 421.1 268.6 L 400.0 253.7 L 378.9 268.6 Z" fill="#faf8f3"/>
+<text class="ur" x="400" y="302" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#faf8f3">غور سے جانچا</text>
+<line x1="474" y1="275" x2="490" y2="275" stroke="#2d2d2d" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="496" y="200" width="140" height="150" rx="12" fill="#6b4c9a" opacity="1.00"/>
+<circle cx="566.0" cy="231.4" r="12.4" fill="#faf8f3"/><path d="M 543.7 282.2 a 22.3 28.5 0 0 1 44.6 0 Z" fill="#faf8f3"/>
+<text class="ur" x="566" y="302" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#faf8f3">جوں کا توں</text>
+<text class="ur" x="566" y="326" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#faf8f3">پہنچایا</text>
+<text class="ur" x="400" y="392" text-anchor="middle" font-size="14.5" font-weight="normal" fill="#777777">نہ خاموش ترمیم، نہ آسان چھوٹ</text>
+<line x1="90" y1="492" x2="710" y2="492" stroke="#c9c2b4" stroke-width="1"/>
+<text class="ur" x="400" y="526" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">مقدس یا علمی متن کو درست، بلا خاموش ترمیم یا آسان چھوٹ کے آگے پہنچانا ہر بعد میں</text>
+<text class="ur" x="400" y="553" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">بھروسہ کرنے والے سے وفا ہے۔</text>
+<text class="lat" x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#6b4c9a">Q15:9 — ہم نے ذکر نازل کیا اور ہم اس کے محافظ ہیں</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="'Noto Nastaliq Urdu', 'Urdu Typesetting', serif">
+<defs><style>text{font-family:'Noto Nastaliq Urdu', 'Urdu Typesetting', serif;direction:rtl;unicode-bidi:isolate;}text.lat{font-family:Georgia, 'Noto Serif', serif;direction:ltr;}</style><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#a45c40"/>
+<text class="ur" x="400" y="46" text-anchor="middle" font-size="12.8" font-weight="normal" fill="#777777">معاشرہ و ماحول</text>
+<text class="ur" x="400" y="84" text-anchor="middle" font-size="27.8" font-weight="bold" fill="#2d2d2d">آدھی رات کے بعد ڈرم کی مشق</text>
+<rect x="182.0" y="195.7" width="66.1" height="108.6" rx="10.6" fill="#a45c40"/><rect x="191.4" y="209.9" width="47.2" height="68.4" fill="#faf8f3" opacity="0.9"/>
+<text class="ur" x="215" y="348" text-anchor="middle" font-size="18.6" font-weight="bold" fill="#2d2d2d">تم</text>
+<text class="ur" x="215" y="372" text-anchor="middle" font-size="13.3" font-weight="normal" fill="#777777">آدھی رات کے بعد مشق</text>
+<path d="M 526.0 250.0 L 585.0 196.9 L 644.0 250.0 Z" fill="#a45c40"/><rect x="542.5" y="250.0" width="85.0" height="54.3" fill="#a45c40" opacity="0.85"/>
+<text class="ur" x="585" y="348" text-anchor="middle" font-size="18.6" font-weight="bold" fill="#2d2d2d">ہمسایہ</text>
+<text class="ur" x="585" y="372" text-anchor="middle" font-size="13.3" font-weight="normal" fill="#777777">نیند کی کوشش میں</text>
+<line x1="300" y1="250" x2="490" y2="250" stroke="#a45c40" stroke-width="3" marker-end="url(#ar)"/>
+<line x1="500" y1="288" x2="310" y2="288" stroke="#a45c40" stroke-width="2" stroke-dasharray="6 4" opacity="0.7" marker-end="url(#ar)"/>
+<text class="ur" x="400" y="312" text-anchor="middle" font-size="12.8" font-weight="normal" fill="#777777">جائز عمل، ناجائز وقت</text>
+<text class="ur" x="400" y="236" text-anchor="middle" font-size="15.1" font-weight="bold" fill="#a45c40">جار — خاموشی واجب</text>
+<line x1="90" y1="492" x2="710" y2="492" stroke="#c9c2b4" stroke-width="1"/>
+<text class="ur" x="400" y="526" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">شوق جو بذات خود جائز ہے، اس وقت ہمسائے کے خلاف زیادتی بن جاتا ہے جب اس کا شور گھر</text>
+<text class="ur" x="400" y="553" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">سو جانے کے بعد دیوار پار کرے۔</text>
+<text class="lat" x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#a45c40">Bukhari — Kitab al-Adab, rights of the neighbour</text>
+</svg>

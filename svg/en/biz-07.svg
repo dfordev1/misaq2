@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="Georgia, 'Noto Serif', serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#a45c40"/>
+<text x="400" y="46" text-anchor="middle" font-size="11.0" font-weight="normal" fill="#777777">BUSINESS &amp; FINANCE</text>
+<text x="400" y="78" text-anchor="middle" font-size="24.0" font-weight="bold" fill="#2d2d2d">Insurance as Shared Risk, Not Wager</text>
+<line x1="400.0" y1="216.0" x2="400.0" y2="180.0" stroke="#a45c40" stroke-width="2" opacity="0.6"/>
+<circle cx="400.0" cy="140.0" r="38" fill="#ffffff" stroke="#a45c40" stroke-width="2"/>
+<circle cx="400.0" cy="126.6" r="6.2" fill="#a45c40"/><path d="M 388.8 152.2 a 11.2 14.4 0 0 1 22.5 0 Z" fill="#a45c40"/><g opacity="0.55"><circle cx="379.2" cy="130.5" r="5.3" fill="#a45c40"/><path d="M 369.7 152.1 a 9.5 12.1 0 0 1 19.0 0 Z" fill="#a45c40"/></g><g opacity="0.55"><circle cx="420.8" cy="130.5" r="5.3" fill="#a45c40"/><path d="M 411.3 152.1 a 9.5 12.1 0 0 1 19.0 0 Z" fill="#a45c40"/></g>
+<text x="400" y="196" text-anchor="middle" font-size="12.0" font-weight="normal" fill="#2d2d2d">Shared pool</text>
+<line x1="466.0" y1="282.0" x2="502.0" y2="282.0" stroke="#a45c40" stroke-width="2" opacity="0.6"/>
+<circle cx="542.0" cy="282.0" r="38" fill="#ffffff" stroke="#a45c40" stroke-width="2"/>
+<rect x="529.2" y="260.4" width="25.6" height="35.2" rx="2.0" fill="#a45c40"/><rect x="534.0" y="266.8" width="16.0" height="2.0" fill="#ffffff" opacity="0.85"/><rect x="534.0" y="273.6" width="16.0" height="2.0" fill="#ffffff" opacity="0.85"/><rect x="534.0" y="280.4" width="16.0" height="2.0" fill="#ffffff" opacity="0.85"/><rect x="534.0" y="287.2" width="16.0" height="2.0" fill="#ffffff" opacity="0.85"/>
+<text x="542" y="338" text-anchor="middle" font-size="12.0" font-weight="normal" fill="#2d2d2d">Clear terms</text>
+<line x1="400.0" y1="348.0" x2="400.0" y2="384.0" stroke="#a45c40" stroke-width="2" opacity="0.6"/>
+<circle cx="400.0" cy="424.0" r="38" fill="#ffffff" stroke="#a45c40" stroke-width="2"/>
+<path d="M 380.0 425.6 L 396.0 413.6 L 404.0 413.6 L 420.0 425.6 L 413.6 432.0 L 400.0 422.4 L 386.4 432.0 Z" fill="#a45c40"/>
+<text x="400" y="480" text-anchor="middle" font-size="12.0" font-weight="normal" fill="#2d2d2d">Mutual aid</text>
+<line x1="334.0" y1="282.0" x2="298.0" y2="282.0" stroke="#a45c40" stroke-width="2" opacity="0.6"/>
+<circle cx="258.0" cy="282.0" r="38" fill="#ffffff" stroke="#a45c40" stroke-width="2"/>
+<line x1="258.0" y1="260.4" x2="258.0" y2="294.0" stroke="#a45c40" stroke-width="2.4"/><line x1="240.4" y1="264.4" x2="275.6" y2="264.4" stroke="#a45c40" stroke-width="2.4"/><path d="M 233.2 274.0 L 247.6 274.0 L 240.4 283.6 Z" fill="#a45c40"/><path d="M 268.4 274.0 L 282.8 274.0 L 275.6 283.6 Z" fill="#a45c40"/><rect x="248.4" y="294.0" width="19.2" height="3.2" fill="#a45c40"/>
+<text x="258" y="338" text-anchor="middle" font-size="12.0" font-weight="normal" fill="#2d2d2d">No excess gharar</text>
+<circle cx="400" cy="282" r="62" fill="#a45c40"/>
+<text x="400" y="284" text-anchor="middle" font-size="14.0" font-weight="bold" fill="#faf8f3">Takaful —</text>
+<text x="400" y="300" text-anchor="middle" font-size="14.0" font-weight="bold" fill="#faf8f3">mutual</text>
+<text x="400" y="316" text-anchor="middle" font-size="14.0" font-weight="bold" fill="#faf8f3">guarantee</text>
+<line x1="90" y1="516" x2="710" y2="516" stroke="#c9c2b4" stroke-width="1"/>
+<text x="400" y="540" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">Mutual protection built on shared contribution and disclosed risk honors the covenant; a</text>
+<text x="400" y="559" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">contract riddled with gharar does not.</text>
+<text x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#a45c40">Q5:90</text>
+</svg>

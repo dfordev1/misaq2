@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="Georgia, 'Noto Serif', serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#a45c40"/>
+<text x="400" y="46" text-anchor="middle" font-size="11.0" font-weight="normal" fill="#777777">HEALTH, BODY &amp; MEDICINE</text>
+<text x="400" y="78" text-anchor="middle" font-size="24.0" font-weight="bold" fill="#2d2d2d">The App That Sold Her Symptoms</text>
+<path d="M 250 150 L 550 150 L 550 300 C 550 372 486 420 400 440 C 314 420 250 372 250 300 Z" fill="#a45c40" opacity="0.10" stroke="#a45c40" stroke-width="2.5"/>
+<text x="400" y="176" text-anchor="middle" font-size="13.0" font-weight="bold" fill="#a45c40">held in amanah</text>
+<circle cx="335" cy="232" r="31" fill="#ffffff" stroke="#a45c40" stroke-width="1.5"/>
+<rect x="325.5" y="214.4" width="19.0" height="31.3" rx="3.1" fill="#a45c40"/><rect x="328.2" y="218.4" width="13.6" height="19.7" fill="#ffffff" opacity="0.9"/>
+<text x="335" y="282" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#2d2d2d">Symptoms logged</text>
+<circle cx="465" cy="232" r="31" fill="#ffffff" stroke="#a45c40" stroke-width="1.5"/>
+<rect x="454.1" y="215.0" width="21.8" height="29.9" rx="1.7" fill="#a45c40"/><rect x="458.2" y="220.5" width="13.6" height="1.7" fill="#ffffff" opacity="0.85"/><rect x="458.2" y="226.3" width="13.6" height="1.7" fill="#ffffff" opacity="0.85"/><rect x="458.2" y="232.0" width="13.6" height="1.7" fill="#ffffff" opacity="0.85"/><rect x="458.2" y="237.8" width="13.6" height="1.7" fill="#ffffff" opacity="0.85"/>
+<text x="465" y="282" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#2d2d2d">Diagnosis</text>
+<circle cx="335" cy="328" r="31" fill="#ffffff" stroke="#a45c40" stroke-width="1.5"/>
+<path d="M 335.0 339.6 C 313.9 326.7 322.8 311.0 335.0 321.2 C 347.2 311.0 356.1 326.7 335.0 339.6 Z" fill="#a45c40"/>
+<text x="335" y="378" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#2d2d2d">History</text>
+<text x="400" y="480" text-anchor="middle" font-size="13.0" font-weight="bold" fill="#2d2d2d">The platform is custodian of her data, never its proprietor</text>
+<line x1="90" y1="516" x2="710" y2="516" stroke="#c9c2b4" stroke-width="1"/>
+<text x="400" y="540" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">Health data given to a platform for care is still amanah — selling it onward for profit</text>
+<text x="400" y="559" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">is trading a trust for a small price.</text>
+<text x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#a45c40">Q3:77</text>
+</svg>

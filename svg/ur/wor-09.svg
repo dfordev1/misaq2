@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="'Noto Nastaliq Urdu', 'Urdu Typesetting', serif">
+<defs><style>text{font-family:'Noto Nastaliq Urdu', 'Urdu Typesetting', serif;direction:rtl;unicode-bidi:isolate;}text.lat{font-family:Georgia, 'Noto Serif', serif;direction:ltr;}</style><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#a45c40"/>
+<text class="ur" x="400" y="46" text-anchor="middle" font-size="12.8" font-weight="normal" fill="#777777">عبادت و تزکیہ</text>
+<text class="ur" x="400" y="84" text-anchor="middle" font-size="27.8" font-weight="bold" fill="#2d2d2d">وہ قسم جس پر پچھتاوا ہو</text>
+<rect x="81" y="200" width="140" height="150" rx="12" fill="#a45c40" opacity="0.55"/>
+<path d="M 120.0 258.7 L 144.8 240.1 L 157.2 240.1 L 182.0 258.7 L 172.1 268.6 L 151.0 253.7 L 129.9 268.6 Z" fill="#faf8f3"/>
+<text class="ur" x="151" y="302" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#faf8f3">قسم کھائی</text>
+<line x1="225" y1="275" x2="241" y2="275" stroke="#2d2d2d" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="247" y="200" width="140" height="150" rx="12" fill="#a45c40" opacity="0.70"/>
+<circle cx="317.0" cy="231.4" r="12.4" fill="#faf8f3"/><path d="M 294.7 282.2 a 22.3 28.5 0 0 1 44.6 0 Z" fill="#faf8f3"/>
+<text class="ur" x="317" y="302" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#faf8f3">بہتر راہ دکھی</text>
+<line x1="391" y1="275" x2="407" y2="275" stroke="#2d2d2d" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="413" y="200" width="140" height="150" rx="12" fill="#a45c40" opacity="0.85"/>
+<ellipse cx="483.0" cy="266.1" rx="24.8" ry="8.1" fill="#faf8f3" opacity="0.60"/><ellipse cx="483.0" cy="252.5" rx="24.8" ry="8.1" fill="#faf8f3" opacity="0.80"/><ellipse cx="483.0" cy="238.8" rx="24.8" ry="8.1" fill="#faf8f3" opacity="1.00"/>
+<text class="ur" x="483" y="302" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#faf8f3">کفارہ ادا کیا</text>
+<line x1="557" y1="275" x2="573" y2="275" stroke="#2d2d2d" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="579" y="200" width="140" height="150" rx="12" fill="#a45c40" opacity="1.00"/>
+<polygon points="649.0,221.5 655.9,240.5 676.1,241.2 660.2,253.6 665.8,273.1 649.0,261.8 632.2,273.1 637.8,253.6 621.9,241.2 642.1,240.5" fill="#faf8f3"/>
+<text class="ur" x="649" y="302" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#faf8f3">قسم سے آزادی</text>
+<text class="ur" x="400" y="392" text-anchor="middle" font-size="14.5" font-weight="normal" fill="#777777">کھلانا، پہنانا، آزاد کرنا یا روزہ — مقررہ حل</text>
+<line x1="90" y1="492" x2="710" y2="492" stroke="#c9c2b4" stroke-width="1"/>
+<text class="ur" x="400" y="526" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">جان بوجھ کر کھائی قسم جو غلط ثابت ہو، محض بھلا نہیں دی جاتی — قرآن اسے ختم کرنے کا</text>
+<text class="ur" x="400" y="553" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">طے شدہ راستہ دیتا ہے۔</text>
+<text class="lat" x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#a45c40">Q5:89 — kaffarah for deliberately contracted oaths</text>
+</svg>

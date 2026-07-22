@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="'Noto Nastaliq Urdu', 'Urdu Typesetting', serif">
+<defs><style>text{font-family:'Noto Nastaliq Urdu', 'Urdu Typesetting', serif;direction:rtl;unicode-bidi:isolate;}text.lat{font-family:Georgia, 'Noto Serif', serif;direction:ltr;}</style><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#a45c40"/>
+<text class="ur" x="400" y="46" text-anchor="middle" font-size="12.8" font-weight="normal" fill="#777777">عدل و جواب دہی</text>
+<text class="ur" x="400" y="84" text-anchor="middle" font-size="27.8" font-weight="bold" fill="#2d2d2d">معاہدہ جسے انکار کی گنجائش نہ تھی</text>
+<line x1="400" y1="170" x2="400" y2="380" stroke="#a45c40" stroke-width="7"/>
+<rect x="330" y="380" width="140" height="14" rx="4" fill="#a45c40"/>
+<line x1="200" y1="200" x2="600" y2="200" stroke="#a45c40" stroke-width="6"/>
+<circle cx="400" cy="200" r="13" fill="#2d2d2d"/>
+<line x1="215" y1="200" x2="215" y2="252" stroke="#a45c40" stroke-width="2"/>
+<path d="M 143 252 L 287 252 L 261 306 L 169 306 Z" fill="#ffffff" stroke="#a45c40" stroke-width="2"/>
+<rect x="200.9" y="258.6" width="28.2" height="38.7" rx="2.2" fill="#a45c40"/><rect x="206.2" y="265.7" width="17.6" height="2.2" fill="#faf8f3" opacity="0.85"/><rect x="206.2" y="273.2" width="17.6" height="2.2" fill="#faf8f3" opacity="0.85"/><rect x="206.2" y="280.6" width="17.6" height="2.2" fill="#faf8f3" opacity="0.85"/><rect x="206.2" y="288.1" width="17.6" height="2.2" fill="#faf8f3" opacity="0.85"/>
+<text class="ur" x="215" y="336" text-anchor="middle" font-size="15.7" font-weight="bold" fill="#2d2d2d">مسلط شرائط</text>
+<text class="ur" x="215" y="352" text-anchor="middle" font-size="13.3" font-weight="normal" fill="#777777">مانو یا نوکری چھوڑو</text>
+<line x1="585" y1="200" x2="585" y2="252" stroke="#a45c40" stroke-width="2"/>
+<path d="M 513 252 L 657 252 L 631 306 L 539 306 Z" fill="#ffffff" stroke="#a45c40" stroke-width="2"/>
+<line x1="585.0" y1="258.6" x2="585.0" y2="295.6" stroke="#a45c40" stroke-width="2.6"/><line x1="565.6" y1="263.0" x2="604.4" y2="263.0" stroke="#a45c40" stroke-width="2.6"/><path d="M 557.7 273.6 L 573.6 273.6 L 565.6 284.2 Z" fill="#a45c40"/><path d="M 596.4 273.6 L 612.3 273.6 L 604.4 284.2 Z" fill="#a45c40"/><rect x="574.4" y="295.6" width="21.1" height="3.5" fill="#a45c40"/>
+<text class="ur" x="585" y="336" text-anchor="middle" font-size="15.7" font-weight="bold" fill="#2d2d2d">حقیقی رضامندی</text>
+<text class="ur" x="585" y="352" text-anchor="middle" font-size="13.3" font-weight="normal" fill="#777777">دونوں انکار کر سکیں</text>
+<text class="ur" x="400" y="424" text-anchor="middle" font-size="14.5" font-weight="normal" fill="#777777">سودے بازی کے بغیر دستخط، اوفوا بالعقود نہیں</text>
+<line x1="90" y1="492" x2="710" y2="492" stroke="#c9c2b4" stroke-width="1"/>
+<text class="ur" x="400" y="526" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">وہ دستاویز جس پر کمزور فریق ایک لفظ بھی مول تول نہ کر سکا، آزاد معاہدہ نہیں۔ دباؤ</text>
+<text class="ur" x="400" y="553" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">میں رضامندی، رضامندی نہیں۔</text>
+<text class="lat" x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#a45c40">Q5:1</text>
+</svg>

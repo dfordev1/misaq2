@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="'Noto Nastaliq Urdu', 'Urdu Typesetting', serif">
+<defs><style>text{font-family:'Noto Nastaliq Urdu', 'Urdu Typesetting', serif;direction:rtl;unicode-bidi:isolate;}text.lat{font-family:Georgia, 'Noto Serif', serif;direction:ltr;}</style><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#a45c40"/>
+<text class="ur" x="400" y="46" text-anchor="middle" font-size="12.8" font-weight="normal" fill="#777777">نزاع و مصالحت</text>
+<text class="ur" x="400" y="84" text-anchor="middle" font-size="27.8" font-weight="bold" fill="#2d2d2d">خیانت کے بعد بحال ہوتا اعتماد</text>
+<rect x="180" y="104" width="440" height="62" rx="10" fill="#a45c40" opacity="0.30"/>
+<text class="ur" x="400" y="134" text-anchor="middle" font-size="15.7" font-weight="bold" fill="#2d2d2d">وقت تبدیلی ثابت کرے</text>
+<text class="ur" x="400" y="153" text-anchor="middle" font-size="12.8" font-weight="normal" fill="#2d2d2d">تسلسل، ایک بار کا اشارہ نہیں</text>
+<rect x="158" y="178" width="485" height="62" rx="10" fill="#a45c40" opacity="0.48"/>
+<text class="ur" x="400" y="208" text-anchor="middle" font-size="15.7" font-weight="bold" fill="#2d2d2d">بدلا ہوا رویہ</text>
+<text class="ur" x="400" y="227" text-anchor="middle" font-size="12.8" font-weight="normal" fill="#2d2d2d">طرزِ عمل واقعی بدلے</text>
+<rect x="135" y="252" width="530" height="62" rx="10" fill="#a45c40" opacity="0.66"/>
+<text class="ur" x="400" y="282" text-anchor="middle" font-size="15.7" font-weight="bold" fill="#2d2d2d">ازالہ پیش کیا</text>
+<text class="ur" x="400" y="301" text-anchor="middle" font-size="12.8" font-weight="normal" fill="#2d2d2d">نقصان کا حقیقی تدارک</text>
+<rect x="112" y="326" width="575" height="62" rx="10" fill="#a45c40" opacity="0.84"/>
+<text class="ur" x="400" y="356" text-anchor="middle" font-size="15.7" font-weight="bold" fill="#2d2d2d">دیانتدار اعتراف</text>
+<text class="ur" x="400" y="375" text-anchor="middle" font-size="12.8" font-weight="normal" fill="#2d2d2d">خیانت کا نام لیا، دبایا نہیں</text>
+<text class="ur" x="400" y="88" text-anchor="middle" font-size="13.9" font-weight="normal" fill="#777777">نیچے سے اوپر پڑھیں</text>
+<line x1="90" y1="492" x2="710" y2="492" stroke="#c9c2b4" stroke-width="1"/>
+<text class="ur" x="400" y="526" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">خیانت کے بعد دوستی کی مرمت ایک بڑا اشارہ نہیں — یہ سچائی، ازالہ، بدلا ہوا رویہ، پھر</text>
+<text class="ur" x="400" y="553" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">وقت، اسی ترتیب سے ہے۔</text>
+<text class="lat" x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#a45c40">lexicon: tawbah</text>
+</svg>

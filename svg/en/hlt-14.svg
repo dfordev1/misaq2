@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="Georgia, 'Noto Serif', serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#a45c40"/>
+<text x="400" y="46" text-anchor="middle" font-size="11.0" font-weight="normal" fill="#777777">HEALTH, BODY &amp; MEDICINE</text>
+<text x="400" y="78" text-anchor="middle" font-size="24.0" font-weight="bold" fill="#2d2d2d">The Third Plate at Every Meal</text>
+<rect x="70" y="130" width="310" height="316" rx="14" fill="#ffffff" stroke="#a33b2a" stroke-width="2" opacity="0.95"/>
+<text x="225" y="162" text-anchor="middle" font-size="15.0" font-weight="bold" fill="#a33b2a">✗  Excess</text>
+<path d="M 225.0 206.0 C 259.0 248.0 261.0 296.0 225.0 296.0 C 189.0 296.0 191.0 248.0 225.0 206.0 Z" fill="#a33b2a"/>
+<text x="225" y="336" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">Eating and drinking without</text>
+<text x="225" y="353" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">limit</text>
+<text x="225" y="378" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#777777">the body pays the debt</text>
+<rect x="420" y="130" width="310" height="316" rx="14" fill="#ffffff" stroke="#2e6f40" stroke-width="2" opacity="0.95"/>
+<text x="575" y="162" text-anchor="middle" font-size="15.0" font-weight="bold" fill="#2e6f40">✓  Moderation</text>
+<path d="M 575.0 292.0 C 513.0 254.0 539.0 208.0 575.0 238.0 C 611.0 208.0 637.0 254.0 575.0 292.0 Z" fill="#2e6f40"/>
+<text x="575" y="336" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">Eating and drinking, not to</text>
+<text x="575" y="353" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">excess</text>
+<text x="575" y="378" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#777777">the trust is honoured</text>
+<line x1="400" y1="140" x2="400" y2="436" stroke="#c9c2b4" stroke-dasharray="5 5"/>
+<line x1="90" y1="516" x2="710" y2="516" stroke="#c9c2b4" stroke-width="1"/>
+<text x="400" y="540" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">Eating past need is not a private indulgence — the covenant asks moderation as care for</text>
+<text x="400" y="559" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">a body held on trust.</text>
+<text x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#a45c40">Q7:31</text>
+</svg>

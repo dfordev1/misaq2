@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="'Noto Nastaliq Urdu', 'Urdu Typesetting', serif">
+<defs><style>text{font-family:'Noto Nastaliq Urdu', 'Urdu Typesetting', serif;direction:rtl;unicode-bidi:isolate;}text.lat{font-family:Georgia, 'Noto Serif', serif;direction:ltr;}</style><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#a45c40"/>
+<text class="ur" x="400" y="46" text-anchor="middle" font-size="12.8" font-weight="normal" fill="#777777">سفر، ہجرت و مہمان نوازی</text>
+<text class="ur" x="400" y="84" text-anchor="middle" font-size="27.8" font-weight="bold" fill="#2d2d2d">برسوں بعد وطن واپسی</text>
+<rect x="81" y="200" width="140" height="150" rx="12" fill="#a45c40" opacity="0.55"/>
+<circle cx="151.0" cy="250.0" r="27.3" fill="#faf8f3"/><ellipse cx="151.0" cy="250.0" rx="11.2" ry="27.3" fill="none" stroke="#a45c40" stroke-width="2.2" opacity="0.85"/><line x1="123.7" y1="250.0" x2="178.3" y2="250.0" stroke="#a45c40" stroke-width="2.2" opacity="0.85"/>
+<text class="ur" x="151" y="302" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#faf8f3">برسوں بیرونِ</text>
+<text class="ur" x="151" y="326" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#faf8f3">ملک</text>
+<line x1="225" y1="275" x2="241" y2="275" stroke="#2d2d2d" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="247" y="200" width="140" height="150" rx="12" fill="#a45c40" opacity="0.70"/>
+<path d="M 286.0 250.0 L 317.0 222.1 L 348.0 250.0 Z" fill="#faf8f3"/><rect x="294.7" y="250.0" width="44.6" height="28.5" fill="#faf8f3" opacity="0.85"/>
+<text class="ur" x="317" y="302" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#faf8f3">وطن واپسی</text>
+<line x1="391" y1="275" x2="407" y2="275" stroke="#2d2d2d" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="413" y="200" width="140" height="150" rx="12" fill="#a45c40" opacity="0.85"/>
+<path d="M 452.0 258.7 L 476.8 240.1 L 489.2 240.1 L 514.0 258.7 L 504.1 268.6 L 483.0 253.7 L 461.9 268.6 Z" fill="#faf8f3"/>
+<text class="ur" x="483" y="302" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#faf8f3">سچا حساب</text>
+<line x1="557" y1="275" x2="573" y2="275" stroke="#2d2d2d" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="579" y="200" width="140" height="150" rx="12" fill="#a45c40" opacity="1.00"/>
+<path d="M 649.0 274.8 C 610.6 251.2 626.7 222.7 649.0 241.3 C 671.3 222.7 687.4 251.2 649.0 274.8 Z" fill="#faf8f3"/>
+<text class="ur" x="649" y="302" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#faf8f3">استقبال ملا</text>
+<text class="ur" x="400" y="392" text-anchor="middle" font-size="14.5" font-weight="normal" fill="#777777">واپس آنے والوں پر دروازہ بند نہیں ہوتا</text>
+<line x1="90" y1="492" x2="710" y2="492" stroke="#c9c2b4" stroke-width="1"/>
+<text class="ur" x="400" y="526" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">واپس آنے والے مہاجر پر اپنی برادری کو تبدیلی کا دیانتدار حساب دینا واجب ہے، اور</text>
+<text class="ur" x="400" y="553" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">برادری پر شک نہیں بلکہ خوش آمدید واجب ہے۔</text>
+<text class="lat" x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#a45c40">Q9:100</text>
+</svg>

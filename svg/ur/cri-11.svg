@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="'Noto Nastaliq Urdu', 'Urdu Typesetting', serif">
+<defs><style>text{font-family:'Noto Nastaliq Urdu', 'Urdu Typesetting', serif;direction:rtl;unicode-bidi:isolate;}text.lat{font-family:Georgia, 'Noto Serif', serif;direction:ltr;}</style><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#4a4a68"/>
+<text class="ur" x="400" y="46" text-anchor="middle" font-size="12.8" font-weight="normal" fill="#777777">اضطرار و مشکل مسائل</text>
+<text class="ur" x="400" y="84" text-anchor="middle" font-size="27.8" font-weight="bold" fill="#2d2d2d">کسان جس نے دشمن کا باغ نہ چھیڑا</text>
+<rect x="188" y="161" width="200" height="128" rx="12" fill="#ffffff" stroke="#4a4a68" stroke-width="1.8"/>
+<circle cx="288.0" cy="189.2" r="9.2" fill="#4a4a68"/><path d="M 271.4 226.9 a 16.6 21.2 0 0 1 33.1 0 Z" fill="#4a4a68"/>
+<text class="ur" x="288" y="249" text-anchor="middle" font-size="13.9" font-weight="bold" fill="#2d2d2d">عورتیں، بچے محفوظ</text>
+<rect x="412" y="161" width="200" height="128" rx="12" fill="#ffffff" stroke="#4a4a68" stroke-width="1.8"/>
+<rect x="509.2" y="205.8" width="5.5" height="18.4" fill="#4a4a68"/><circle cx="512.0" cy="194.7" r="13.8" fill="#4a4a68"/><circle cx="501.0" cy="203.9" r="9.2" fill="#4a4a68" opacity="0.85"/><circle cx="523.0" cy="203.9" r="9.2" fill="#4a4a68" opacity="0.85"/>
+<text class="ur" x="512" y="249" text-anchor="middle" font-size="13.9" font-weight="bold" fill="#2d2d2d">فصلیں تباہ نہ ہوں</text>
+<rect x="188" y="311" width="200" height="128" rx="12" fill="#ffffff" stroke="#4a4a68" stroke-width="1.8"/>
+<path d="M 265.0 353.0 L 288.0 332.3 L 311.0 353.0 Z" fill="#4a4a68"/><rect x="271.4" y="353.0" width="33.1" height="21.2" fill="#4a4a68" opacity="0.85"/>
+<text class="ur" x="288" y="399" text-anchor="middle" font-size="13.9" font-weight="bold" fill="#2d2d2d">گھر مسمار نہ ہوں</text>
+<rect x="412" y="311" width="200" height="128" rx="12" fill="#ffffff" stroke="#4a4a68" stroke-width="1.8"/>
+<path d="M 512.0 331.8 C 527.6 351.2 528.6 373.2 512.0 373.2 C 495.4 373.2 496.4 351.2 512.0 331.8 Z" fill="#4a4a68"/>
+<text class="ur" x="512" y="399" text-anchor="middle" font-size="13.9" font-weight="bold" fill="#2d2d2d">کنویں زہریلے نہ</text>
+<text class="ur" x="512" y="422" text-anchor="middle" font-size="13.9" font-weight="bold" fill="#2d2d2d">ہوں</text>
+<line x1="90" y1="492" x2="710" y2="492" stroke="#c9c2b4" stroke-width="1"/>
+<text class="ur" x="400" y="526" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">جنگ اس عہد کو ختم نہیں کرتی جو اس سے باہر والوں پر واجب ہے — غیرجنگی، فصل، کنواں</text>
+<text class="ur" x="400" y="553" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">جنگ کے بیچ بھی محفوظ رہتے ہیں۔</text>
+<text class="lat" x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#4a4a68">Bukhari, Kitab al-Jihad — prohibition on killing noncombatants</text>
+</svg>

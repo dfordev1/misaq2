@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="Georgia, 'Noto Serif', serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#0f5257"/>
+<text x="400" y="46" text-anchor="middle" font-size="11.0" font-weight="normal" fill="#777777">TRAVEL, MIGRATION &amp; HOSPITALITY</text>
+<text x="400" y="78" text-anchor="middle" font-size="24.0" font-weight="bold" fill="#2d2d2d">Fleeing Persecution for the Sake of Faith</text>
+<rect x="81" y="200" width="140" height="150" rx="12" fill="#0f5257" opacity="0.55"/>
+<path d="M 120.0 250.0 L 151.0 222.1 L 182.0 250.0 Z" fill="#faf8f3"/><rect x="128.7" y="250.0" width="44.6" height="28.5" fill="#faf8f3" opacity="0.85"/>
+<text x="151" y="302" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#faf8f3">Home unsafe</text>
+<line x1="225" y1="275" x2="241" y2="275" stroke="#2d2d2d" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="247" y="200" width="140" height="150" rx="12" fill="#0f5257" opacity="0.70"/>
+<circle cx="317.0" cy="250.0" r="27.3" fill="#faf8f3"/><ellipse cx="317.0" cy="250.0" rx="11.2" ry="27.3" fill="none" stroke="#0f5257" stroke-width="2.2" opacity="0.85"/><line x1="289.7" y1="250.0" x2="344.3" y2="250.0" stroke="#0f5257" stroke-width="2.2" opacity="0.85"/>
+<text x="317" y="302" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#faf8f3">Departure</text>
+<line x1="391" y1="275" x2="407" y2="275" stroke="#2d2d2d" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="413" y="200" width="140" height="150" rx="12" fill="#0f5257" opacity="0.85"/>
+<path d="M 452.0 258.7 L 476.8 240.1 L 489.2 240.1 L 514.0 258.7 L 504.1 268.6 L 483.0 253.7 L 461.9 268.6 Z" fill="#faf8f3"/>
+<text x="483" y="302" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#faf8f3">Trust in Allah</text>
+<line x1="557" y1="275" x2="573" y2="275" stroke="#2d2d2d" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="579" y="200" width="140" height="150" rx="12" fill="#0f5257" opacity="1.00"/>
+<polygon points="649.0,221.5 655.9,240.5 676.1,241.2 660.2,253.6 665.8,273.1 649.0,261.8 632.2,273.1 637.8,253.6 621.9,241.2 642.1,240.5" fill="#faf8f3"/>
+<text x="649" y="302" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#faf8f3">Reward is due</text>
+<text x="400" y="392" text-anchor="middle" font-size="12.5" font-weight="normal" fill="#777777">whoever emigrates finds abundant refuge</text>
+<line x1="90" y1="516" x2="710" y2="516" stroke="#c9c2b4" stroke-width="1"/>
+<text x="400" y="540" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">Migration away from oppression to preserve one&#x27;s faith and dignity is itself an act</text>
+<text x="400" y="559" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">counted before Allah, not a failure of belonging.</text>
+<text x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#0f5257">Q4:100</text>
+</svg>

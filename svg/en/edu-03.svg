@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="Georgia, 'Noto Serif', serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#b8860b"/>
+<text x="400" y="46" text-anchor="middle" font-size="11.0" font-weight="normal" fill="#777777">EDUCATION &amp; KNOWLEDGE</text>
+<text x="400" y="78" text-anchor="middle" font-size="24.0" font-weight="bold" fill="#2d2d2d">Knowledge You Were Given to Pass On</text>
+<rect x="81" y="200" width="140" height="150" rx="12" fill="#b8860b" opacity="0.55"/>
+<path d="M 151.0 228.9 C 132.4 219.0 118.8 225.2 118.8 228.9 L 118.8 271.1 C 118.8 267.4 132.4 262.4 151.0 271.1 C 169.6 262.4 183.2 267.4 183.2 271.1 L 183.2 228.9 C 183.2 225.2 169.6 219.0 151.0 228.9 Z" fill="#faf8f3"/><line x1="151.0" y1="228.9" x2="151.0" y2="271.1" stroke="#b8860b" stroke-width="2.2"/>
+<text x="151" y="302" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#faf8f3">Received</text>
+<line x1="225" y1="275" x2="241" y2="275" stroke="#2d2d2d" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="247" y="200" width="140" height="150" rx="12" fill="#b8860b" opacity="0.70"/>
+<path d="M 317.0 274.8 C 278.6 251.2 294.7 222.7 317.0 241.3 C 339.3 222.7 355.4 251.2 317.0 274.8 Z" fill="#faf8f3"/>
+<text x="317" y="302" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#faf8f3">Understood</text>
+<line x1="391" y1="275" x2="407" y2="275" stroke="#2d2d2d" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="413" y="200" width="140" height="150" rx="12" fill="#b8860b" opacity="0.85"/>
+<path d="M 452.0 258.7 L 476.8 240.1 L 489.2 240.1 L 514.0 258.7 L 504.1 268.6 L 483.0 253.7 L 461.9 268.6 Z" fill="#faf8f3"/>
+<text x="483" y="302" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#faf8f3">Practiced</text>
+<line x1="557" y1="275" x2="573" y2="275" stroke="#2d2d2d" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="579" y="200" width="140" height="150" rx="12" fill="#b8860b" opacity="1.00"/>
+<circle cx="649.0" cy="231.4" r="12.4" fill="#faf8f3"/><path d="M 626.7 282.2 a 22.3 28.5 0 0 1 44.6 0 Z" fill="#faf8f3"/>
+<text x="649" y="302" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#faf8f3">Conveyed</text>
+<text x="400" y="392" text-anchor="middle" font-size="12.5" font-weight="normal" fill="#777777">the isnad model: each link answers for what it passed on</text>
+<line x1="90" y1="516" x2="710" y2="516" stroke="#c9c2b4" stroke-width="1"/>
+<text x="400" y="540" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">Knowledge received is an amanah, not private property; it moves from teacher to student</text>
+<text x="400" y="559" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">to the next learner, unbroken.</text>
+<text x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#b8860b">Bukhari — convey from me, even one verse</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="'Noto Nastaliq Urdu', 'Urdu Typesetting', serif">
+<defs><style>text{font-family:'Noto Nastaliq Urdu', 'Urdu Typesetting', serif;direction:rtl;unicode-bidi:isolate;}text.lat{font-family:Georgia, 'Noto Serif', serif;direction:ltr;}</style><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#b8860b"/>
+<text class="ur" x="400" y="46" text-anchor="middle" font-size="12.8" font-weight="normal" fill="#777777">قرآنی بنیادیں</text>
+<text class="ur" x="400" y="84" text-anchor="middle" font-size="27.8" font-weight="bold" fill="#2d2d2d">سلسلۂ عہدِ انبیاء</text>
+<rect x="-2" y="200" width="140" height="150" rx="12" fill="#b8860b" opacity="0.55"/>
+<circle cx="68.0" cy="231.4" r="12.4" fill="#faf8f3"/><path d="M 45.7 282.2 a 22.3 28.5 0 0 1 44.6 0 Z" fill="#faf8f3"/>
+<text class="ur" x="68" y="302" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#faf8f3">نوح</text>
+<line x1="142" y1="275" x2="158" y2="275" stroke="#2d2d2d" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="164" y="200" width="140" height="150" rx="12" fill="#b8860b" opacity="0.66"/>
+<circle cx="234.0" cy="231.4" r="12.4" fill="#faf8f3"/><path d="M 211.7 282.2 a 22.3 28.5 0 0 1 44.6 0 Z" fill="#faf8f3"/>
+<text class="ur" x="234" y="302" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#faf8f3">ابراہیم</text>
+<line x1="308" y1="275" x2="324" y2="275" stroke="#2d2d2d" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="330" y="200" width="140" height="150" rx="12" fill="#b8860b" opacity="0.78"/>
+<circle cx="400.0" cy="231.4" r="12.4" fill="#faf8f3"/><path d="M 377.7 282.2 a 22.3 28.5 0 0 1 44.6 0 Z" fill="#faf8f3"/>
+<text class="ur" x="400" y="302" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#faf8f3">موسیٰ</text>
+<line x1="474" y1="275" x2="490" y2="275" stroke="#2d2d2d" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="496" y="200" width="140" height="150" rx="12" fill="#b8860b" opacity="0.89"/>
+<circle cx="566.0" cy="231.4" r="12.4" fill="#faf8f3"/><path d="M 543.7 282.2 a 22.3 28.5 0 0 1 44.6 0 Z" fill="#faf8f3"/>
+<text class="ur" x="566" y="302" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#faf8f3">عیسیٰ</text>
+<line x1="640" y1="275" x2="656" y2="275" stroke="#2d2d2d" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="662" y="200" width="140" height="150" rx="12" fill="#b8860b" opacity="1.00"/>
+<polygon points="732.0,221.5 738.9,240.5 759.1,241.2 743.2,253.6 748.8,273.1 732.0,261.8 715.2,273.1 720.8,253.6 704.9,241.2 725.1,240.5" fill="#faf8f3"/>
+<text class="ur" x="732" y="302" text-anchor="middle" font-size="14.5" font-weight="bold" fill="#faf8f3">محمد</text>
+<text class="ur" x="400" y="392" text-anchor="middle" font-size="14.5" font-weight="normal" fill="#777777">میثاقاً غلیظاً — ایک سخت اور پختہ عہد</text>
+<line x1="90" y1="492" x2="710" y2="492" stroke="#c9c2b4" stroke-width="1"/>
+<text class="ur" x="400" y="526" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">نوح سے محمد تک ہر نبی ایک ہی میثاق سے بندھا: تصدیق کرنے اور بعد میں آنے والے کی مدد</text>
+<text class="ur" x="400" y="553" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">کرنا۔</text>
+<text class="lat" x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#b8860b">Q3:81, Q33:7</text>
+</svg>

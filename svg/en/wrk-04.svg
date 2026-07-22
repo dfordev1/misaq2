@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="Georgia, 'Noto Serif', serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#a45c40"/>
+<text x="400" y="46" text-anchor="middle" font-size="11.0" font-weight="normal" fill="#777777">WORK &amp; THE PROFESSIONS</text>
+<text x="400" y="78" text-anchor="middle" font-size="24.0" font-weight="bold" fill="#2d2d2d">Two Sets of Books</text>
+<rect x="70" y="130" width="310" height="316" rx="14" fill="#ffffff" stroke="#a33b2a" stroke-width="2" opacity="0.95"/>
+<text x="225" y="162" text-anchor="middle" font-size="15.0" font-weight="bold" fill="#a33b2a">✗  Two ledgers</text>
+<rect x="193.0" y="208.0" width="64.0" height="88.0" rx="5.0" fill="#a33b2a"/><rect x="205.0" y="224.0" width="40.0" height="5.0" fill="#ffffff" opacity="0.85"/><rect x="205.0" y="241.0" width="40.0" height="5.0" fill="#ffffff" opacity="0.85"/><rect x="205.0" y="258.0" width="40.0" height="5.0" fill="#ffffff" opacity="0.85"/><rect x="205.0" y="275.0" width="40.0" height="5.0" fill="#ffffff" opacity="0.85"/>
+<text x="225" y="336" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">Real books hidden, shown books</text>
+<text x="225" y="353" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">lie</text>
+<text x="225" y="378" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#777777">figures serve concealment</text>
+<rect x="420" y="130" width="310" height="316" rx="14" fill="#ffffff" stroke="#2e6f40" stroke-width="2" opacity="0.95"/>
+<text x="575" y="162" text-anchor="middle" font-size="15.0" font-weight="bold" fill="#2e6f40">✓  One ledger</text>
+<rect x="543.0" y="208.0" width="64.0" height="88.0" rx="5.0" fill="#2e6f40"/><rect x="555.0" y="224.0" width="40.0" height="5.0" fill="#ffffff" opacity="0.85"/><rect x="555.0" y="241.0" width="40.0" height="5.0" fill="#ffffff" opacity="0.85"/><rect x="555.0" y="258.0" width="40.0" height="5.0" fill="#ffffff" opacity="0.85"/><rect x="555.0" y="275.0" width="40.0" height="5.0" fill="#ffffff" opacity="0.85"/>
+<text x="575" y="336" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">What is recorded is what is</text>
+<text x="575" y="353" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">true</text>
+<text x="575" y="378" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#777777">figures serve disclosure</text>
+<line x1="400" y1="140" x2="400" y2="436" stroke="#c9c2b4" stroke-dasharray="5 5"/>
+<line x1="90" y1="516" x2="710" y2="516" stroke="#c9c2b4" stroke-width="1"/>
+<text x="400" y="540" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">An accountant who keeps a true ledger and a shown ledger has turned trust into a tool of</text>
+<text x="400" y="559" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">deceit against those relying on the numbers.</text>
+<text x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#a45c40">Q83:1-3</text>
+</svg>

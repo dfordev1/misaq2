@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="'Noto Nastaliq Urdu', 'Urdu Typesetting', serif">
+<defs><style>text{font-family:'Noto Nastaliq Urdu', 'Urdu Typesetting', serif;direction:rtl;unicode-bidi:isolate;}text.lat{font-family:Georgia, 'Noto Serif', serif;direction:ltr;}</style><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#0f5257"/>
+<text class="ur" x="400" y="46" text-anchor="middle" font-size="12.8" font-weight="normal" fill="#777777">صحت، بدن و طب</text>
+<text class="ur" x="400" y="84" text-anchor="middle" font-size="27.8" font-weight="bold" fill="#2d2d2d">چالیسویں لغزش اور پہلی واپسی</text>
+<path d="M 454.5 156.2 A 128 128 0 0 1 515.8 217.5" fill="none" stroke="#0f5257" stroke-width="2.5" opacity="0.65"/>
+<polygon points="519.6,225.6 510.3,215.2 517.6,211.8" fill="#0f5257" opacity="0.9"/>
+<path d="M 515.8 326.5 A 128 128 0 0 1 454.5 387.8" fill="none" stroke="#0f5257" stroke-width="2.5" opacity="0.65"/>
+<polygon points="446.4,391.6 456.8,382.3 460.2,389.6" fill="#0f5257" opacity="0.9"/>
+<path d="M 345.5 387.8 A 128 128 0 0 1 284.2 326.5" fill="none" stroke="#0f5257" stroke-width="2.5" opacity="0.65"/>
+<polygon points="280.4,318.4 289.7,328.8 282.4,332.2" fill="#0f5257" opacity="0.9"/>
+<path d="M 284.2 217.5 A 128 128 0 0 1 345.5 156.2" fill="none" stroke="#0f5257" stroke-width="2.5" opacity="0.65"/>
+<polygon points="353.6,152.4 343.2,161.7 339.8,154.4" fill="#0f5257" opacity="0.9"/>
+<circle cx="400.0" cy="144.0" r="46" fill="#0f5257"/>
+<path d="M 400.0 118.5 C 412.9 134.5 413.7 152.7 400.0 152.7 C 386.3 152.7 387.1 134.5 400.0 118.5 Z" fill="#faf8f3"/>
+<text class="ur" x="400" y="170" text-anchor="middle" font-size="12.2" font-weight="normal" fill="#faf8f3">لغزش</text>
+<circle cx="528.0" cy="272.0" r="46" fill="#0f5257"/>
+<path d="M 528.0 279.2 C 504.4 264.8 514.3 247.3 528.0 258.7 C 541.7 247.3 551.6 264.8 528.0 279.2 Z" fill="#faf8f3"/>
+<text class="ur" x="528" y="298" text-anchor="middle" font-size="12.2" font-weight="normal" fill="#faf8f3">ندامت</text>
+<circle cx="400.0" cy="400.0" r="46" fill="#0f5257"/>
+<path d="M 381.0 397.3 L 396.2 385.9 L 403.8 385.9 L 419.0 397.3 L 412.9 403.4 L 400.0 394.3 L 387.1 403.4 Z" fill="#faf8f3"/>
+<text class="ur" x="400" y="426" text-anchor="middle" font-size="12.2" font-weight="normal" fill="#faf8f3">واپسی</text>
+<circle cx="272.0" cy="272.0" r="46" fill="#0f5257"/>
+<polygon points="272.0,246.5 276.2,258.2 288.6,258.6 278.9,266.2 282.3,278.1 272.0,271.2 261.7,278.1 265.1,266.2 255.4,258.6 267.8,258.2" fill="#faf8f3"/>
+<text class="ur" x="272" y="298" text-anchor="middle" font-size="12.2" font-weight="normal" fill="#faf8f3">رحمت</text>
+<text class="ur" x="400" y="276" text-anchor="middle" font-size="15.7" font-weight="bold" fill="#2d2d2d">عہد کی تجدید</text>
+<line x1="90" y1="492" x2="710" y2="492" stroke="#c9c2b4" stroke-width="1"/>
+<text class="ur" x="400" y="526" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">ہر لغزش اپنے آپ سے عہد کا خاتمہ نہیں — بار بار لوٹنا ہی اللہ سے عہد کی تجدید ہے۔</text>
+<text class="lat" x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#0f5257">Q39:53</text>
+</svg>

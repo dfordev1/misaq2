@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="Georgia, 'Noto Serif', serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#a45c40"/>
+<text x="400" y="46" text-anchor="middle" font-size="11.0" font-weight="normal" fill="#777777">DIGITAL &amp; TECHNOLOGY</text>
+<text x="400" y="78" text-anchor="middle" font-size="24.0" font-weight="bold" fill="#2d2d2d">The Data You Were Handed to Guard</text>
+<path d="M 250 150 L 550 150 L 550 300 C 550 372 486 420 400 440 C 314 420 250 372 250 300 Z" fill="#a45c40" opacity="0.10" stroke="#a45c40" stroke-width="2.5"/>
+<text x="400" y="176" text-anchor="middle" font-size="13.0" font-weight="bold" fill="#a45c40">held in amanah</text>
+<circle cx="335" cy="232" r="31" fill="#ffffff" stroke="#a45c40" stroke-width="1.5"/>
+<circle cx="335.0" cy="219.8" r="6.8" fill="#a45c40"/><path d="M 322.8 247.7 a 12.2 15.6 0 0 1 24.5 0 Z" fill="#a45c40"/>
+<text x="335" y="282" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#2d2d2d">Name, address</text>
+<circle cx="465" cy="232" r="31" fill="#ffffff" stroke="#a45c40" stroke-width="1.5"/>
+<rect x="455.5" y="214.4" width="19.0" height="31.3" rx="3.1" fill="#a45c40"/><rect x="458.2" y="218.4" width="13.6" height="19.7" fill="#ffffff" opacity="0.9"/>
+<text x="465" y="282" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#2d2d2d">Messages</text>
+<circle cx="335" cy="328" r="31" fill="#ffffff" stroke="#a45c40" stroke-width="1.5"/>
+<path d="M 327.5 324.0 L 327.5 317.2 a 7.5 7.5 0 0 1 15.0 0 L 342.5 324.0" fill="none" stroke="#a45c40" stroke-width="3.1"/><rect x="323.4" y="324.0" width="23.1" height="16.3" rx="2.0" fill="#a45c40"/>
+<text x="335" y="378" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#2d2d2d">Passwords</text>
+<circle cx="465" cy="328" r="31" fill="#ffffff" stroke="#a45c40" stroke-width="1.5"/>
+<rect x="454.1" y="311.0" width="21.8" height="29.9" rx="1.7" fill="#a45c40"/><rect x="458.2" y="316.5" width="13.6" height="1.7" fill="#ffffff" opacity="0.85"/><rect x="458.2" y="322.3" width="13.6" height="1.7" fill="#ffffff" opacity="0.85"/><rect x="458.2" y="328.0" width="13.6" height="1.7" fill="#ffffff" opacity="0.85"/><rect x="458.2" y="333.8" width="13.6" height="1.7" fill="#ffffff" opacity="0.85"/>
+<text x="465" y="378" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#2d2d2d">Records</text>
+<text x="400" y="480" text-anchor="middle" font-size="13.0" font-weight="bold" fill="#2d2d2d">The company is custodian, never proprietor of user data</text>
+<line x1="90" y1="516" x2="710" y2="516" stroke="#c9c2b4" stroke-width="1"/>
+<text x="400" y="540" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">A user&#x27;s personal data held on your servers is amanah, not raw material. You are its</text>
+<text x="400" y="559" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">custodian, never its owner to exploit.</text>
+<text x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#a45c40">Q4:58</text>
+</svg>

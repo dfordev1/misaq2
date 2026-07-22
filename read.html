@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="ur">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>اسلامی معاہداتی الٰہیات — تعارف</title>
+<meta name="description" content="قرآن، حدیث، سیرت اور علومِ اسلامیہ کی روشنی میں عہد، میثاق، امانت اور عقود کا مفصل اردو تعارف۔">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="top"><div class="wrap topin">
+  <a class="brand" href="index.html">Islamic <span>Covenant Theology</span></a>
+  <nav class="main">
+    <a href="index.html">Home</a>
+    <a href="browse.html">Diagrams</a>
+    <a href="read.html" class="on">تعارف</a>
+    <a href="about.html" class="hide-s">Method</a>
+  </nav>
+</div></header>
+
+<main class="wrap"><div class="readwrap">
+  <aside class="toc ur"><ol id="toc"></ol></aside>
+  <div>
+    <div class="chhead">
+      <p class="pt" id="pt"></p>
+      <h1 id="ct"></h1>
+      <p class="en" id="ce"></p>
+    </div>
+    <article class="prose" id="body"></article>
+    <div id="diagrams"></div>
+    <div style="display:flex;justify-content:space-between;gap:14px;margin-top:44px;
+                padding-top:20px;border-top:1px solid var(--line)">
+      <button id="prev" class="btn ghost" style="cursor:pointer;background:none">&larr; پچھلا باب</button>
+      <button id="next" class="btn ghost" style="cursor:pointer;background:none">اگلا باب &rarr;</button>
+    </div>
+  </div>
+</div></main>
+
+<footer class="bot"><div class="wrap">
+  <p>یہ تعارف قرآن، صحیح احادیث، سیرت اور علومِ اسلامیہ کے مآخذ پر مبنی ہے۔ ہر خاکہ ایک
+  اجتہادی اطلاق ہے، فتویٰ نہیں۔</p>
+</div></footer>
+
+<script src="app.js"></script>
+<script>
+(async function(){
+  const {chapters} = await CT.intro();
+  const toc=document.getElementById('toc');
+  let cur = Math.max(0, chapters.findIndex(c=>c.id===new URLSearchParams(location.search).get('ch')));
+
+  chapters.forEach((c,i)=>{
+    const li=document.createElement('li'), a=document.createElement('a');
+    a.href='?ch='+c.id; a.textContent=c.title_ur;
+    a.addEventListener('click',e=>{e.preventDefault();show(i);history.replaceState({}, '', '?ch='+c.id);});
+    li.appendChild(a); toc.appendChild(li);
+  });
+
+  function block(b){
+    const e=document.createElement(
+      b.t==='p'||b.t==='note' ? 'p' :
+      b.t==='h2' ? 'h2' : b.t==='h3' ? 'h3' :
+      b.t==='list' ? 'ul' : b.t==='table' ? 'table' : 'blockquote');
+    if(b.t==='note') e.className='note';
+    if(b.t==='hadith') e.className='hadith';
+    if(b.t==='list'){ (b.items||[]).forEach(x=>{const li=document.createElement('li');li.textContent=x;e.appendChild(li);}); }
+    else if(b.t==='table'){
+      const th=document.createElement('thead'), tr=document.createElement('tr');
+      (b.head||[]).forEach(h=>{const c=document.createElement('th');c.textContent=h;tr.appendChild(c);});
+      th.appendChild(tr); e.appendChild(th);
+      const tb=document.createElement('tbody');
+      (b.rows||[]).forEach(r=>{const x=document.createElement('tr');
+        r.forEach(v=>{const c=document.createElement('td');c.textContent=v;x.appendChild(c);});
+        tb.appendChild(x);});
+      e.appendChild(tb);
+    }
+    else if(b.t==='ayah'||b.t==='hadith'){
+      if(b.ar){const s=document.createElement('span');s.className='ar';s.textContent=b.ar;e.appendChild(s);}
+      const t=document.createElement('span');t.className='tr';t.textContent=b.ur||'';e.appendChild(t);
+      if(b.ref){const r=document.createElement('span');r.className='ref';r.textContent=b.ref;e.appendChild(r);}
+    }
+    else e.textContent=b.ur||'';
+    return e;
+  }
+
+  async function show(i){
+    cur=i; const c=chapters[i];
+    document.getElementById('pt').textContent='Chapter '+c.n+' of '+chapters.length;
+    document.getElementById('ct').textContent=c.title_ur;
+    document.getElementById('ce').textContent=c.title_en;
+    const body=document.getElementById('body'); body.innerHTML='';
+    (c.blocks||[]).forEach(b=>body.appendChild(block(b)));
+    const dz=document.getElementById('diagrams'); dz.innerHTML='';
+    for(const id of (c.diagrams||[])){
+      const f=document.createElement('div'); f.className='chdiag';
+      dz.appendChild(f); CT.inject(f,id,'ur');
+    }
+    toc.querySelectorAll('a').forEach((a,k)=>a.classList.toggle('on',k===i));
+    document.getElementById('prev').disabled=i===0;
+    document.getElementById('next').disabled=i===chapters.length-1;
+    window.scrollTo({top:0,behavior:'instant'});
+  }
+  document.getElementById('prev').onclick=()=>{if(cur>0){show(cur-1);history.replaceState({},'','?ch='+chapters[cur].id);}};
+  document.getElementById('next').onclick=()=>{if(cur<chapters.length-1){show(cur+1);history.replaceState({},'','?ch='+chapters[cur].id);}};
+  show(cur<0?0:cur);
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="Georgia, 'Noto Serif', serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#a45c40"/>
+<text x="400" y="46" text-anchor="middle" font-size="11.0" font-weight="normal" fill="#777777">FAMILY &amp; PERSONAL LIFE</text>
+<text x="400" y="78" text-anchor="middle" font-size="24.0" font-weight="bold" fill="#2d2d2d">Who Takes the Aging Parent In</text>
+<line x1="400" y1="170" x2="400" y2="380" stroke="#a45c40" stroke-width="7"/>
+<rect x="330" y="380" width="140" height="14" rx="4" fill="#a45c40"/>
+<line x1="200" y1="200" x2="600" y2="200" stroke="#a45c40" stroke-width="6"/>
+<circle cx="400" cy="200" r="13" fill="#2d2d2d"/>
+<line x1="215" y1="200" x2="215" y2="252" stroke="#a45c40" stroke-width="2"/>
+<path d="M 143 252 L 287 252 L 261 306 L 169 306 Z" fill="#ffffff" stroke="#a45c40" stroke-width="2"/>
+<circle cx="215.0" cy="264.8" r="8.8" fill="#a45c40"/><path d="M 199.2 300.9 a 15.8 20.2 0 0 1 31.7 0 Z" fill="#a45c40"/>
+<text x="215" y="336" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#2d2d2d">One sibling&#x27;s burden</text>
+<text x="215" y="352" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#777777">if left to carry it alone</text>
+<line x1="585" y1="200" x2="585" y2="252" stroke="#a45c40" stroke-width="2"/>
+<path d="M 513 252 L 657 252 L 631 306 L 539 306 Z" fill="#ffffff" stroke="#a45c40" stroke-width="2"/>
+<circle cx="585.0" cy="267.7" r="6.9" fill="#a45c40"/><path d="M 572.6 295.8 a 12.4 15.8 0 0 1 24.7 0 Z" fill="#a45c40"/><g opacity="0.55"><circle cx="562.1" cy="271.9" r="5.8" fill="#a45c40"/><path d="M 551.7 295.7 a 10.5 13.4 0 0 1 20.9 0 Z" fill="#a45c40"/></g><g opacity="0.55"><circle cx="607.9" cy="271.9" r="5.8" fill="#a45c40"/><path d="M 597.4 295.7 a 10.5 13.4 0 0 1 20.9 0 Z" fill="#a45c40"/></g>
+<text x="585" y="336" text-anchor="middle" font-size="13.5" font-weight="bold" fill="#2d2d2d">Shared duty</text>
+<text x="585" y="352" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#777777">owed by all the children</text>
+<text x="400" y="424" text-anchor="middle" font-size="12.5" font-weight="normal" fill="#777777">kindness to parents is not delegable to the eldest alone</text>
+<line x1="90" y1="516" x2="710" y2="516" stroke="#c9c2b4" stroke-width="1"/>
+<text x="400" y="540" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">Care owed to elderly parents is not a favor one sibling grants while others opt out; the</text>
+<text x="400" y="559" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">household&#x27;s duty of kindness to parents falls on all of them jointly.</text>
+<text x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#a45c40">Q17:23 — kindness to parents</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="'Noto Nastaliq Urdu', 'Urdu Typesetting', serif">
+<defs><style>text{font-family:'Noto Nastaliq Urdu', 'Urdu Typesetting', serif;direction:rtl;unicode-bidi:isolate;}text.lat{font-family:Georgia, 'Noto Serif', serif;direction:ltr;}</style><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#0f5257"/>
+<text class="ur" x="400" y="46" text-anchor="middle" font-size="12.8" font-weight="normal" fill="#777777">عہد و میثاق: بنیادی تصور</text>
+<text class="ur" x="400" y="84" text-anchor="middle" font-size="27.8" font-weight="bold" fill="#2d2d2d">میثاقی اصطلاحات کا خاندان</text>
+<rect x="76" y="161" width="200" height="128" rx="12" fill="#ffffff" stroke="#0f5257" stroke-width="1.8"/>
+<rect x="161.3" y="182.8" width="29.4" height="40.5" rx="2.3" fill="#0f5257"/><rect x="166.8" y="190.1" width="18.4" height="2.3" fill="#ffffff" opacity="0.85"/><rect x="166.8" y="197.9" width="18.4" height="2.3" fill="#ffffff" opacity="0.85"/><rect x="166.8" y="205.8" width="18.4" height="2.3" fill="#ffffff" opacity="0.85"/><rect x="166.8" y="213.6" width="18.4" height="2.3" fill="#ffffff" opacity="0.85"/>
+<text class="ur" x="176" y="249" text-anchor="middle" font-size="13.9" font-weight="bold" fill="#2d2d2d">عہد: مسلسل وفا</text>
+<rect x="300" y="161" width="200" height="128" rx="12" fill="#ffffff" stroke="#0f5257" stroke-width="1.8"/>
+<path d="M 389.9 200.2 L 389.9 191.0 a 10.1 10.1 0 0 1 20.2 0 L 410.1 200.2" fill="none" stroke="#0f5257" stroke-width="4.1"/><rect x="384.4" y="200.2" width="31.3" height="22.1" rx="2.8" fill="#0f5257"/>
+<text class="ur" x="400" y="249" text-anchor="middle" font-size="13.9" font-weight="bold" fill="#2d2d2d">میثاق — سخت</text>
+<text class="ur" x="400" y="272" text-anchor="middle" font-size="13.9" font-weight="bold" fill="#2d2d2d">پابندی</text>
+<rect x="524" y="161" width="200" height="128" rx="12" fill="#ffffff" stroke="#0f5257" stroke-width="1.8"/>
+<path d="M 601.0 209.4 L 619.4 195.6 L 628.6 195.6 L 647.0 209.4 L 639.6 216.8 L 624.0 205.8 L 608.4 216.8 Z" fill="#0f5257"/>
+<text class="ur" x="624" y="249" text-anchor="middle" font-size="13.9" font-weight="bold" fill="#2d2d2d">عقد — باہمی</text>
+<text class="ur" x="624" y="272" text-anchor="middle" font-size="13.9" font-weight="bold" fill="#2d2d2d">معاہدہ</text>
+<rect x="76" y="311" width="200" height="128" rx="12" fill="#ffffff" stroke="#0f5257" stroke-width="1.8"/>
+<path d="M 176.0 330.9 L 194.4 339.2 L 194.4 357.6 C 194.4 368.6 185.2 374.2 176.0 376.9 C 166.8 374.2 157.6 368.6 157.6 357.6 L 157.6 339.2 Z" fill="#0f5257"/>
+<text class="ur" x="176" y="399" text-anchor="middle" font-size="13.9" font-weight="bold" fill="#2d2d2d">امانت: سونپی چیز</text>
+<rect x="300" y="311" width="200" height="128" rx="12" fill="#ffffff" stroke="#0f5257" stroke-width="1.8"/>
+<circle cx="400.0" cy="342.2" r="7.2" fill="#0f5257"/><path d="M 387.1 371.7 a 12.9 16.5 0 0 1 25.8 0 Z" fill="#0f5257"/><g opacity="0.55"><circle cx="376.1" cy="346.7" r="6.1" fill="#0f5257"/><path d="M 365.2 371.5 a 10.9 14.0 0 0 1 21.9 0 Z" fill="#0f5257"/></g><g opacity="0.55"><circle cx="423.9" cy="346.7" r="6.1" fill="#0f5257"/><path d="M 413.0 371.5 a 10.9 14.0 0 0 1 21.9 0 Z" fill="#0f5257"/></g>
+<text class="ur" x="400" y="399" text-anchor="middle" font-size="13.9" font-weight="bold" fill="#2d2d2d">بیعت: عہدِ</text>
+<text class="ur" x="400" y="422" text-anchor="middle" font-size="13.9" font-weight="bold" fill="#2d2d2d">وفاداری</text>
+<rect x="524" y="311" width="200" height="128" rx="12" fill="#ffffff" stroke="#0f5257" stroke-width="1.8"/>
+<path d="M 601.0 353.0 L 624.0 332.3 L 647.0 353.0 Z" fill="#0f5257"/><rect x="607.4" y="353.0" width="33.1" height="21.2" fill="#0f5257" opacity="0.85"/>
+<text class="ur" x="624" y="399" text-anchor="middle" font-size="13.9" font-weight="bold" fill="#2d2d2d">ذمہ: تحفظ کا عہد</text>
+<line x1="90" y1="492" x2="710" y2="492" stroke="#c9c2b4" stroke-width="1"/>
+<text class="ur" x="400" y="526" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">قرآن پابندیِ عہد کے لیے چھ ہم معنی مگر جداگانہ اصطلاحات استعمال کرتا ہے۔</text>
+<text class="lat" x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#0f5257">Q16:91</text>
+</svg>

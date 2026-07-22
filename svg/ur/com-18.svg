@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="'Noto Nastaliq Urdu', 'Urdu Typesetting', serif">
+<defs><style>text{font-family:'Noto Nastaliq Urdu', 'Urdu Typesetting', serif;direction:rtl;unicode-bidi:isolate;}text.lat{font-family:Georgia, 'Noto Serif', serif;direction:ltr;}</style><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#a45c40"/>
+<text class="ur" x="400" y="46" text-anchor="middle" font-size="12.8" font-weight="normal" fill="#777777">معاشرہ و ماحول</text>
+<text class="ur" x="400" y="84" text-anchor="middle" font-size="27.8" font-weight="bold" fill="#2d2d2d">بینچ جس کا مالک کوئی نہیں، استعمال</text>
+<text class="ur" x="400" y="131" text-anchor="middle" font-size="27.8" font-weight="bold" fill="#2d2d2d">سب کا</text>
+<rect x="188" y="161" width="200" height="128" rx="12" fill="#ffffff" stroke="#a45c40" stroke-width="1.8"/>
+<circle cx="288.0" cy="203.0" r="20.2" fill="#a45c40"/><ellipse cx="288.0" cy="203.0" rx="8.3" ry="20.2" fill="none" stroke="#ffffff" stroke-width="1.6" opacity="0.85"/><line x1="267.8" y1="203.0" x2="308.2" y2="203.0" stroke="#ffffff" stroke-width="1.6" opacity="0.85"/>
+<text class="ur" x="288" y="249" text-anchor="middle" font-size="13.9" font-weight="bold" fill="#2d2d2d">مشترک، نجی نہیں</text>
+<rect x="412" y="161" width="200" height="128" rx="12" fill="#ffffff" stroke="#a45c40" stroke-width="1.8"/>
+<path d="M 489.0 209.4 L 507.4 195.6 L 516.6 195.6 L 535.0 209.4 L 527.6 216.8 L 512.0 205.8 L 496.4 216.8 Z" fill="#a45c40"/>
+<text class="ur" x="512" y="249" text-anchor="middle" font-size="13.9" font-weight="bold" fill="#2d2d2d">صاف چھوڑو</text>
+<rect x="188" y="311" width="200" height="128" rx="12" fill="#ffffff" stroke="#a45c40" stroke-width="1.8"/>
+<circle cx="288.0" cy="342.2" r="7.2" fill="#a45c40"/><path d="M 275.1 371.7 a 12.9 16.5 0 0 1 25.8 0 Z" fill="#a45c40"/><g opacity="0.55"><circle cx="264.1" cy="346.7" r="6.1" fill="#a45c40"/><path d="M 253.2 371.5 a 10.9 14.0 0 0 1 21.9 0 Z" fill="#a45c40"/></g><g opacity="0.55"><circle cx="311.9" cy="346.7" r="6.1" fill="#a45c40"/><path d="M 301.0 371.5 a 10.9 14.0 0 0 1 21.9 0 Z" fill="#a45c40"/></g>
+<text class="ur" x="288" y="399" text-anchor="middle" font-size="13.9" font-weight="bold" fill="#2d2d2d">دوسرے باری کے</text>
+<text class="ur" x="288" y="422" text-anchor="middle" font-size="13.9" font-weight="bold" fill="#2d2d2d">منتظر</text>
+<rect x="412" y="311" width="200" height="128" rx="12" fill="#ffffff" stroke="#a45c40" stroke-width="1.8"/>
+<path d="M 512.0 371.4 C 483.5 353.9 495.4 332.8 512.0 346.6 C 528.6 332.8 540.5 353.9 512.0 371.4 Z" fill="#a45c40"/>
+<text class="ur" x="512" y="399" text-anchor="middle" font-size="13.9" font-weight="bold" fill="#2d2d2d">عاریت کی طرح خیال</text>
+<line x1="90" y1="492" x2="710" y2="492" stroke="#c9c2b4" stroke-width="1"/>
+<text class="ur" x="400" y="526" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">عوامی بینچ، پارک راستہ یا چوک نہ کسی کا ہے نہ سب کا — ہر استعمال کنندہ اسے ویسی ہی</text>
+<text class="ur" x="400" y="553" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">نگہداشت کا مقروض ہے جیسے عاریتاً چیز کی۔</text>
+<text class="lat" x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#a45c40">Muslim — removing harm from the road is a branch of faith</text>
+</svg>

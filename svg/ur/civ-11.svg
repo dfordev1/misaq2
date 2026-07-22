@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="'Noto Nastaliq Urdu', 'Urdu Typesetting', serif">
+<defs><style>text{font-family:'Noto Nastaliq Urdu', 'Urdu Typesetting', serif;direction:rtl;unicode-bidi:isolate;}text.lat{font-family:Georgia, 'Noto Serif', serif;direction:ltr;}</style><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#4a4a68"/>
+<text class="ur" x="400" y="46" text-anchor="middle" font-size="12.8" font-weight="normal" fill="#777777">شہری زندگی و قانون</text>
+<text class="ur" x="400" y="84" text-anchor="middle" font-size="27.8" font-weight="bold" fill="#2d2d2d">حد سے بڑھے افسر کی فلم بندی</text>
+<path d="M 215.0 193.4 L 262.2 214.6 L 262.2 261.8 C 262.2 290.1 238.6 304.3 215.0 311.4 C 191.4 304.3 167.8 290.1 167.8 261.8 L 167.8 214.6 Z" fill="#4a4a68"/>
+<text class="ur" x="215" y="348" text-anchor="middle" font-size="18.6" font-weight="bold" fill="#2d2d2d">افسر</text>
+<text class="ur" x="215" y="372" text-anchor="middle" font-size="13.3" font-weight="normal" fill="#777777">تفویض شدہ طاقت رکھتا</text>
+<text class="ur" x="215" y="394" text-anchor="middle" font-size="13.3" font-weight="normal" fill="#777777">ہے</text>
+<circle cx="585.0" cy="222.4" r="18.4" fill="#4a4a68"/><path d="M 551.9 297.9 a 33.1 42.3 0 0 1 66.3 0 Z" fill="#4a4a68"/><g opacity="0.55"><circle cx="523.6" cy="233.7" r="15.6" fill="#4a4a68"/><path d="M 495.6 297.6 a 28.0 35.8 0 0 1 56.1 0 Z" fill="#4a4a68"/></g><g opacity="0.55"><circle cx="646.4" cy="233.7" r="15.6" fill="#4a4a68"/><path d="M 618.3 297.6 a 28.0 35.8 0 0 1 56.1 0 Z" fill="#4a4a68"/></g>
+<text class="ur" x="585" y="348" text-anchor="middle" font-size="18.6" font-weight="bold" fill="#2d2d2d">عوام</text>
+<text class="ur" x="585" y="372" text-anchor="middle" font-size="13.3" font-weight="normal" fill="#777777">منصفانہ سلوک کے</text>
+<text class="ur" x="585" y="394" text-anchor="middle" font-size="13.3" font-weight="normal" fill="#777777">حقدار</text>
+<line x1="300" y1="250" x2="490" y2="250" stroke="#4a4a68" stroke-width="3" marker-end="url(#ar)"/>
+<line x1="500" y1="288" x2="310" y2="288" stroke="#4a4a68" stroke-width="2" stroke-dasharray="6 4" opacity="0.7" marker-end="url(#ar)"/>
+<text class="ur" x="400" y="312" text-anchor="middle" font-size="12.8" font-weight="normal" fill="#777777">اس کے استعمال پر جوابدہ</text>
+<text class="ur" x="400" y="236" text-anchor="middle" font-size="15.1" font-weight="bold" fill="#4a4a68">جبری طاقت کی امانت</text>
+<line x1="90" y1="492" x2="710" y2="492" stroke="#c9c2b4" stroke-width="1"/>
+<text class="ur" x="400" y="526" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">پولیس کو تفویض شدہ طاقت حفاظت کے لیے ہے، زیادتی کے لیے نہیں؛ اس طاقت کو جوابدہ</text>
+<text class="ur" x="400" y="553" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">بنانا اسی امانت کو قائم رکھنا ہے جس پر وہ دی گئی۔</text>
+<text class="lat" x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#4a4a68">Q4:58</text>
+</svg>

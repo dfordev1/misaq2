@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="'Noto Nastaliq Urdu', 'Urdu Typesetting', serif">
+<defs><style>text{font-family:'Noto Nastaliq Urdu', 'Urdu Typesetting', serif;direction:rtl;unicode-bidi:isolate;}text.lat{font-family:Georgia, 'Noto Serif', serif;direction:ltr;}</style><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#a45c40"/>
+<text class="ur" x="400" y="46" text-anchor="middle" font-size="12.8" font-weight="normal" fill="#777777">تعلیم و علم</text>
+<text class="ur" x="400" y="84" text-anchor="middle" font-size="27.8" font-weight="bold" fill="#2d2d2d">لیکچر جو دس بار چھوڑا</text>
+<line x1="400" y1="170" x2="400" y2="380" stroke="#a45c40" stroke-width="7"/>
+<rect x="330" y="380" width="140" height="14" rx="4" fill="#a45c40"/>
+<line x1="200" y1="200" x2="600" y2="200" stroke="#a45c40" stroke-width="6"/>
+<circle cx="400" cy="200" r="13" fill="#2d2d2d"/>
+<line x1="215" y1="200" x2="215" y2="252" stroke="#a45c40" stroke-width="2"/>
+<path d="M 143 252 L 287 252 L 261 306 L 169 306 Z" fill="#ffffff" stroke="#a45c40" stroke-width="2"/>
+<circle cx="215.0" cy="278.0" r="19.4" fill="none" stroke="#a45c40" stroke-width="4.0"/><line x1="215.0" y1="278.0" x2="215.0" y2="266.6" stroke="#a45c40" stroke-width="3.1"/><line x1="215.0" y1="278.0" x2="223.8" y2="282.4" stroke="#a45c40" stroke-width="3.1"/>
+<text class="ur" x="215" y="336" text-anchor="middle" font-size="15.7" font-weight="bold" fill="#2d2d2d">لی گئی جگہ و وقت</text>
+<text class="ur" x="215" y="352" text-anchor="middle" font-size="13.3" font-weight="normal" fill="#777777">تمہارے نام محفوظ نشست</text>
+<line x1="585" y1="200" x2="585" y2="252" stroke="#a45c40" stroke-width="2"/>
+<path d="M 513 252 L 657 252 L 631 306 L 539 306 Z" fill="#ffffff" stroke="#a45c40" stroke-width="2"/>
+<path d="M 585.0 263.0 C 571.8 256.0 562.1 260.4 562.1 263.0 L 562.1 293.0 C 562.1 290.3 571.8 286.8 585.0 293.0 C 598.2 286.8 607.9 290.3 607.9 293.0 L 607.9 263.0 C 607.9 260.4 598.2 256.0 585.0 263.0 Z" fill="#a45c40"/><line x1="585.0" y1="263.0" x2="585.0" y2="293.0" stroke="#faf8f3" stroke-width="1.5"/>
+<text class="ur" x="585" y="336" text-anchor="middle" font-size="15.7" font-weight="bold" fill="#2d2d2d">حاصل شدہ تعلیم</text>
+<text class="ur" x="585" y="352" text-anchor="middle" font-size="13.3" font-weight="normal" fill="#777777">جس کے لیے نشست تھی</text>
+<text class="ur" x="400" y="424" text-anchor="middle" font-size="14.5" font-weight="normal" fill="#777777">خالی نشست بھی کسی کی باری چھینتی ہے</text>
+<line x1="90" y1="492" x2="710" y2="492" stroke="#c9c2b4" stroke-width="1"/>
+<text class="ur" x="400" y="526" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">دوسروں کے فنڈ سے چلتی جماعت اور استاد کا محنت سے تیار وقت حاضری کا فرض عائد کرتا</text>
+<text class="ur" x="400" y="553" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">ہے؛ مسلسل غیرحاضری کسی اور کی جگہ لیتی ہے۔</text>
+<text class="lat" x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#a45c40">Q17:34 — وعدے کے بارے میں پوچھا جائے گا</text>
+</svg>

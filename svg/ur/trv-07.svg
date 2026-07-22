@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="'Noto Nastaliq Urdu', 'Urdu Typesetting', serif">
+<defs><style>text{font-family:'Noto Nastaliq Urdu', 'Urdu Typesetting', serif;direction:rtl;unicode-bidi:isolate;}text.lat{font-family:Georgia, 'Noto Serif', serif;direction:ltr;}</style><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#0f5257"/>
+<text class="ur" x="400" y="46" text-anchor="middle" font-size="12.8" font-weight="normal" fill="#777777">سفر، ہجرت و مہمان نوازی</text>
+<text class="ur" x="400" y="84" text-anchor="middle" font-size="27.8" font-weight="bold" fill="#2d2d2d">وہ حرم جو پامال نہیں کیا جا سکتا</text>
+<path d="M 250 150 L 550 150 L 550 300 C 550 372 486 420 400 440 C 314 420 250 372 250 300 Z" fill="#0f5257" opacity="0.10" stroke="#0f5257" stroke-width="2.5"/>
+<text class="ur" x="400" y="176" text-anchor="middle" font-size="15.1" font-weight="bold" fill="#0f5257">حرم — امانت میں رکھا گیا</text>
+<circle cx="335" cy="232" r="31" fill="#ffffff" stroke="#0f5257" stroke-width="1.5"/>
+<circle cx="335.0" cy="219.8" r="6.8" fill="#0f5257"/><path d="M 322.8 247.7 a 12.2 15.6 0 0 1 24.5 0 Z" fill="#0f5257"/>
+<text class="ur" x="335" y="282" text-anchor="middle" font-size="13.3" font-weight="normal" fill="#2d2d2d">خوفزدہ</text>
+<circle cx="465" cy="232" r="31" fill="#ffffff" stroke="#0f5257" stroke-width="1.5"/>
+<path d="M 465.0 213.7 L 478.6 219.8 L 478.6 233.4 C 478.6 241.6 471.8 245.6 465.0 247.7 C 458.2 245.6 451.4 241.6 451.4 233.4 L 451.4 219.8 Z" fill="#0f5257"/>
+<text class="ur" x="465" y="282" text-anchor="middle" font-size="13.3" font-weight="normal" fill="#2d2d2d">سلامتی</text>
+<circle cx="335" cy="328" r="31" fill="#ffffff" stroke="#0f5257" stroke-width="1.5"/>
+<path d="M 318.0 326.0 L 335.0 310.7 L 352.0 326.0 Z" fill="#0f5257"/><rect x="322.8" y="326.0" width="24.5" height="15.6" fill="#0f5257" opacity="0.85"/>
+<text class="ur" x="335" y="378" text-anchor="middle" font-size="13.3" font-weight="normal" fill="#2d2d2d">پناہ گاہ</text>
+<text class="ur" x="400" y="480" text-anchor="middle" font-size="15.1" font-weight="bold" fill="#2d2d2d">حرم کی حفاظت ہوتی ہے، شکارگاہ نہیں بنتا</text>
+<line x1="90" y1="492" x2="710" y2="492" stroke="#c9c2b4" stroke-width="1"/>
+<text class="ur" x="400" y="526" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">حرم خوفزدہ لوگوں کو امانت کے طور پر تھامتا ہے؛ اسے انتقام یا نفع کے لیے پامال کرنا</text>
+<text class="ur" x="400" y="553" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">حرمت کے مفہوم کی خیانت ہے۔</text>
+<text class="lat" x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#0f5257">Q3:97 — whoever enters it is safe</text>
+</svg>

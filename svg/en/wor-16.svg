@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="Georgia, 'Noto Serif', serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#0f5257"/>
+<text x="400" y="46" text-anchor="middle" font-size="11.0" font-weight="normal" fill="#777777">WORSHIP &amp; DISCIPLINE</text>
+<text x="400" y="78" text-anchor="middle" font-size="24.0" font-weight="bold" fill="#2d2d2d">The Second Thought Before You Act</text>
+<line x1="400.0" y1="216.0" x2="400.0" y2="180.0" stroke="#0f5257" stroke-width="2" opacity="0.6"/>
+<circle cx="400.0" cy="140.0" r="38" fill="#ffffff" stroke="#0f5257" stroke-width="2"/>
+<path d="M 380.0 141.6 L 396.0 129.6 L 404.0 129.6 L 420.0 141.6 L 413.6 148.0 L 400.0 138.4 L 386.4 148.0 Z" fill="#0f5257"/>
+<text x="400" y="196" text-anchor="middle" font-size="12.0" font-weight="normal" fill="#2d2d2d">Before speaking</text>
+<line x1="466.0" y1="282.0" x2="502.0" y2="282.0" stroke="#0f5257" stroke-width="2" opacity="0.6"/>
+<circle cx="542.0" cy="282.0" r="38" fill="#ffffff" stroke="#0f5257" stroke-width="2"/>
+<ellipse cx="542.0" cy="288.4" rx="16.0" ry="5.2" fill="#0f5257" opacity="0.60"/><ellipse cx="542.0" cy="279.6" rx="16.0" ry="5.2" fill="#0f5257" opacity="0.80"/><ellipse cx="542.0" cy="270.8" rx="16.0" ry="5.2" fill="#0f5257" opacity="1.00"/>
+<text x="542" y="338" text-anchor="middle" font-size="12.0" font-weight="normal" fill="#2d2d2d">Before spending</text>
+<line x1="400.0" y1="348.0" x2="400.0" y2="384.0" stroke="#0f5257" stroke-width="2" opacity="0.6"/>
+<circle cx="400.0" cy="424.0" r="38" fill="#ffffff" stroke="#0f5257" stroke-width="2"/>
+<circle cx="400.0" cy="420.0" r="17.6" fill="none" stroke="#0f5257" stroke-width="3.6"/><line x1="400.0" y1="420.0" x2="400.0" y2="409.6" stroke="#0f5257" stroke-width="2.8"/><line x1="400.0" y1="420.0" x2="408.0" y2="424.0" stroke="#0f5257" stroke-width="2.8"/>
+<text x="400" y="480" text-anchor="middle" font-size="12.0" font-weight="normal" fill="#2d2d2d">Before delaying</text>
+<line x1="334.0" y1="282.0" x2="298.0" y2="282.0" stroke="#0f5257" stroke-width="2" opacity="0.6"/>
+<circle cx="258.0" cy="282.0" r="38" fill="#ffffff" stroke="#0f5257" stroke-width="2"/>
+<circle cx="258.0" cy="266.0" r="8.0" fill="#0f5257"/><path d="M 243.6 298.8 a 14.4 18.4 0 0 1 28.8 0 Z" fill="#0f5257"/>
+<text x="258" y="338" text-anchor="middle" font-size="12.0" font-weight="normal" fill="#2d2d2d">Before judging</text>
+<circle cx="400" cy="282" r="62" fill="#0f5257"/>
+<text x="400" y="284" text-anchor="middle" font-size="14.0" font-weight="bold" fill="#faf8f3">taqwa —</text>
+<text x="400" y="300" text-anchor="middle" font-size="14.0" font-weight="bold" fill="#faf8f3">covenant-awareness</text>
+<line x1="90" y1="516" x2="710" y2="516" stroke="#c9c2b4" stroke-width="1"/>
+<text x="400" y="540" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">Taqwa is not a single act but an awareness that runs through speech, money, and time —</text>
+<text x="400" y="559" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">the covenant remembered in every choice.</text>
+<text x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#0f5257">Q3:76 — whoever fulfils his covenant and fears Allah</text>
+</svg>

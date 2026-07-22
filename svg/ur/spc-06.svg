@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="'Noto Nastaliq Urdu', 'Urdu Typesetting', serif">
+<defs><style>text{font-family:'Noto Nastaliq Urdu', 'Urdu Typesetting', serif;direction:rtl;unicode-bidi:isolate;}text.lat{font-family:Georgia, 'Noto Serif', serif;direction:ltr;}</style><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#a45c40"/>
+<text class="ur" x="400" y="46" text-anchor="middle" font-size="12.8" font-weight="normal" fill="#777777">گفتار، ابلاغ و شہادت</text>
+<text class="ur" x="400" y="84" text-anchor="middle" font-size="27.8" font-weight="bold" fill="#2d2d2d">غائب بھائی کا گوشت کھانا</text>
+<rect x="70" y="130" width="310" height="316" rx="14" fill="#ffffff" stroke="#a33b2a" stroke-width="2" opacity="0.95"/>
+<text class="ur" x="225" y="162" text-anchor="middle" font-size="17.4" font-weight="bold" fill="#a33b2a">✗  غیبت</text>
+<circle cx="225.0" cy="222.0" r="20.0" fill="#a33b2a"/><path d="M 189.0 304.0 a 36.0 46.0 0 0 1 72.0 0 Z" fill="#a33b2a"/>
+<text class="ur" x="225" y="336" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">پیٹھ پیچھے سچی بات بھی</text>
+<text class="ur" x="225" y="361" text-anchor="middle" font-size="13.3" font-weight="normal" fill="#777777">پھر بھی حرام</text>
+<rect x="420" y="130" width="310" height="316" rx="14" fill="#ffffff" stroke="#2e6f40" stroke-width="2" opacity="0.95"/>
+<text class="ur" x="575" y="162" text-anchor="middle" font-size="17.4" font-weight="bold" fill="#2e6f40">✓  ضبط</text>
+<path d="M 575.0 204.0 L 615.0 222.0 L 615.0 262.0 C 615.0 286.0 595.0 298.0 575.0 304.0 C 555.0 298.0 535.0 286.0 535.0 262.0 L 535.0 222.0 Z" fill="#2e6f40"/>
+<text class="ur" x="575" y="336" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">زبان روکی، یا سامنے کہا</text>
+<text class="ur" x="575" y="361" text-anchor="middle" font-size="13.3" font-weight="normal" fill="#777777">غائب کی حفاظت</text>
+<line x1="400" y1="140" x2="400" y2="436" stroke="#c9c2b4" stroke-dasharray="5 5"/>
+<line x1="90" y1="492" x2="710" y2="492" stroke="#c9c2b4" stroke-width="1"/>
+<text class="ur" x="400" y="526" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">کسی کی غیر موجودگی میں غیبت اس کے مردہ گوشت کھانے جیسی قرار دی گئی۔ الفاظ ہلکے لگتے</text>
+<text class="ur" x="400" y="553" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">ہیں، قرآن کی تمثیل ہلکی نہیں۔</text>
+<text class="lat" x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#a45c40">Q49:12</text>
+</svg>

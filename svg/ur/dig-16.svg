@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="'Noto Nastaliq Urdu', 'Urdu Typesetting', serif">
+<defs><style>text{font-family:'Noto Nastaliq Urdu', 'Urdu Typesetting', serif;direction:rtl;unicode-bidi:isolate;}text.lat{font-family:Georgia, 'Noto Serif', serif;direction:ltr;}</style><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#a45c40"/>
+<text class="ur" x="400" y="46" text-anchor="middle" font-size="12.8" font-weight="normal" fill="#777777">ڈیجیٹل دنیا و ٹیکنالوجی</text>
+<text class="ur" x="400" y="84" text-anchor="middle" font-size="27.8" font-weight="bold" fill="#2d2d2d">چہرہ جس نے وہ الفاظ کبھی نہ کہے</text>
+<rect x="70" y="130" width="310" height="316" rx="14" fill="#ffffff" stroke="#a33b2a" stroke-width="2" opacity="0.95"/>
+<text class="ur" x="225" y="162" text-anchor="middle" font-size="17.4" font-weight="bold" fill="#a33b2a">✗  جعلی</text>
+<rect x="197.0" y="206.0" width="56.0" height="92.0" rx="9.0" fill="#a33b2a"/><rect x="205.0" y="218.0" width="40.0" height="58.0" fill="#ffffff" opacity="0.9"/>
+<text class="ur" x="225" y="336" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">جعلی ویڈیو، اصل چہرہ</text>
+<text class="ur" x="225" y="361" text-anchor="middle" font-size="13.3" font-weight="normal" fill="#777777">بصری جھوٹی گواہی</text>
+<rect x="420" y="130" width="310" height="316" rx="14" fill="#ffffff" stroke="#2e6f40" stroke-width="2" opacity="0.95"/>
+<text class="ur" x="575" y="162" text-anchor="middle" font-size="17.4" font-weight="bold" fill="#2e6f40">✓  سچا</text>
+<rect x="547.0" y="206.0" width="56.0" height="92.0" rx="9.0" fill="#2e6f40"/><rect x="555.0" y="218.0" width="40.0" height="58.0" fill="#ffffff" opacity="0.9"/>
+<text class="ur" x="575" y="336" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">جو فی الواقع ہوا</text>
+<text class="ur" x="575" y="361" text-anchor="middle" font-size="13.3" font-weight="normal" fill="#777777">گواہی جو قائم رہے</text>
+<line x1="400" y1="140" x2="400" y2="436" stroke="#c9c2b4" stroke-dasharray="5 5"/>
+<line x1="90" y1="492" x2="710" y2="492" stroke="#c9c2b4" stroke-width="1"/>
+<text class="ur" x="400" y="526" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">ڈیپ فیک ایک حقیقی شخص کے منہ اور جسم میں وہ الفاظ اور فعل ڈالتی ہے جو کبھی ہوئے</text>
+<text class="ur" x="400" y="553" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">نہیں۔ یہ قابلِ یقین چہرے والی جھوٹی گواہی ہے۔</text>
+<text class="lat" x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#a45c40">Q24:15 — چھوٹی بات جو اللہ کے ہاں بڑی تھی</text>
+</svg>

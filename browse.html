@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>All 316 diagrams — Islamic Covenant Theology</title>
+<meta name="description" content="Search and filter 316 covenant-theology diagrams by domain, covenantal axis, and text, in English or Urdu.">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="top"><div class="wrap topin">
+  <a class="brand" href="index.html">Islamic <span>Covenant Theology</span></a>
+  <nav class="main">
+    <a href="index.html">Home</a>
+    <a href="browse.html" class="on">Diagrams</a>
+    <a href="read.html">تعارف</a>
+    <a href="about.html" class="hide-s">Method</a>
+  </nav>
+</div></header>
+
+<div class="controls"><div class="wrap ctlrow">
+  <div class="search">
+    <input id="q" type="search" placeholder="Search titles, captions, citations…" autocomplete="off">
+  </div>
+  <select id="part"><option value="">All domains</option></select>
+  <select id="axis">
+    <option value="">All axes</option>
+    <option value="alast">Allah &amp; humanity (Alast)</option>
+    <option value="prophet">Allah &amp; prophets</option>
+    <option value="book">Scripture communities</option>
+    <option value="polity">Political &amp; communal</option>
+    <option value="person">Interpersonal</option>
+    <option value="eschaton">Eschatological</option>
+  </select>
+  <span class="count" id="count"></span>
+</div></div>
+
+<main class="wrap"><div class="grid" id="grid"></div></main>
+
+<footer class="bot"><div class="wrap">
+  <p>Click any diagram to enlarge. Arrow keys move between them; Esc closes.</p>
+  <p>Each diagram is an ijtihādī application, not a fatwā.</p>
+</div></footer>
+
+<script src="app.js"></script>
+<script>
+(async function(){
+  const d = await CT.data();
+  const ur = CT.lang()==='ur';
+  const sel = document.getElementById('part');
+  d.parts.forEach(p=>{
+    const o=document.createElement('option');
+    o.value=p.n; o.textContent=(ur?p.ur:p.en);
+    sel.appendChild(o);
+  });
+  const intro=document.createElement('option');
+  intro.value='0'; intro.textContent = ur?'تعارفی خاکے':'Introduction diagrams';
+  sel.appendChild(intro);
+  // Options are built after DOMContentLoaded, so re-run the chrome pass.
+  CT.localizeChrome();
+
+  const qs = new URLSearchParams(location.search);
+  if (qs.get('part')) sel.value = qs.get('part');
+  if (qs.get('q')) document.getElementById('q').value = qs.get('q');
+  if (qs.get('axis')) document.getElementById('axis').value = qs.get('axis');
+
+  const grid=document.getElementById('grid'), cnt=document.getElementById('count');
+  function apply(){
+    const q=document.getElementById('q').value.trim().toLowerCase();
+    const p=sel.value, ax=document.getElementById('axis').value;
+    const out=d.items.filter(it=>{
+      if(p!=='' && String(it.part)!==p) return false;
+      if(ax && it.axis!==ax) return false;
+      if(!q) return true;
+      return (it.title_en+' '+it.title_ur+' '+it.caption_en+' '+it.caption_ur+' '+
+              it.citation+' '+it.domain_en+' '+it.domain_ur).toLowerCase().includes(q);
+    });
+    cnt.textContent = CT.plural(out.length);
+    if (ur) cnt.classList.add('ur');
+    CT.renderGrid(grid,out);
+  }
+  document.getElementById('q').addEventListener('input',apply);
+  sel.addEventListener('change',apply);
+  document.getElementById('axis').addEventListener('change',apply);
+  apply();
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="Georgia, 'Noto Serif', serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#a45c40"/>
+<text x="400" y="46" text-anchor="middle" font-size="11.0" font-weight="normal" fill="#777777">FAMILY &amp; PERSONAL LIFE</text>
+<text x="400" y="78" text-anchor="middle" font-size="24.0" font-weight="bold" fill="#2d2d2d">The Terms You Wrote Before the Wedding</text>
+<rect x="81" y="200" width="140" height="150" rx="12" fill="#a45c40" opacity="0.55"/>
+<rect x="131.2" y="222.7" width="39.7" height="54.6" rx="3.1" fill="#faf8f3"/><rect x="138.6" y="232.6" width="24.8" height="3.1" fill="#a45c40" opacity="0.85"/><rect x="138.6" y="243.2" width="24.8" height="3.1" fill="#a45c40" opacity="0.85"/><rect x="138.6" y="253.7" width="24.8" height="3.1" fill="#a45c40" opacity="0.85"/><rect x="138.6" y="264.3" width="24.8" height="3.1" fill="#a45c40" opacity="0.85"/>
+<text x="151" y="302" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#faf8f3">Terms agreed</text>
+<line x1="225" y1="275" x2="241" y2="275" stroke="#2d2d2d" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="247" y="200" width="140" height="150" rx="12" fill="#a45c40" opacity="0.70"/>
+<path d="M 286.0 258.7 L 310.8 240.1 L 323.2 240.1 L 348.0 258.7 L 338.1 268.6 L 317.0 253.7 L 295.9 268.6 Z" fill="#faf8f3"/>
+<text x="317" y="302" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#faf8f3">Contract sealed</text>
+<line x1="391" y1="275" x2="407" y2="275" stroke="#2d2d2d" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="413" y="200" width="140" height="150" rx="12" fill="#a45c40" opacity="0.85"/>
+<path d="M 483.0 228.9 C 464.4 219.0 450.8 225.2 450.8 228.9 L 450.8 271.1 C 450.8 267.4 464.4 262.4 483.0 271.1 C 501.6 262.4 515.2 267.4 515.2 271.1 L 515.2 228.9 C 515.2 225.2 501.6 219.0 483.0 228.9 Z" fill="#faf8f3"/><line x1="483.0" y1="228.9" x2="483.0" y2="271.1" stroke="#a45c40" stroke-width="2.2"/>
+<text x="483" y="302" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#faf8f3">Terms recorded</text>
+<line x1="557" y1="275" x2="573" y2="275" stroke="#2d2d2d" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="579" y="200" width="140" height="150" rx="12" fill="#a45c40" opacity="1.00"/>
+<path d="M 649.0 220.2 L 673.8 231.4 L 673.8 256.2 C 673.8 271.1 661.4 278.5 649.0 282.2 C 636.6 278.5 624.2 271.1 624.2 256.2 L 624.2 231.4 Z" fill="#faf8f3"/>
+<text x="649" y="302" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#faf8f3">Terms honored</text>
+<text x="400" y="392" text-anchor="middle" font-size="12.5" font-weight="normal" fill="#777777">a prenuptial term is part of the covenant, not outside it</text>
+<line x1="90" y1="516" x2="710" y2="516" stroke="#c9c2b4" stroke-width="1"/>
+<text x="400" y="540" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">Conditions agreed before the marriage contract — on work, residence, or further marriage</text>
+<text x="400" y="559" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">— are terms of the covenant itself and are binding once spoken.</text>
+<text x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#a45c40">Q5:1 — fulfil your contracts</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="'Noto Nastaliq Urdu', 'Urdu Typesetting', serif">
+<defs><style>text{font-family:'Noto Nastaliq Urdu', 'Urdu Typesetting', serif;direction:rtl;unicode-bidi:isolate;}text.lat{font-family:Georgia, 'Noto Serif', serif;direction:ltr;}</style><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#4a4a68"/>
+<text class="ur" x="400" y="46" text-anchor="middle" font-size="12.8" font-weight="normal" fill="#777777">شہری زندگی و قانون</text>
+<text class="ur" x="400" y="84" text-anchor="middle" font-size="27.8" font-weight="bold" fill="#2d2d2d">وزیر جس نے منصب کو اپنی ملکیت سمجھا</text>
+<rect x="180" y="178" width="440" height="62" rx="10" fill="#4a4a68" opacity="0.30"/>
+<text class="ur" x="400" y="208" text-anchor="middle" font-size="15.7" font-weight="bold" fill="#2d2d2d">صوابدیدی اختیار</text>
+<text class="ur" x="400" y="227" text-anchor="middle" font-size="12.8" font-weight="normal" fill="#2d2d2d">جو منصب طے کر سکتا ہے</text>
+<rect x="158" y="252" width="485" height="62" rx="10" fill="#4a4a68" opacity="0.48"/>
+<text class="ur" x="400" y="282" text-anchor="middle" font-size="15.7" font-weight="bold" fill="#2d2d2d">تفویض شدہ اختیار</text>
+<text class="ur" x="400" y="301" text-anchor="middle" font-size="12.8" font-weight="normal" fill="#2d2d2d">عوام کا عطا کردہ، ملکیت نہیں</text>
+<rect x="135" y="326" width="530" height="62" rx="10" fill="#4a4a68" opacity="0.66"/>
+<text class="ur" x="400" y="356" text-anchor="middle" font-size="15.7" font-weight="bold" fill="#2d2d2d">منصب کی امانت</text>
+<text class="ur" x="400" y="375" text-anchor="middle" font-size="12.8" font-weight="normal" fill="#2d2d2d">جس پر ہر اختیار کھڑا ہے</text>
+<text class="ur" x="400" y="162" text-anchor="middle" font-size="13.9" font-weight="normal" fill="#777777">نیچے سے اوپر پڑھیں</text>
+<line x1="90" y1="492" x2="710" y2="492" stroke="#c9c2b4" stroke-width="1"/>
+<text class="ur" x="400" y="526" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">سرکاری منصب رعایا کے لیے امانت ہے، ذاتی ملکیت نہیں — اختیار کی ہر تہہ اسی بنیاد پر</text>
+<text class="ur" x="400" y="553" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">کھڑی ہے۔</text>
+<text class="lat" x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#4a4a68">Q4:58</text>
+</svg>

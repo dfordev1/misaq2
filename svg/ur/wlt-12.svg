@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="'Noto Nastaliq Urdu', 'Urdu Typesetting', serif">
+<defs><style>text{font-family:'Noto Nastaliq Urdu', 'Urdu Typesetting', serif;direction:rtl;unicode-bidi:isolate;}text.lat{font-family:Georgia, 'Noto Serif', serif;direction:ltr;}</style><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#a45c40"/>
+<text class="ur" x="400" y="46" text-anchor="middle" font-size="12.8" font-weight="normal" fill="#777777">مال، صدقہ و قرض</text>
+<text class="ur" x="400" y="84" text-anchor="middle" font-size="27.8" font-weight="bold" fill="#2d2d2d">تحفہ جو شرائط کے ساتھ آیا</text>
+<rect x="70" y="130" width="310" height="316" rx="14" fill="#ffffff" stroke="#a33b2a" stroke-width="2" opacity="0.95"/>
+<text class="ur" x="225" y="162" text-anchor="middle" font-size="17.4" font-weight="bold" fill="#a33b2a">✗  زنجیر تحفہ</text>
+<path d="M 175.0 266.0 L 215.0 236.0 L 235.0 236.0 L 275.0 266.0 L 259.0 282.0 L 225.0 258.0 L 191.0 282.0 Z" fill="#a33b2a"/>
+<text class="ur" x="225" y="336" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">ذمہ داری خریدنے کو دیا</text>
+<text class="ur" x="225" y="361" text-anchor="middle" font-size="13.3" font-weight="normal" fill="#777777">پیچھے احسان جتانا</text>
+<rect x="420" y="130" width="310" height="316" rx="14" fill="#ffffff" stroke="#2e6f40" stroke-width="2" opacity="0.95"/>
+<text class="ur" x="575" y="162" text-anchor="middle" font-size="17.4" font-weight="bold" fill="#2e6f40">✓  آزاد تحفہ</text>
+<path d="M 575.0 292.0 C 513.0 254.0 539.0 208.0 575.0 238.0 C 611.0 208.0 637.0 254.0 575.0 292.0 Z" fill="#2e6f40"/>
+<text class="ur" x="575" y="336" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">دیا، ملکیت آزاد ہوئی</text>
+<text class="ur" x="575" y="361" text-anchor="middle" font-size="13.3" font-weight="normal" fill="#777777">کوئی مطالبہ نہیں</text>
+<line x1="400" y1="140" x2="400" y2="436" stroke="#c9c2b4" stroke-dasharray="5 5"/>
+<line x1="90" y1="492" x2="710" y2="492" stroke="#c9c2b4" stroke-width="1"/>
+<text class="ur" x="400" y="526" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">وفاداری یا ووٹ باندھنے کو دیا تحفہ زنجیر ہے، ہبہ نہیں۔ سچا تحفہ پوشیدہ شرائط سے</text>
+<text class="ur" x="400" y="553" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">آزاد ملکیت منتقل کرتا ہے۔</text>
+<text class="lat" x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#a45c40">Q2:264</text>
+</svg>

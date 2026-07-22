@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="Georgia, 'Noto Serif', serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#6b4c9a"/>
+<text x="400" y="46" text-anchor="middle" font-size="11.0" font-weight="normal" fill="#777777">COMMUNITY &amp; ENVIRONMENT</text>
+<text x="400" y="78" text-anchor="middle" font-size="24.0" font-weight="bold" fill="#2d2d2d">Your Non-Muslim Neighbour&#x27;s Right Over You</text>
+<circle cx="215.0" cy="214.6" r="23.6" fill="#6b4c9a"/><path d="M 172.5 311.4 a 42.5 54.3 0 0 1 85.0 0 Z" fill="#6b4c9a"/>
+<text x="215" y="348" text-anchor="middle" font-size="16.0" font-weight="bold" fill="#2d2d2d">You</text>
+<text x="215" y="372" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#777777">any household</text>
+<circle cx="585.0" cy="214.6" r="23.6" fill="#6b4c9a"/><path d="M 542.5 311.4 a 42.5 54.3 0 0 1 85.0 0 Z" fill="#6b4c9a"/>
+<text x="585" y="348" text-anchor="middle" font-size="16.0" font-weight="bold" fill="#2d2d2d">Neighbour</text>
+<text x="585" y="372" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#777777">any faith</text>
+<line x1="300" y1="250" x2="490" y2="250" stroke="#6b4c9a" stroke-width="3" marker-end="url(#ar)"/>
+<line x1="500" y1="288" x2="310" y2="288" stroke="#6b4c9a" stroke-width="2" stroke-dasharray="6 4" opacity="0.7" marker-end="url(#ar)"/>
+<text x="400" y="312" text-anchor="middle" font-size="11.0" font-weight="normal" fill="#777777">kindness owed, not conditional</text>
+<text x="400" y="219" text-anchor="middle" font-size="13.0" font-weight="bold" fill="#6b4c9a">jar — right regardless of</text>
+<text x="400" y="236" text-anchor="middle" font-size="13.0" font-weight="bold" fill="#6b4c9a">creed</text>
+<line x1="90" y1="516" x2="710" y2="516" stroke="#c9c2b4" stroke-width="1"/>
+<text x="400" y="540" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">The Prophet&#x27;s insistence on the neighbour&#x27;s claim made no exception for shared faith —</text>
+<text x="400" y="559" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">kindness across the street is owed regardless of religion.</text>
+<text x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#6b4c9a">Bukhari/Muslim — Gabriel kept enjoining the neighbour&#x27;s right</text>
+</svg>

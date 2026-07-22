@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="'Noto Nastaliq Urdu', 'Urdu Typesetting', serif">
+<defs><style>text{font-family:'Noto Nastaliq Urdu', 'Urdu Typesetting', serif;direction:rtl;unicode-bidi:isolate;}text.lat{font-family:Georgia, 'Noto Serif', serif;direction:ltr;}</style><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#a45c40"/>
+<text class="ur" x="400" y="46" text-anchor="middle" font-size="12.8" font-weight="normal" fill="#777777">ڈیجیٹل دنیا و ٹیکنالوجی</text>
+<text class="ur" x="400" y="84" text-anchor="middle" font-size="27.8" font-weight="bold" fill="#2d2d2d">بچوں کے لیے چھوڑے گئے پرچی پر پاس</text>
+<text class="ur" x="400" y="131" text-anchor="middle" font-size="27.8" font-weight="bold" fill="#2d2d2d">ورڈز</text>
+<line x1="400.0" y1="216.0" x2="400.0" y2="180.0" stroke="#a45c40" stroke-width="2" opacity="0.6"/>
+<circle cx="400.0" cy="140.0" r="38" fill="#ffffff" stroke="#a45c40" stroke-width="2"/>
+<path d="M 391.2 133.6 L 391.2 125.6 a 8.8 8.8 0 0 1 17.6 0 L 408.8 133.6" fill="none" stroke="#a45c40" stroke-width="3.6"/><rect x="386.4" y="133.6" width="27.2" height="19.2" rx="2.4" fill="#a45c40"/>
+<text class="ur" x="400" y="196" text-anchor="middle" font-size="13.9" font-weight="normal" fill="#2d2d2d">رسائی واضح</text>
+<text class="ur" x="400" y="219" text-anchor="middle" font-size="13.9" font-weight="normal" fill="#2d2d2d">چھوڑی</text>
+<line x1="466.0" y1="282.0" x2="502.0" y2="282.0" stroke="#a45c40" stroke-width="2" opacity="0.6"/>
+<circle cx="542.0" cy="282.0" r="38" fill="#ffffff" stroke="#a45c40" stroke-width="2"/>
+<rect x="529.2" y="260.4" width="25.6" height="35.2" rx="2.0" fill="#a45c40"/><rect x="534.0" y="266.8" width="16.0" height="2.0" fill="#ffffff" opacity="0.85"/><rect x="534.0" y="273.6" width="16.0" height="2.0" fill="#ffffff" opacity="0.85"/><rect x="534.0" y="280.4" width="16.0" height="2.0" fill="#ffffff" opacity="0.85"/><rect x="534.0" y="287.2" width="16.0" height="2.0" fill="#ffffff" opacity="0.85"/>
+<text class="ur" x="542" y="338" text-anchor="middle" font-size="13.9" font-weight="normal" fill="#2d2d2d">فائلیں مرتب</text>
+<line x1="400.0" y1="348.0" x2="400.0" y2="384.0" stroke="#a45c40" stroke-width="2" opacity="0.6"/>
+<circle cx="400.0" cy="424.0" r="38" fill="#ffffff" stroke="#a45c40" stroke-width="2"/>
+<circle cx="400.0" cy="408.0" r="8.0" fill="#a45c40"/><path d="M 385.6 440.8 a 14.4 18.4 0 0 1 28.8 0 Z" fill="#a45c40"/>
+<text class="ur" x="400" y="480" text-anchor="middle" font-size="13.9" font-weight="normal" fill="#2d2d2d">وارث مقرر</text>
+<line x1="334.0" y1="282.0" x2="298.0" y2="282.0" stroke="#a45c40" stroke-width="2" opacity="0.6"/>
+<circle cx="258.0" cy="282.0" r="38" fill="#ffffff" stroke="#a45c40" stroke-width="2"/>
+<rect x="246.8" y="259.6" width="22.4" height="36.8" rx="3.6" fill="#a45c40"/><rect x="250.0" y="264.4" width="16.0" height="23.2" fill="#ffffff" opacity="0.9"/>
+<text class="ur" x="258" y="338" text-anchor="middle" font-size="13.9" font-weight="normal" fill="#2d2d2d">اکاؤنٹس نمٹائے</text>
+<circle cx="400" cy="282" r="62" fill="#a45c40"/>
+<text class="ur" x="400" y="284" text-anchor="middle" font-size="16.2" font-weight="bold" fill="#faf8f3">ڈیجیٹل</text>
+<text class="ur" x="400" y="311" text-anchor="middle" font-size="16.2" font-weight="bold" fill="#faf8f3">ترکہ بطور</text>
+<text class="ur" x="400" y="339" text-anchor="middle" font-size="16.2" font-weight="bold" fill="#faf8f3">امانت</text>
+<line x1="90" y1="492" x2="710" y2="492" stroke="#c9c2b4" stroke-width="1"/>
+<text class="ur" x="400" y="526" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">موت کے بعد اکاؤنٹس، تصاویر اور فائلوں کا کیا ہو، یہ امانت منصوبہ مانگتی ہے، وہ</text>
+<text class="ur" x="400" y="553" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">خاموشی نہیں جو وارثوں کو بند یا بے پردہ چھوڑ دے۔</text>
+<text class="lat" x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#a45c40">Q4:58</text>
+</svg>

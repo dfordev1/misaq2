@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="'Noto Nastaliq Urdu', 'Urdu Typesetting', serif">
+<defs><style>text{font-family:'Noto Nastaliq Urdu', 'Urdu Typesetting', serif;direction:rtl;unicode-bidi:isolate;}text.lat{font-family:Georgia, 'Noto Serif', serif;direction:ltr;}</style><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#a45c40"/>
+<text class="ur" x="400" y="46" text-anchor="middle" font-size="12.8" font-weight="normal" fill="#777777">معاشرہ و ماحول</text>
+<text class="ur" x="400" y="84" text-anchor="middle" font-size="27.8" font-weight="bold" fill="#2d2d2d">خزانچی جس نے مسجد فنڈ ذاتی رقم سے</text>
+<text class="ur" x="400" y="131" text-anchor="middle" font-size="27.8" font-weight="bold" fill="#2d2d2d">ملایا</text>
+<path d="M 250 150 L 550 150 L 550 300 C 550 372 486 420 400 440 C 314 420 250 372 250 300 Z" fill="#a45c40" opacity="0.10" stroke="#a45c40" stroke-width="2.5"/>
+<text class="ur" x="400" y="176" text-anchor="middle" font-size="15.1" font-weight="bold" fill="#a45c40">امانت میں محفوظ</text>
+<circle cx="335" cy="232" r="31" fill="#ffffff" stroke="#a45c40" stroke-width="1.5"/>
+<ellipse cx="335.0" cy="238.8" rx="13.6" ry="4.4" fill="#a45c40" opacity="0.60"/><ellipse cx="335.0" cy="231.4" rx="13.6" ry="4.4" fill="#a45c40" opacity="0.80"/><ellipse cx="335.0" cy="223.9" rx="13.6" ry="4.4" fill="#a45c40" opacity="1.00"/>
+<text class="ur" x="335" y="282" text-anchor="middle" font-size="13.3" font-weight="normal" fill="#2d2d2d">عطیات</text>
+<circle cx="465" cy="232" r="31" fill="#ffffff" stroke="#a45c40" stroke-width="1.5"/>
+<rect x="454.1" y="215.0" width="21.8" height="29.9" rx="1.7" fill="#a45c40"/><rect x="458.2" y="220.5" width="13.6" height="1.7" fill="#ffffff" opacity="0.85"/><rect x="458.2" y="226.3" width="13.6" height="1.7" fill="#ffffff" opacity="0.85"/><rect x="458.2" y="232.0" width="13.6" height="1.7" fill="#ffffff" opacity="0.85"/><rect x="458.2" y="237.8" width="13.6" height="1.7" fill="#ffffff" opacity="0.85"/>
+<text class="ur" x="465" y="282" text-anchor="middle" font-size="13.3" font-weight="normal" fill="#2d2d2d">رسیدیں</text>
+<circle cx="335" cy="328" r="31" fill="#ffffff" stroke="#a45c40" stroke-width="1.5"/>
+<rect x="321.4" y="312.4" width="27.2" height="27.2" fill="#a45c40"/><rect x="325.5" y="316.5" width="3.7" height="3.7" fill="#ffffff" opacity="0.8"/><rect x="333.0" y="316.5" width="3.7" height="3.7" fill="#ffffff" opacity="0.8"/><rect x="340.4" y="316.5" width="3.7" height="3.7" fill="#ffffff" opacity="0.8"/><rect x="325.5" y="324.0" width="3.7" height="3.7" fill="#ffffff" opacity="0.8"/><rect x="333.0" y="324.0" width="3.7" height="3.7" fill="#ffffff" opacity="0.8"/><rect x="340.4" y="324.0" width="3.7" height="3.7" fill="#ffffff" opacity="0.8"/><rect x="325.5" y="331.4" width="3.7" height="3.7" fill="#ffffff" opacity="0.8"/><rect x="333.0" y="331.4" width="3.7" height="3.7" fill="#ffffff" opacity="0.8"/><rect x="340.4" y="331.4" width="3.7" height="3.7" fill="#ffffff" opacity="0.8"/>
+<text class="ur" x="335" y="378" text-anchor="middle" font-size="13.3" font-weight="normal" fill="#2d2d2d">سینٹر کی</text>
+<text class="ur" x="335" y="400" text-anchor="middle" font-size="13.3" font-weight="normal" fill="#2d2d2d">مرمت</text>
+<text class="ur" x="400" y="480" text-anchor="middle" font-size="15.1" font-weight="bold" fill="#2d2d2d">خزانچی نگہبان ہے، مشترکہ رقم کا مالک کبھی نہیں</text>
+<line x1="90" y1="492" x2="710" y2="492" stroke="#c9c2b4" stroke-width="1"/>
+<text class="ur" x="400" y="526" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">کمیونٹی سینٹر کے لیے جمع رقم امانت ہے، خزانچی کا ذاتی ذخیرہ نہیں — ہر پیسے کا مقصد</text>
+<text class="ur" x="400" y="553" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">تک سراغ ملنا چاہیے۔</text>
+<text class="lat" x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#a45c40">Q4:58 — render trusts to their people</text>
+</svg>

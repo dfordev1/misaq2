@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="'Noto Nastaliq Urdu', 'Urdu Typesetting', serif">
+<defs><style>text{font-family:'Noto Nastaliq Urdu', 'Urdu Typesetting', serif;direction:rtl;unicode-bidi:isolate;}text.lat{font-family:Georgia, 'Noto Serif', serif;direction:ltr;}</style><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#a45c40"/>
+<text class="ur" x="400" y="46" text-anchor="middle" font-size="12.8" font-weight="normal" fill="#777777">مال، صدقہ و قرض</text>
+<text class="ur" x="400" y="84" text-anchor="middle" font-size="27.8" font-weight="bold" fill="#2d2d2d">صدقہ جو غریب کو شرمندہ کرے</text>
+<rect x="70" y="130" width="310" height="316" rx="14" fill="#ffffff" stroke="#a33b2a" stroke-width="2" opacity="0.95"/>
+<text class="ur" x="225" y="162" text-anchor="middle" font-size="17.4" font-weight="bold" fill="#a33b2a">✗  ذلت آمیز</text>
+<ellipse cx="225.0" cy="278.0" rx="40.0" ry="13.0" fill="#a33b2a" opacity="0.60"/><ellipse cx="225.0" cy="256.0" rx="40.0" ry="13.0" fill="#a33b2a" opacity="0.80"/><ellipse cx="225.0" cy="234.0" rx="40.0" ry="13.0" fill="#a33b2a" opacity="1.00"/>
+<text class="ur" x="225" y="336" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">احسان جتاتے، طعنہ دیتے</text>
+<text class="ur" x="225" y="361" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">دیا</text>
+<text class="ur" x="225" y="378" text-anchor="middle" font-size="13.3" font-weight="normal" fill="#777777">اجر باطل</text>
+<rect x="420" y="130" width="310" height="316" rx="14" fill="#ffffff" stroke="#2e6f40" stroke-width="2" opacity="0.95"/>
+<text class="ur" x="575" y="162" text-anchor="middle" font-size="17.4" font-weight="bold" fill="#2e6f40">✓  باوقار</text>
+<path d="M 575.0 292.0 C 513.0 254.0 539.0 208.0 575.0 238.0 C 611.0 208.0 637.0 254.0 575.0 292.0 Z" fill="#2e6f40"/>
+<text class="ur" x="575" y="336" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">خاموشی سے، نرم بات کے</text>
+<text class="ur" x="575" y="361" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">ساتھ</text>
+<text class="ur" x="575" y="378" text-anchor="middle" font-size="13.3" font-weight="normal" fill="#777777">اجر محفوظ</text>
+<line x1="400" y1="140" x2="400" y2="436" stroke="#c9c2b4" stroke-dasharray="5 5"/>
+<line x1="90" y1="492" x2="710" y2="492" stroke="#c9c2b4" stroke-width="1"/>
+<text class="ur" x="400" y="526" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">دیے کو ذلیل کرنے کے لیے مشہور کرنا اجر ختم کر دیتا ہے، خواہ کتنا ہی بڑا ہو۔ نرم بات</text>
+<text class="ur" x="400" y="553" text-anchor="middle" font-size="15.1" font-weight="normal" fill="#2d2d2d">بغیر احسان جتائے صدقے سے بہتر ہے جس کے بعد اذیت ہو۔</text>
+<text class="lat" x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#a45c40">Q2:263-264</text>
+</svg>

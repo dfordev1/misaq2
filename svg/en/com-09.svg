@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="Georgia, 'Noto Serif', serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#4a4a68"/>
+<text x="400" y="46" text-anchor="middle" font-size="11.0" font-weight="normal" fill="#777777">COMMUNITY &amp; ENVIRONMENT</text>
+<text x="400" y="78" text-anchor="middle" font-size="24.0" font-weight="bold" fill="#2d2d2d">Clearing Common Land Without Asking the</text>
+<text x="400" y="106" text-anchor="middle" font-size="24.0" font-weight="bold" fill="#2d2d2d">Village</text>
+<path d="M 156.0 250.0 L 215.0 196.9 L 274.0 250.0 Z" fill="#4a4a68"/><rect x="172.5" y="250.0" width="85.0" height="54.3" fill="#4a4a68" opacity="0.85"/>
+<text x="215" y="348" text-anchor="middle" font-size="16.0" font-weight="bold" fill="#2d2d2d">One household</text>
+<text x="215" y="372" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#777777">wants to expand</text>
+<circle cx="585.0" cy="222.4" r="18.4" fill="#4a4a68"/><path d="M 551.9 297.9 a 33.1 42.3 0 0 1 66.3 0 Z" fill="#4a4a68"/><g opacity="0.55"><circle cx="523.6" cy="233.7" r="15.6" fill="#4a4a68"/><path d="M 495.6 297.6 a 28.0 35.8 0 0 1 56.1 0 Z" fill="#4a4a68"/></g><g opacity="0.55"><circle cx="646.4" cy="233.7" r="15.6" fill="#4a4a68"/><path d="M 618.3 297.6 a 28.0 35.8 0 0 1 56.1 0 Z" fill="#4a4a68"/></g>
+<text x="585" y="348" text-anchor="middle" font-size="16.0" font-weight="bold" fill="#2d2d2d">Whole community</text>
+<text x="585" y="372" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#777777">shares the land&#x27;s claim</text>
+<line x1="300" y1="250" x2="490" y2="250" stroke="#4a4a68" stroke-width="3" marker-end="url(#ar)"/>
+<line x1="500" y1="288" x2="310" y2="288" stroke="#4a4a68" stroke-width="2" stroke-dasharray="6 4" opacity="0.7" marker-end="url(#ar)"/>
+<text x="400" y="312" text-anchor="middle" font-size="11.0" font-weight="normal" fill="#777777">consent before change</text>
+<text x="400" y="236" text-anchor="middle" font-size="13.0" font-weight="bold" fill="#4a4a68">amanah — held for all</text>
+<line x1="90" y1="516" x2="710" y2="516" stroke="#c9c2b4" stroke-width="1"/>
+<text x="400" y="540" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">Land held in common is not free for one household to fence off — reshaping shared ground</text>
+<text x="400" y="559" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">demands the community&#x27;s consent, not a private decision.</text>
+<text x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#4a4a68">Q4:58 — render trusts to their people</text>
+</svg>

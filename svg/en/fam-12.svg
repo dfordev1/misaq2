@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="Georgia, 'Noto Serif', serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#a45c40"/>
+<text x="400" y="46" text-anchor="middle" font-size="11.0" font-weight="normal" fill="#777777">FAMILY &amp; PERSONAL LIFE</text>
+<text x="400" y="78" text-anchor="middle" font-size="24.0" font-weight="bold" fill="#2d2d2d">Splitting the Estate Before the Funeral Meal</text>
+<text x="400" y="106" text-anchor="middle" font-size="24.0" font-weight="bold" fill="#2d2d2d">Cools</text>
+<rect x="188" y="161" width="200" height="128" rx="12" fill="#ffffff" stroke="#a45c40" stroke-width="1.8"/>
+<ellipse cx="288.0" cy="215.0" rx="18.4" ry="6.0" fill="#a45c40" opacity="0.60"/><ellipse cx="288.0" cy="204.8" rx="18.4" ry="6.0" fill="#a45c40" opacity="0.80"/><ellipse cx="288.0" cy="194.7" rx="18.4" ry="6.0" fill="#a45c40" opacity="1.00"/>
+<text x="288" y="249" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#2d2d2d">Fixed share, son</text>
+<rect x="412" y="161" width="200" height="128" rx="12" fill="#ffffff" stroke="#a45c40" stroke-width="1.8"/>
+<ellipse cx="512.0" cy="215.0" rx="18.4" ry="6.0" fill="#a45c40" opacity="0.60"/><ellipse cx="512.0" cy="204.8" rx="18.4" ry="6.0" fill="#a45c40" opacity="0.80"/><ellipse cx="512.0" cy="194.7" rx="18.4" ry="6.0" fill="#a45c40" opacity="1.00"/>
+<text x="512" y="249" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#2d2d2d">Fixed share, daughter</text>
+<rect x="188" y="311" width="200" height="128" rx="12" fill="#ffffff" stroke="#a45c40" stroke-width="1.8"/>
+<ellipse cx="288.0" cy="365.0" rx="18.4" ry="6.0" fill="#a45c40" opacity="0.60"/><ellipse cx="288.0" cy="354.8" rx="18.4" ry="6.0" fill="#a45c40" opacity="0.80"/><ellipse cx="288.0" cy="344.7" rx="18.4" ry="6.0" fill="#a45c40" opacity="1.00"/>
+<text x="288" y="399" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#2d2d2d">Fixed share, spouse</text>
+<rect x="412" y="311" width="200" height="128" rx="12" fill="#ffffff" stroke="#a45c40" stroke-width="1.8"/>
+<ellipse cx="512.0" cy="365.0" rx="18.4" ry="6.0" fill="#a45c40" opacity="0.60"/><ellipse cx="512.0" cy="354.8" rx="18.4" ry="6.0" fill="#a45c40" opacity="0.80"/><ellipse cx="512.0" cy="344.7" rx="18.4" ry="6.0" fill="#a45c40" opacity="1.00"/>
+<text x="512" y="399" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#2d2d2d">Fixed share, parent</text>
+<line x1="90" y1="516" x2="710" y2="516" stroke="#c9c2b4" stroke-width="1"/>
+<text x="400" y="540" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">Inheritance shares are fixed portions owed by right, not favors to be withheld from an</text>
+<text x="400" y="559" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">unfavored child or given early to a favorite one to dodge the rest.</text>
+<text x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#a45c40">Q4:11</text>
+</svg>

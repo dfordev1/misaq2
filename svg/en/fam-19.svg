@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="Georgia, 'Noto Serif', serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#a45c40"/>
+<text x="400" y="46" text-anchor="middle" font-size="11.0" font-weight="normal" fill="#777777">FAMILY &amp; PERSONAL LIFE</text>
+<text x="400" y="78" text-anchor="middle" font-size="24.0" font-weight="bold" fill="#2d2d2d">Who Manages the Orphan&#x27;s Money Until He Is</text>
+<text x="400" y="106" text-anchor="middle" font-size="24.0" font-weight="bold" fill="#2d2d2d">Grown</text>
+<path d="M 250 150 L 550 150 L 550 300 C 550 372 486 420 400 440 C 314 420 250 372 250 300 Z" fill="#a45c40" opacity="0.10" stroke="#a45c40" stroke-width="2.5"/>
+<text x="400" y="176" text-anchor="middle" font-size="13.0" font-weight="bold" fill="#a45c40">held for the orphan</text>
+<circle cx="335" cy="232" r="31" fill="#ffffff" stroke="#a45c40" stroke-width="1.5"/>
+<ellipse cx="335.0" cy="238.8" rx="13.6" ry="4.4" fill="#a45c40" opacity="0.60"/><ellipse cx="335.0" cy="231.4" rx="13.6" ry="4.4" fill="#a45c40" opacity="0.80"/><ellipse cx="335.0" cy="223.9" rx="13.6" ry="4.4" fill="#a45c40" opacity="1.00"/>
+<text x="335" y="282" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#2d2d2d">Inherited</text>
+<text x="335" y="295" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#2d2d2d">wealth</text>
+<circle cx="465" cy="232" r="31" fill="#ffffff" stroke="#a45c40" stroke-width="1.5"/>
+<rect x="454.1" y="215.0" width="21.8" height="29.9" rx="1.7" fill="#a45c40"/><rect x="458.2" y="220.5" width="13.6" height="1.7" fill="#ffffff" opacity="0.85"/><rect x="458.2" y="226.3" width="13.6" height="1.7" fill="#ffffff" opacity="0.85"/><rect x="458.2" y="232.0" width="13.6" height="1.7" fill="#ffffff" opacity="0.85"/><rect x="458.2" y="237.8" width="13.6" height="1.7" fill="#ffffff" opacity="0.85"/>
+<text x="465" y="282" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#2d2d2d">Property</text>
+<text x="465" y="295" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#2d2d2d">records</text>
+<circle cx="335" cy="328" r="31" fill="#ffffff" stroke="#a45c40" stroke-width="1.5"/>
+<circle cx="335.0" cy="326.0" r="15.0" fill="none" stroke="#a45c40" stroke-width="3.1"/><line x1="335.0" y1="326.0" x2="335.0" y2="317.2" stroke="#a45c40" stroke-width="2.4"/><line x1="335.0" y1="326.0" x2="341.8" y2="329.4" stroke="#a45c40" stroke-width="2.4"/>
+<text x="335" y="378" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#2d2d2d">Age of maturity</text>
+<text x="400" y="480" text-anchor="middle" font-size="13.0" font-weight="bold" fill="#2d2d2d">The guardian returns it whole, not diminished</text>
+<line x1="90" y1="516" x2="710" y2="516" stroke="#c9c2b4" stroke-width="1"/>
+<text x="400" y="540" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">An orphan&#x27;s inherited wealth must be kept intact and handed over in full at maturity,</text>
+<text x="400" y="559" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">tested first, never quietly consumed by the guardian entrusted with it.</text>
+<text x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#a45c40">Q4:6 — test the orphans until marriageable age</text>
+</svg>

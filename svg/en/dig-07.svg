@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620" font-family="Georgia, 'Noto Serif', serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2d2d"/></marker></defs>
+<rect x="0" y="0" width="800" height="620" fill="#faf8f3"/>
+<rect x="0" y="0" width="800" height="7" fill="#4a4a68"/>
+<text x="400" y="46" text-anchor="middle" font-size="11.0" font-weight="normal" fill="#777777">DIGITAL &amp; TECHNOLOGY</text>
+<text x="400" y="78" text-anchor="middle" font-size="24.0" font-weight="bold" fill="#2d2d2d">Who Answers When the Algorithm Errs</text>
+<rect x="182.0" y="195.7" width="66.1" height="108.6" rx="10.6" fill="#4a4a68"/><rect x="191.4" y="209.9" width="47.2" height="68.4" fill="#faf8f3" opacity="0.9"/>
+<text x="215" y="348" text-anchor="middle" font-size="16.0" font-weight="bold" fill="#2d2d2d">The system</text>
+<text x="215" y="372" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#777777">executes the rule</text>
+<rect x="537.8" y="202.8" width="94.4" height="94.4" fill="#4a4a68"/><rect x="552.0" y="217.0" width="13.0" height="13.0" fill="#faf8f3" opacity="0.8"/><rect x="577.9" y="217.0" width="13.0" height="13.0" fill="#faf8f3" opacity="0.8"/><rect x="603.9" y="217.0" width="13.0" height="13.0" fill="#faf8f3" opacity="0.8"/><rect x="552.0" y="242.9" width="13.0" height="13.0" fill="#faf8f3" opacity="0.8"/><rect x="577.9" y="242.9" width="13.0" height="13.0" fill="#faf8f3" opacity="0.8"/><rect x="603.9" y="242.9" width="13.0" height="13.0" fill="#faf8f3" opacity="0.8"/><rect x="552.0" y="268.9" width="13.0" height="13.0" fill="#faf8f3" opacity="0.8"/><rect x="577.9" y="268.9" width="13.0" height="13.0" fill="#faf8f3" opacity="0.8"/><rect x="603.9" y="268.9" width="13.0" height="13.0" fill="#faf8f3" opacity="0.8"/>
+<text x="585" y="348" text-anchor="middle" font-size="16.0" font-weight="bold" fill="#2d2d2d">The deployer</text>
+<text x="585" y="372" text-anchor="middle" font-size="11.5" font-weight="normal" fill="#777777">owes accountability</text>
+<line x1="300" y1="250" x2="490" y2="250" stroke="#4a4a68" stroke-width="3" marker-end="url(#ar)"/>
+<line x1="500" y1="288" x2="310" y2="288" stroke="#4a4a68" stroke-width="2" stroke-dasharray="6 4" opacity="0.7" marker-end="url(#ar)"/>
+<text x="400" y="312" text-anchor="middle" font-size="11.0" font-weight="normal" fill="#777777">the office answers, not the tool</text>
+<text x="400" y="219" text-anchor="middle" font-size="13.0" font-weight="bold" fill="#4a4a68">delegation does not erase</text>
+<text x="400" y="236" text-anchor="middle" font-size="13.0" font-weight="bold" fill="#4a4a68">liability</text>
+<line x1="90" y1="516" x2="710" y2="516" stroke="#c9c2b4" stroke-width="1"/>
+<text x="400" y="540" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">An automated decision that harms someone still has a human author behind it. Deploying</text>
+<text x="400" y="559" text-anchor="middle" font-size="13.0" font-weight="normal" fill="#2d2d2d">the system does not discharge the duty to answer for it.</text>
+<text x="400" y="602" text-anchor="middle" font-size="12.0" font-weight="bold" fill="#4a4a68">Q17:34</text>
+</svg>
