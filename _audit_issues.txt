@@ -1,0 +1,11 @@
+about.html: broken href browse.html?axis=${k}
+index.html: broken href browse.html?part=
+read.html: broken href ?ch=
+tafsir.html: broken href browse.html?q=
+missing svg/en/ch1-d0.svg
+missing svg/en/ch1-d1.svg
+missing svg/en/ch2-diag-1.svg
+missing svg/en/ch2-diag-2.svg
+missing svg/en/ch2-diag-3.svg
+... and 11 more missing EN SVGs (total 16)
+qbank: loads both qbank/styles.css and ../styles.css — possible header/style clash

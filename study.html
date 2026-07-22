@@ -26,7 +26,15 @@
   <h1 class="hub-title">Start here</h1>
   <p class="hub-lede" id="study-intro"></p>
   <ol class="hub-steps" id="study-steps"></ol>
+  <p class="hub-lede" style="margin-top:36px">Also open:
+    <a href="lexicon.html" style="color:var(--teal)">Lexicon</a> ·
+    <a href="hadith.html" style="color:var(--teal)">Hadith notes</a>
+  </p>
 </main>
+<footer class="bot"><div class="wrap">
+  <p>Every diagram and note here is an ijtihādī study aid, not a fatwā.</p>
+</div></footer>
+<script src="app.js"></script>
 <script>
 (async function(){
   const d = await (await fetch('data/study.json')).json();
@@ -39,17 +47,12 @@
     li.className = 'hub-step';
     const a = document.createElement('a');
     a.href = s.href;
-    if (s.external) a.target = '_blank'; a.rel = 'noopener';
+    if (s.external) { a.target = '_blank'; a.rel = 'noopener'; }
     a.innerHTML = '<strong>'+(ur?s.title_ur:s.title_en)+'</strong><span>'+(ur?(s.blurb_ur||s.blurb_en):s.blurb_en)+'</span>';
     li.appendChild(a);
     ol.appendChild(li);
   });
 })();
 </script>
-<footer class="bot"><div class="wrap">
-  <p>Every diagram and note here is an ijtihādī study aid, not a fatwā.</p>
-</div></footer>
-<script src="app.js"></script>
-
 </body>
 </html>

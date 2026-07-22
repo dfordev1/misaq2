@@ -36,9 +36,57 @@ body {
 }
 
 header.top {
-  border-bottom: 2px solid var(--teal);
-  padding-bottom: 0.75rem;
-  margin-bottom: 1.5rem;
+  border-bottom: 1px solid #e6e0d4;
+  padding: 0;
+  margin: 0 0 1.5rem;
+  background: #fffaf0;
+}
+
+header.top .wrap,
+header.top .topin {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 14px 22px;
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  flex-wrap: wrap;
+}
+
+header.top .brand {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.05rem;
+  color: #1a2332;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+header.top .brand span {
+  color: #0d6e6e;
+}
+
+header.top nav.main {
+  display: flex;
+  gap: 14px;
+  margin-inline-start: auto;
+  flex-wrap: wrap;
+  font-size: 0.86rem;
+}
+
+header.top nav.main a {
+  color: #6a6357;
+  text-decoration: none;
+  padding: 4px 0;
+  border-bottom: 2px solid transparent;
+}
+
+header.top nav.main a:hover,
+header.top nav.main a.on {
+  color: #0d6e6e;
+}
+
+header.top nav.main a.on {
+  border-bottom-color: #b8860b;
 }
 
 header.top h1 {

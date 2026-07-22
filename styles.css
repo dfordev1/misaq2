@@ -167,13 +167,20 @@ footer.bot p{margin:0 0 8px;line-height:1.7}
 @media(max-width:860px){
   .readwrap{grid-template-columns:1fr;gap:22px}
   .toc{position:static}
-  nav.main{gap:14px;font-size:.84rem}
+  nav.main{gap:12px;font-size:.82rem;flex-wrap:wrap;width:100%}
   .brand{font-size:.9rem}
   .stats{gap:24px}
+  .topin{flex-wrap:wrap}
+}
+@media(max-width:700px){
+  nav.main a[href="downloads.html"],
+  nav.main a[href="../downloads.html"]{display:none}
 }
 @media(max-width:600px){
   nav.main a.hide-s{display:none}
   .hero{padding:48px 0 36px}
+  .cta{flex-direction:column;align-items:stretch}
+  .cta .btn{text-align:center}
 }
 /* ---------- hub pages (study, lexicon, hadith, downloads) ---------- */
 .hub-main{padding:52px 0 80px;max-width:860px}
