@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Covenant Tafsīr — Islamic Covenant Theology</title>
+<meta name="description" content="A verse-by-verse commentary on the Qur'an read through ʿahd, mīthāq, amānah and ʿuqūd, in English and Urdu.">
+<link rel="stylesheet" href="styles.css">
+<style>
+.tfwrap{display:grid;grid-template-columns:210px 1fr;gap:44px;padding:30px 0 80px}
+.tfnav{position:sticky;top:96px;align-self:start;font-size:.9rem;max-height:78vh;overflow:auto}
+.tfnav a{display:flex;justify-content:space-between;gap:8px;padding:7px 11px;border-radius:3px;
+  color:var(--muted);border-inline-start:2px solid transparent}
+.tfnav a:hover{background:var(--paper2);color:var(--ink)}
+.tfnav a.on{background:var(--paper2);color:var(--teal);border-inline-start-color:var(--gold)}
+.tfnav a small{color:var(--line2);font-size:.76rem}
+.shead{border-bottom:1px solid var(--line);padding-bottom:18px;margin-bottom:26px}
+.shead .ar{direction:rtl;font-family:'Segoe UI','Times New Roman',serif;font-size:2.2rem;
+  color:var(--teal);line-height:1.6}
+.shead h1{font-size:1.5rem;font-weight:500;margin:2px 0 4px}
+.shead .en{color:var(--muted);font-style:italic;font-size:.95rem}
+.shead .intro{margin-top:14px;line-height:1.75;color:#514b41;max-width:64ch}
+.sect{margin:38px 0 18px;padding-bottom:8px;border-bottom:1px solid var(--line)}
+.sect .e{font-size:.72rem;letter-spacing:.18em;text-transform:uppercase;color:var(--gold)}
+.sect .u{direction:rtl;font-family:var(--nast);font-size:1.1rem;line-height:2;color:var(--teal)}
+.ayah{padding:20px 0;border-bottom:1px solid var(--line)}
+.ayah:last-child{border-bottom:0}
+.ayah .num{display:inline-flex;align-items:center;justify-content:center;min-width:30px;height:30px;
+  border-radius:50%;border:1px solid var(--line2);color:var(--gold);font-size:.8rem;flex:none}
+.ayah .row{display:flex;gap:14px;align-items:flex-start}
+.ayah .ar{direction:rtl;text-align:right;flex:1;font-family:'Segoe UI','Times New Roman',serif;
+  font-size:1.62rem;line-height:2.15;color:var(--ink)}
+.ayah .tr{margin:12px 0 0 44px;line-height:1.75;color:#4a443b;font-size:1.02rem}
+.note{margin:14px 0 0 44px;background:var(--paper2);border-inline-start:4px solid var(--gold);
+  border-radius:3px;padding:13px 17px}
+.note .axis{font-size:.68rem;letter-spacing:.14em;text-transform:uppercase;color:var(--teal);
+  font-weight:600;margin-bottom:7px}
+.note .en{line-height:1.72;font-size:.97rem}
+.note .ur{direction:rtl;font-family:var(--nast);line-height:2.35;font-size:1rem;
+  margin-top:11px;padding-top:11px;border-top:1px solid var(--line)}
+.note .xref{margin-top:10px;font-size:.8rem;color:var(--muted)}
+.note .xref a{color:var(--gold);font-style:italic;margin-inline-end:9px}
+.nonote{margin:10px 0 0 44px;font-size:.84rem;color:#a49b8b;font-style:italic}
+.tfbar{display:flex;gap:14px;align-items:center;flex-wrap:wrap;padding:14px 0;
+  border-bottom:1px solid var(--line);margin-bottom:4px}
+.tfbar label{font-size:.86rem;color:var(--muted);display:flex;align-items:center;gap:7px;cursor:pointer}
+.banner{background:#fdf6e3;border:1px solid #e6d8a8;border-radius:4px;padding:14px 18px;
+  margin:22px 0 6px;font-size:.92rem;line-height:1.7;color:#6b5a2a}
+@media(max-width:860px){
+  .tfwrap{grid-template-columns:1fr;gap:20px}.tfnav{position:static;max-height:none}
+  .ayah .tr,.note,.nonote{margin-left:0}
+  .ayah .ar{font-size:1.4rem}
+}
+</style>
+</head>
+<body>
+<header class="top"><div class="wrap topin">
+  <a class="brand" href="index.html">Islamic <span>Covenant Theology</span></a>
+  <nav class="main">
+    <a href="index.html">Home</a>
+    <a href="browse.html">Diagrams</a>
+    <a href="tafsir.html" class="on">Tafsīr</a>
+    <a href="read.html">تعارف</a>
+    <a href="about.html" class="hide-s">Method</a>
+  </nav>
+</div></header>
+
+<main class="wrap">
+  <div id="banner"></div>
+  <div class="tfwrap">
+    <aside class="tfnav"><div id="nav"></div></aside>
+    <div>
+      <div class="tfbar">
+        <label><input type="checkbox" id="showtr" checked> Translation</label>
+        <label><input type="checkbox" id="shownote" checked> Commentary</label>
+        <label><input type="checkbox" id="showur" checked> اردو</label>
+        <label><input type="checkbox" id="onlynoted"> Only verses with commentary</label>
+      </div>
+      <div class="shead" id="shead"></div>
+      <div id="body"></div>
+    </div>
+  </div>
+</main>
+
+<footer class="bot"><div class="wrap">
+  <p>The commentary is an <em>ijtihādī</em> reading through one lens — ʿahd and mīthāq — and
+  is not offered as a substitute for the classical tafsīr tradition, nor as fatwā.</p>
+</div></footer>
+
+<script src="app.js"></script>
+<script>
+(async function(){
+  const res = await fetch('data/tafsir.json');
+  if(!res.ok){ document.getElementById('body').innerHTML =
+    '<p class="empty">No tafsīr data yet.</p>'; return; }
+  const book = await res.json();
+  const nav=document.getElementById('nav'), body=document.getElementById('body'),
+        shead=document.getElementById('shead');
+  let cur=0;
+
+  const total = book.surahs.reduce((a,s)=>a+s.items.filter(i=>i.t==='v').length,0);
+  if(total < 200){
+    document.getElementById('banner').innerHTML =
+      '<div class="banner"><strong>Preview.</strong> This is a '+total+'-verse sample built to '+
+      'settle the format. The full run covers 16 sūrahs and 1,692 āyāt, and needs the '+
+      'Qurʾānic text file — no scripture is generated here.</div>';
+  }
+
+  book.surahs.forEach((s,i)=>{
+    const a=document.createElement('a');
+    a.href='#'; a.innerHTML='<span>'+s.n+'. '+s.translit+'</span><small>'+
+      s.items.filter(x=>x.t==='v').length+'</small>';
+    a.onclick=e=>{e.preventDefault();show(i);};
+    nav.appendChild(a);
+  });
+
+  function opt(id){ return document.getElementById(id).checked; }
+
+  function render(){
+    const s=book.surahs[cur];
+    shead.innerHTML='<div class="ar">'+s.ar+'</div><h1>'+s.n+'. '+s.translit+'</h1>'+
+      '<div class="en">'+s.en+'</div>'+(s.intro?'<p class="intro">'+s.intro+'</p>':'');
+    body.innerHTML='';
+    s.items.forEach(it=>{
+      if(it.t==='s'){
+        if(opt('onlynoted')) return;
+        const d=document.createElement('div'); d.className='sect';
+        d.innerHTML=(it.en?'<div class="e">'+it.en+'</div>':'')+
+                    (it.ur?'<div class="u">'+it.ur+'</div>':'');
+        body.appendChild(d); return;
+      }
+      if(opt('onlynoted') && !it.note) return;
+      const d=document.createElement('div'); d.className='ayah';
+      let h='<div class="row"><span class="num">'+it.n+'</span><div class="ar">'+it.ar+'</div></div>';
+      if(it.tr && opt('showtr')) h+='<div class="tr">'+it.tr+'</div>';
+      if(it.note && opt('shownote')){
+        const n=it.note;
+        h+='<div class="note">';
+        if(n.axis) h+='<div class="axis">'+n.axis+'</div>';
+        if(n.en) h+='<div class="en">'+n.en+'</div>';
+        if(n.ur && opt('showur')) h+='<div class="ur">'+n.ur+'</div>';
+        if(n.refs&&n.refs.length) h+='<div class="xref">See also: '+
+          n.refs.map(r=>'<a href="browse.html?q='+encodeURIComponent(r)+'">'+r+'</a>').join('')+'</div>';
+        h+='</div>';
+      } else if(!it.note && opt('shownote') && !opt('onlynoted')){
+        h+='<div class="nonote">No covenant note on this āyah.</div>';
+      }
+      d.innerHTML=h; body.appendChild(d);
+    });
+  }
+  function show(i){ cur=i;
+    nav.querySelectorAll('a').forEach((a,k)=>a.classList.toggle('on',k===i));
+    render(); window.scrollTo({top:0,behavior:'instant'});
+  }
+  ['showtr','shownote','showur','onlynoted'].forEach(id=>
+    document.getElementById(id).addEventListener('change',render));
+  show(0);
+})();
+</script>
+</body>
+</html>

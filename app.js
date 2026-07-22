@@ -161,7 +161,7 @@ const CT = (function () {
   // Urdu strings for the interface chrome. Keyed by the English text so pages
   // stay readable with no markup ceremony.
   const UI = {
-    'Home': 'سرورق', 'Diagrams': 'خاکے', 'Method': 'منہج',
+    'Home': 'سرورق', 'Diagrams': 'خاکے', 'Method': 'منہج', 'Tafsīr': 'تفسیر',
     'All domains': 'تمام میدان', 'All axes': 'تمام محور',
     'Introduction diagrams': 'تعارفی خاکے',
     'Search titles, captions, citations…': 'عنوان، وضاحت یا حوالہ تلاش کریں…',
