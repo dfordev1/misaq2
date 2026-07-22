@@ -29,15 +29,26 @@ data and SVGs and `file://` blocks that.
 ```
 index.html      landing page
 browse.html     all 316 diagrams — search, domain filter, axis filter, lightbox
+tafsir.html     Mithaq Tafsir First Edition reader (EN notes + AR text)
 read.html       the six-chapter Urdu introduction
 about.html      method, source hierarchy, axis colour key, limits
 app.js          language state, data loading, SVG inlining, grid, lightbox
 styles.css      all styling, including the Nastaliq @font-face
-data/           diagrams.json (bilingual index), intro.json (chapter prose)
+data/           diagrams.json, intro.json, tafsir.json (201 covenant loci / 60 surahs)
 svg/en/         300 English diagrams
 svg/ur/         316 Urdu diagrams (300 applications + 16 introduction)
 fonts/          Noto Nastaliq Urdu (SIL Open Font License)
 ```
+
+## Tafsir (First Edition)
+
+`data/tafsir.json` holds the **Mithaq Tafsir First Edition**: 201 covenant-focused āyah notes across 60 sūrahs, with Arabic text, English study translation, and Mithaq commentary. Rebuild from the corpus repo:
+
+```bash
+python ../CovenantTheology/scripts/export_tafsir_to_misaq2.py
+```
+
+Full QUSX packages, PDF book, and METHOD review also live on [dfordev1/misaq](https://github.com/dfordev1/misaq) / [misaq Pages tafsir](https://dfordev1.github.io/misaq/tafsir/).
 
 ## Language
 
