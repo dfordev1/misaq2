@@ -8,12 +8,17 @@
 <link rel="stylesheet" href="styles.css">
 <style>
 .tfwrap{display:grid;grid-template-columns:210px 1fr;gap:44px;padding:30px 0 80px}
-.tfnav{position:sticky;top:96px;align-self:start;font-size:.9rem;max-height:78vh;overflow:auto}
+.tfnav{position:sticky;top:calc(var(--header-h) + 12px);align-self:start;font-size:.9rem;max-height:78vh;overflow:auto}
 .tfnav a{display:flex;justify-content:space-between;gap:8px;padding:7px 11px;border-radius:3px;
   color:var(--muted);border-inline-start:2px solid transparent}
 .tfnav a:hover{background:var(--paper2);color:var(--ink)}
 .tfnav a.on{background:var(--paper2);color:var(--teal);border-inline-start-color:var(--gold)}
 .tfnav a small{color:var(--line2);font-size:.76rem}
+.tf-pick{display:none;margin:0 0 14px}
+.tf-pick label{display:block;font-size:.72rem;letter-spacing:.14em;text-transform:uppercase;
+  color:var(--gold);margin-bottom:6px}
+.tf-pick select{width:100%;max-width:100%;padding:11px 12px;border:1px solid var(--line2);
+  border-radius:3px;background:var(--card);font-family:var(--serif);font-size:.95rem;color:var(--ink)}
 .shead{border-bottom:1px solid var(--line);padding-bottom:18px;margin-bottom:26px}
 .shead .ar{direction:rtl;font-family:"Scheherazade New","Noto Naskh Arabic","Times New Roman",serif;font-size:2.2rem;
   color:var(--teal);line-height:1.6}
@@ -47,7 +52,10 @@
 .banner{background:#fdf6e3;border:1px solid #e6d8a8;border-radius:4px;padding:14px 18px;
   margin:22px 0 6px;font-size:.92rem;line-height:1.7;color:#6b5a2a}
 @media(max-width:860px){
-  .tfwrap{grid-template-columns:1fr;gap:20px}.tfnav{position:static;max-height:none}
+  .tfwrap{grid-template-columns:1fr;gap:16px}
+  .tfnav{position:static;max-height:none;overflow:visible}
+  .tfnav #nav{display:none}
+  .tf-pick{display:block}
   .ayah .tr,.note,.nonote{margin-left:0}
   .ayah .ar{font-size:1.4rem}
 }
@@ -71,7 +79,13 @@
 <main class="wrap">
   <div id="banner"></div>
   <div class="tfwrap">
-    <aside class="tfnav"><div id="nav"></div></aside>
+    <aside class="tfnav">
+      <div class="tf-pick">
+        <label for="nav-select">Choose a sūrah</label>
+        <select id="nav-select" aria-label="Choose a sūrah"></select>
+      </div>
+      <div id="nav"></div>
+    </aside>
     <div>
       <div class="tfbar">
         <label><input type="checkbox" id="showtr" checked> Translation</label>
@@ -98,12 +112,13 @@
     '<p class="empty">No tafsīr data yet.</p>'; return; }
   const book = await res.json();
   const nav=document.getElementById('nav'), body=document.getElementById('body'),
-        shead=document.getElementById('shead');
+        shead=document.getElementById('shead'),
+        sel=document.getElementById('nav-select');
   let cur=0;
 
   document.getElementById('banner').innerHTML =
     '<div class="banner"><strong>How to use this (beginners welcome).</strong> '+
-    'Pick a sūrah on the left. Read the Arabic, the translation, then the gold-bordered note — '+
+    'Choose a sūrah, then read the Arabic, the translation, and the gold-bordered note — '+
     'that note is the covenant lens. First Edition: 201 notes across 60 sūrahs '+
     '(sampled verses, not a full-sūrah tafsīr). '+
     '<a href="index.html#start3" style="color:inherit;text-decoration:underline">3-step start →</a></div>';
@@ -114,7 +129,12 @@
       s.items.filter(x=>x.t==='v').length+'</small>';
     a.onclick=e=>{e.preventDefault();show(i);};
     nav.appendChild(a);
+    const o=document.createElement('option');
+    o.value=String(i);
+    o.textContent=s.n+'. '+s.translit+' ('+s.items.filter(x=>x.t==='v').length+')';
+    sel.appendChild(o);
   });
+  sel.addEventListener('change',()=>show(parseInt(sel.value,10)||0));
 
   function opt(id){ return document.getElementById(id).checked; }
 
@@ -152,6 +172,7 @@
   }
   function show(i){ cur=i;
     nav.querySelectorAll('a').forEach((a,k)=>a.classList.toggle('on',k===i));
+    sel.value=String(i);
     render(); window.scrollTo({top:0,behavior:'instant'});
   }
   ['showtr','shownote','showur','onlynoted'].forEach(id=>

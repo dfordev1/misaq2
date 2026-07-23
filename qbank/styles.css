@@ -323,8 +323,9 @@
 
 @media (max-width: 700px) {
   nav.main a[href="downloads.html"],
-  nav.main a[href="../downloads.html"] {
-    display: none;
+  nav.main a[href="../downloads.html"],
+  nav.main a[href="/downloads"] {
+    display: block;
   }
 }
 
@@ -335,5 +336,11 @@
 
   .app {
     padding: 1rem 0.75rem 2rem;
+  }
+}
+
+@media (pointer: coarse), (max-width: 700px) {
+  .app .keys-hint {
+    display: none;
   }
 }

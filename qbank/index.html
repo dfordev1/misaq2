@@ -1,199 +1,94 @@
 <!DOCTYPE html>
-
 <html lang="en">
-
 <head>
-
   <meta charset="UTF-8">
-
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
   <title>Mithaq QBank — Application Diagrams</title>
-
-  <link rel="stylesheet" href="../styles.css">
-
-  <link rel="stylesheet" href="styles.css">
-
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="stylesheet" href="/qbank/styles.css">
 </head>
-
 <body>
-
   <div class="app">
-
     <header class="top qbank-top"><div class="wrap topin">
-
-  <a class="brand" href="../index.html">Islamic <span>Covenant Theology</span></a>
-
-  <nav class="main">
-
-    <a href="../index.html">Home</a>
-
-    <a href="../browse.html">Diagrams</a>
-
-    <a href="../tafsir.html">Tafsīr</a>
-
-    <a href="index.html" class="on">Quiz</a>
-
-    <a href="../study.html">Study</a>
-
-    <a href="../downloads.html">Downloads</a>
-
-    <a href="../read.html">تعارف</a>
-
-    <a href="../about.html" class="hide-s">Method</a>
-
-  </nav>
-
-</div></header>
-
-
+      <a class="brand" href="/">Islamic <span>Covenant Theology</span></a>
+      <nav class="main">
+        <a href="/">Home</a>
+        <a href="/browse">Diagrams</a>
+        <a href="/tafsir">Tafsīr</a>
+        <a href="/qbank/" class="on">Quiz</a>
+        <a href="/study">Study</a>
+        <a href="/downloads">Downloads</a>
+        <a href="/read">تعارف</a>
+        <a href="/about" class="hide-s">Method</a>
+      </nav>
+    </div></header>
 
     <section id="screen-start" class="screen active">
-
       <div class="panel">
-
         <h2>Quiz</h2>
-
         <p class="lead">No prior study required. You will see a life scene and four choices —
         pick the path that <em>keeps</em> the trust. Instant feedback.
         <span id="total-count">—</span> questions ready.</p>
-
         <div class="btn-row">
-
           <button type="button" id="btn-start-all">Start All</button>
-
           <button type="button" id="btn-random-20" class="secondary">Random 20</button>
-
           <button type="button" id="btn-random-50" class="secondary">Random 50</button>
-
         </div>
-
         <label class="field" for="domain-select">Pick Domain</label>
-
         <select id="domain-select" aria-label="Domain filter"></select>
-
         <div class="btn-row">
-
           <button type="button" id="btn-pick-domain">Start Domain Quiz</button>
-
         </div>
-
       </div>
-
     </section>
-
-
 
     <section id="screen-quiz" class="screen">
-
       <div class="progress-wrap">
-
         <div class="progress-meta">
-
           <span id="progress-label">Question 1 of 1</span>
-
           <span id="score-label">Score: 0 / 0</span>
-
         </div>
-
         <div class="progress-bar"><div id="progress-fill" class="progress-fill"></div></div>
-
       </div>
-
-
-
       <div class="panel">
-
         <div class="meta-tags">
-
           <span id="qid-tag" class="tag">Q001</span>
-
           <span id="domain-tag" class="tag">Domain</span>
-
           <span id="axis-tag" class="tag">Axis</span>
-
         </div>
-
-
-
         <div class="diagram-wrap">
-
           <img id="diagram-img" src="" alt="Scenario diagram" width="960" height="680">
-
         </div>
-
-
-
         <p id="stem-text" class="stem"></p>
-
-
-
         <div id="options" class="options" role="group" aria-label="Answer options"></div>
-
-
-
         <div id="explain-panel" class="explain"></div>
-
-
-
         <div class="nav-row">
-
           <button type="button" id="btn-next" disabled>Next</button>
-
           <button type="button" id="btn-skip" class="secondary">Skip</button>
-
         </div>
-
-        <p class="hint">Keys: <kbd>1</kbd>–<kbd>4</kbd> or <kbd>A</kbd>–<kbd>D</kbd> to answer, <kbd>N</kbd> for next</p>
-
+        <p class="hint keys-hint">Keys: <kbd>1</kbd>–<kbd>4</kbd> or <kbd>A</kbd>–<kbd>D</kbd> to answer, <kbd>N</kbd> for next</p>
       </div>
-
     </section>
-
-
 
     <section id="screen-end" class="screen">
-
       <div class="panel">
-
         <h2>Session Complete</h2>
-
         <p class="end-score" id="end-score">0 / 0 (0%)</p>
-
         <p class="lead">Review missed questions below, or start a new session.</p>
-
         <ul id="review-list" class="review-list"></ul>
-
         <div class="btn-row">
-
           <button type="button" id="btn-retry">Retry Same Mode</button>
-
           <button type="button" id="btn-home" class="secondary">Back to Start</button>
-
         </div>
-
       </div>
-
     </section>
-
   </div>
 
-
-
   <footer class="bot"><div class="wrap">
-
     <p>Every quiz item is an ijtihādī study aid, not a fatwā.</p>
-
   </div></footer>
 
-
-
-  <script src="../app.js"></script>
-
-  <script src="app.js"></script>
-
+  <script src="/app.js"></script>
+  <script src="/qbank/app.js"></script>
 </body>
-
 </html>
-
-

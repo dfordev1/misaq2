@@ -204,22 +204,51 @@ const CT = (function () {
     document.querySelectorAll('select').forEach(s => s.classList.add('ur'));
   }
 
-  // Header language toggle, injected on every page.
-  function mountToggle() {
+  // Header language toggle + mobile nav, injected on every page.
+  function syncHeaderHeight() {
+    const h = document.querySelector('header.top');
+    if (!h) return;
+    document.documentElement.style.setProperty('--header-h', h.offsetHeight + 'px');
+  }
+
+  function mountNavChrome() {
+    const header = document.querySelector('header.top');
+    const topin = document.querySelector('.topin');
     const nav = document.querySelector('nav.main');
-    if (!nav) return;
+    if (!header || !topin || !nav) return;
+
+    const btn = document.createElement('button');
+    btn.type = 'button';
+    btn.className = 'nav-toggle';
+    btn.setAttribute('aria-label', 'Menu');
+    btn.setAttribute('aria-expanded', 'false');
+    btn.innerHTML = '<span class="bars" aria-hidden="true"></span>';
+    btn.addEventListener('click', () => {
+      const open = header.classList.toggle('nav-open');
+      btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+      syncHeaderHeight();
+    });
+    nav.before(btn);
+
     const box = document.createElement('div');
     box.className = 'langtog';
-    box.innerHTML = '<button data-l="en">EN</button><button data-l="ur">اردو</button>';
+    box.innerHTML = '<button type="button" data-l="en">EN</button><button type="button" data-l="ur">اردو</button>';
     box.querySelectorAll('button').forEach(b => {
       if (b.dataset.l === lang()) b.classList.add('on');
       b.addEventListener('click', () => { if (b.dataset.l !== lang()) setLang(b.dataset.l); });
     });
     nav.after(box);
+
+    syncHeaderHeight();
+    window.addEventListener('resize', () => {
+      if (window.innerWidth > 760) header.classList.remove('nav-open');
+      syncHeaderHeight();
+    });
   }
+
   document.addEventListener('DOMContentLoaded', () => {
     applyHtmlLang();
-    mountToggle();
+    mountNavChrome();
     localizeChrome();
   });
 

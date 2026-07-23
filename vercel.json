@@ -2,6 +2,9 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "cleanUrls": true,
   "trailingSlash": false,
+  "rewrites": [
+    { "source": "/qbank", "destination": "/qbank/index.html" }
+  ],
   "headers": [
     {
       "source": "/fonts/(.*)",

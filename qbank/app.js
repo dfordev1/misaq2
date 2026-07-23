@@ -21,7 +21,7 @@
   };
 
   async function loadBank() {
-    const res = await fetch("./questions.json");
+    const res = await fetch("/qbank/questions.json");
     if (!res.ok) throw new Error("Failed to load questions.json");
     state.bank = await res.json();
     populateDomains();
@@ -99,7 +99,7 @@
       return;
     }
     updateProgress();
-    $("#diagram-img").src = "./" + q.diagram;
+    $("#diagram-img").src = "/qbank/" + q.diagram;
     $("#diagram-img").alt = q.title;
     $("#stem-text").textContent = q.stem;
     $("#domain-tag").textContent = q.domain;

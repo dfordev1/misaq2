@@ -25,11 +25,12 @@
   <div class="rule hub-rule"></div>
   <h1 class="hub-title">Hadith notes</h1>
   <p class="hub-lede">Fifty short reports about promises, trusts, and fidelity (H01–H50).
-    Each row shows a grade and linked Qurʾān verses — start anywhere; no prior hadith training required.</p>
-  <div class="hub-table-wrap"><table class="hub-table" id="had-table">
+    Each entry shows a grade and linked Qurʾān verses — start anywhere; no prior hadith training required.</p>
+  <div class="hub-table-wrap had-desktop"><table class="hub-table" id="had-table">
     <thead><tr><th>ID</th><th>Title</th><th>Grade</th><th>Collections</th><th>Axis</th><th>Qurʾān links</th><th>Theme</th></tr></thead>
     <tbody></tbody>
   </table></div>
+  <div class="had-cards" id="had-cards"></div>
 </main>
 
 <footer class="bot"><div class="wrap">
@@ -41,9 +42,11 @@
 (async function(){
   const d = await (await fetch('data/hadith.json')).json();
   const tb = document.querySelector('#had-table tbody');
+  const cards = document.getElementById('had-cards');
   document.querySelector('.hub-title').textContent = CT.t('Hadith');
   if (!d.entries.length) {
     tb.innerHTML = '<tr><td colspan="7"><p class="empty">No hadith entries yet.</p></td></tr>';
+    cards.innerHTML = '<p class="empty">No hadith entries yet.</p>';
     return;
   }
   const axisLabels = {
@@ -57,7 +60,6 @@
   function qLinks(links) {
     if (!links || !links.length) return '—';
     return links.map(ref => {
-      const [s, a] = ref.split(':');
       return '<a href="tafsir.html" title="Q '+ref+'">Q '+ref+'</a>';
     }).join(' · ');
   }
@@ -72,6 +74,17 @@
       '<td>'+qLinks(h.quran_links)+'</td>'+
       '<td>'+h.theme+'</td>';
     tb.appendChild(tr);
+
+    const card = document.createElement('article');
+    card.className = 'had-card';
+    card.innerHTML =
+      '<div class="hid">'+h.id+' · '+h.grade+'</div>'+
+      '<h3>'+h.title+'</h3>'+
+      '<p class="meta"><strong>Collections</strong> '+h.collections+'</p>'+
+      '<p class="meta"><strong>Axis</strong> '+(axisLabels[h.axis] || h.axis || '—')+'</p>'+
+      '<p class="meta"><strong>Qurʾān</strong> '+qLinks(h.quran_links)+'</p>'+
+      '<p class="meta"><strong>Theme</strong> '+h.theme+'</p>';
+    cards.appendChild(card);
   });
 })();
 </script>
