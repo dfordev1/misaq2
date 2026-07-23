@@ -189,13 +189,20 @@ footer.bot p{margin:0 0 8px;line-height:1.7}
   .stats{gap:24px}
 }
 @media(max-width:760px){
-  .nav-toggle{display:inline-flex;margin-inline-start:0;order:3}
-  .topin{flex-wrap:wrap;row-gap:0}
-  .langtog{order:2;margin-inline-start:auto}
+  .topin{
+    display:grid;
+    grid-template-columns:minmax(0,1fr) auto auto;
+    align-items:center;
+    column-gap:10px;
+    row-gap:0;
+  }
+  .brand{min-width:0;overflow:hidden;text-overflow:ellipsis}
+  .langtog{margin-inline-start:0}
+  .nav-toggle{display:inline-flex;margin-inline-start:0}
   nav.main{
-    display:none;width:100%;flex-direction:column;align-items:stretch;
+    display:none;grid-column:1/-1;width:100%;flex-direction:column;align-items:stretch;
     gap:0;margin:8px 0 0;padding:4px 0 8px;border-top:1px solid var(--line);
-    order:20;font-size:.95rem
+    font-size:.95rem
   }
   header.top.nav-open nav.main{display:flex}
   nav.main a{
