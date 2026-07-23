@@ -27,10 +27,21 @@
   <p class="hub-lede">Core covenant lexemes in the Mithaq paradigm.</p>
   <div class="hub-list" id="lex-list"></div>
 </main>
+
+<footer class="bot"><div class="wrap">
+  <p>Every diagram and note here is an ijtihādī study aid, not a fatwā.</p>
+</div></footer>
+
+<script src="app.js"></script>
 <script>
 (async function(){
   const d = await (await fetch('data/lexicon.json')).json();
   const host = document.getElementById('lex-list');
+  document.querySelector('.hub-title').textContent = CT.t('Lexicon');
+  if (!d.terms.length) {
+    host.innerHTML = '<p class="empty">No lexicon entries yet.</p>';
+    return;
+  }
   d.terms.forEach(t=>{
     const art = document.createElement('article');
     art.className = 'hub-card';
@@ -40,10 +51,5 @@
   });
 })();
 </script>
-<footer class="bot"><div class="wrap">
-  <p>Every diagram and note here is an ijtihādī study aid, not a fatwā.</p>
-</div></footer>
-<script src="app.js"></script>
-
 </body>
 </html>

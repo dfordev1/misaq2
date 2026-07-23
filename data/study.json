@@ -1,72 +1,81 @@
-{
-  "title_en": "Start here",
-  "title_ur": "یہاں سے شروع کریں",
-  "intro_en": "An ordered path through this site — from method to tafsir, concept maps, quiz, and the deep GitHub corpus.",
-  "intro_ur": "اس سائٹ کا ترتیب شدہ راستہ — منہج سے تفسیر، تصوراتی خاکے، کوئز اور گہرے GitHub ذخیرے تک۔",
-  "steps": [
-    {
-      "n": 1,
-      "title_en": "Method & limits",
-      "title_ur": "منہج اور حدود",
-      "href": "about.html",
-      "blurb_en": "Source hierarchy, six axes, and how to read applied diagrams."
-    },
-    {
-      "n": 2,
-      "title_en": "Urdu introduction",
-      "title_ur": "اردو تعارف",
-      "href": "read.html",
-      "blurb_en": "Six-chapter Urdu primer on ahd, mithaq, amanah and uqud."
-    },
-    {
-      "n": 3,
-      "title_en": "Mithaq Tafsir (First Edition)",
-      "title_ur": "میثاق تفسیر",
-      "href": "tafsir.html",
-      "blurb_en": "201 covenant loci across 60 surahs with Arabic text and study notes."
-    },
-    {
-      "n": 4,
-      "title_en": "Lexicon",
-      "title_ur": "فرہنگ",
-      "href": "lexicon.html",
-      "blurb_en": "Core terms: ahd, mithaq, amanah, bayah, uqud, wad, dhimma."
-    },
-    {
-      "n": 5,
-      "title_en": "Hadith notes",
-      "title_ur": "حدیث نوٹس",
-      "href": "hadith.html",
-      "blurb_en": "Fifty covenant-themed reports (H01-H50) with grades and Quran links."
-    },
-    {
-      "n": 6,
-      "title_en": "Concept maps",
-      "title_ur": "تصوراتی خاکے",
-      "href": "browse.html?part=16",
-      "blurb_en": "312 paradigm concept plates — method, proof, dossiers, and architecture."
-    },
-    {
-      "n": 7,
-      "title_en": "Application quiz",
-      "title_ur": "اطلاقی آزمائش",
-      "href": "qbank/index.html",
-      "blurb_en": "420 scenario questions with diagram plates across 25 domains."
-    },
-    {
-      "n": 8,
-      "title_en": "PDF downloads",
-      "title_ur": "PDF ڈاؤن لوڈ",
-      "href": "downloads.html",
-      "blurb_en": "Books and diagram collections for offline study."
-    },
-    {
-      "n": 9,
-      "title_en": "Deep corpus (GitHub)",
-      "title_ur": "گہرا ذخیرہ",
-      "href": "https://dfordev1.github.io/misaq/",
-      "external": true,
-      "blurb_en": "Full Mithaq corpus: QUSX packages, METHOD review, and edition builds."
-    }
-  ]
-}
+{
+  "title_en": "Start here",
+  "title_ur": "یہاں سے شروع کریں",
+  "intro_en": "An ordered path through this site — from method to tafsir, concept maps, quiz, and the deep GitHub corpus.",
+  "intro_ur": "اس سائٹ کا ترتیب شدہ راستہ — منہج سے تفسیر، تصوراتی خاکے، کوئز اور گہرے GitHub ذخیرے تک۔",
+  "steps": [
+    {
+      "n": 1,
+      "title_en": "Method & limits",
+      "title_ur": "منہج اور حدود",
+      "href": "about.html",
+      "blurb_en": "Source hierarchy, six axes, and how to read applied diagrams.",
+      "blurb_ur": "ماخذ کی ترتیب، چھ محور، اور اطلاقی خاکے کیسے پڑھیں۔"
+    },
+    {
+      "n": 2,
+      "title_en": "Urdu introduction",
+      "title_ur": "اردو تعارف",
+      "href": "read.html",
+      "blurb_en": "Six-chapter Urdu primer on ahd, mithaq, amanah and uqud.",
+      "blurb_ur": "عہد، میثاق، امانت اور عقود پر چھ بابوں کا اردو تعارف۔"
+    },
+    {
+      "n": 3,
+      "title_en": "Mithaq Tafsir (First Edition)",
+      "title_ur": "میثاق تفسیر",
+      "href": "tafsir.html",
+      "blurb_en": "201 covenant loci across 60 surahs with Arabic text and study notes.",
+      "blurb_ur": "60 سورتوں میں 201 covenant loci — عربی متن اور مطالعہ نوٹس۔"
+    },
+    {
+      "n": 4,
+      "title_en": "Lexicon",
+      "title_ur": "فرہنگ",
+      "href": "lexicon.html",
+      "blurb_en": "Core terms: ahd, mithaq, amanah, bayah, uqud, wad, dhimma.",
+      "blurb_ur": "بنیادی اصطلاحات: عہد، میثاق، امانت، بیعت، عقود، وعد، ذمہ۔"
+    },
+    {
+      "n": 5,
+      "title_en": "Hadith notes",
+      "title_ur": "حدیث نوٹس",
+      "href": "hadith.html",
+      "blurb_en": "Fifty covenant-themed reports (H01-H50) with grades and Quran links.",
+      "blurb_ur": "پچاس میثاقی احادیث (H01–H50) — درجہ بندی اور قرآنی حوالے۔"
+    },
+    {
+      "n": 6,
+      "title_en": "Concept maps",
+      "title_ur": "تصوراتی خاکے",
+      "href": "browse.html?part=16",
+      "blurb_en": "312 paradigm concept plates — method, proof, dossiers, and architecture.",
+      "blurb_ur": "312 تصوراتی پلیٹیں — منہج، دلیل، ڈوسیے اور ڈھانچہ۔"
+    },
+    {
+      "n": 7,
+      "title_en": "Application quiz",
+      "title_ur": "اطلاقی آزمائش",
+      "href": "qbank/index.html",
+      "blurb_en": "420 scenario questions with diagram plates across 25 domains.",
+      "blurb_ur": "25 میدانوں میں 420 منظرنامہ سوالات — خاکوں کے ساتھ۔"
+    },
+    {
+      "n": 8,
+      "title_en": "PDF downloads",
+      "title_ur": "PDF ڈاؤن لوڈ",
+      "href": "downloads.html",
+      "blurb_en": "Books and diagram collections for offline study.",
+      "blurb_ur": "آف لائن مطالعہ کے لیے کتابیں اور خاکوں کے مجموعے۔"
+    },
+    {
+      "n": 9,
+      "title_en": "Deep corpus (GitHub)",
+      "title_ur": "گہرا ذخیرہ",
+      "href": "https://dfordev1.github.io/misaq/",
+      "external": true,
+      "blurb_en": "Full Mithaq corpus: QUSX packages, METHOD review, and edition builds.",
+      "blurb_ur": "مکمل میثاق ذخیرہ: QUSX پیکج، METHOD جائزہ اور ایڈیشن بلڈز۔"
+    }
+  ]
+}

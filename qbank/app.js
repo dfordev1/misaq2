@@ -86,7 +86,7 @@
 
   function updateProgress() {
     const total = state.queue.length;
-    const pct = total ? (state.index / total) * 100 : 0;
+    const pct = total ? ((state.index + 1) / total) * 100 : 0;
     $("#progress-fill").style.width = pct + "%";
     $("#progress-label").textContent = `Question ${Math.min(state.index + 1, total)} of ${total}`;
     $("#score-label").textContent = `Score: ${state.correct} / ${state.answered}`;

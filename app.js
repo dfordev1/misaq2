@@ -18,10 +18,15 @@ const CT = (function () {
   }
   function setLang(v) {
     try { localStorage.setItem('ct-lang', v); } catch (e) {}
+    document.documentElement.lang = v;
     // Drop any ?lang= from the URL, or it would override the new choice.
     const u = new URL(location.href);
     u.searchParams.delete('lang');
     location.replace(u.toString());
+  }
+
+  function applyHtmlLang() {
+    document.documentElement.lang = lang();
   }
 
   async function data() {
@@ -58,19 +63,22 @@ const CT = (function () {
   }
 
   function title(item) {
+    if (lang() === 'ur' && item.ur === false) return item.title_en || item.id;
     return (lang() === 'ur' ? item.title_ur : item.title_en) ||
            item.title_en || item.title_ur || item.id;
   }
   function domain(item) {
+    if (lang() === 'ur' && item.ur === false) return item.domain_en || '';
     return (lang() === 'ur' ? item.domain_ur : item.domain_en) || '';
   }
   function caption(item) {
+    if (lang() === 'ur' && item.ur === false) return item.caption_en || '';
     return (lang() === 'ur' ? item.caption_ur : item.caption_en) ||
            item.caption_en || item.caption_ur || '';
   }
 
-  // Lazily inline each card's SVG only as it scrolls into view — 316 inline
-  // SVGs at once is a lot of DOM.
+  // Lazily inline each card's SVG only as it scrolls into view — hundreds of
+  // inline SVGs at once is a lot of DOM.
   const io = new IntersectionObserver(entries => {
     entries.forEach(e => {
       if (!e.isIntersecting) return;
@@ -85,7 +93,7 @@ const CT = (function () {
     _list = items;
     host.innerHTML = '';
     if (!items.length) {
-      host.innerHTML = '<p class="empty">Nothing matches that search.</p>';
+      host.innerHTML = '<p class="empty">' + t('Nothing matches that search.') + '</p>';
       return;
     }
     items.forEach((it, i) => {
@@ -105,13 +113,19 @@ const CT = (function () {
       const h = document.createElement('h3');
       h.textContent = title(it);
       meta.append(dom, h);
+      if (lang() === 'ur' && it.ur === false) {
+        const badge = document.createElement('span');
+        badge.className = 'en-badge';
+        badge.textContent = 'EN';
+        h.appendChild(badge);
+      }
       if (it.citation) {
         const c = document.createElement('div');
         c.className = 'cite';
         c.textContent = it.citation;
         meta.appendChild(c);
       }
-      if (v === 'ur') { h.classList.add('ur'); dom.classList.add('ur'); }
+      if (v === 'ur' && it.ur !== false) { h.classList.add('ur'); dom.classList.add('ur'); }
       card.append(thumb, meta);
       const open = () => lightbox(i);
       card.addEventListener('click', open);
@@ -173,6 +187,7 @@ const CT = (function () {
     'Political & communal': 'سیاسی و اجتماعی',
     'Interpersonal': 'باہمی معاملات',
     'Eschatological': 'اخروی جواب دہی',
+    'Nothing matches that search.': 'اس تلاش سے کوئی خاکہ نہیں ملا۔',
   };
   function t(s) { return lang() === 'ur' ? (UI[s] || s) : s; }
   function plural(n) {
@@ -202,8 +217,12 @@ const CT = (function () {
     });
     nav.after(box);
   }
-  document.addEventListener('DOMContentLoaded', () => { mountToggle(); localizeChrome(); });
+  document.addEventListener('DOMContentLoaded', () => {
+    applyHtmlLang();
+    mountToggle();
+    localizeChrome();
+  });
 
   return { lang, setLang, data, intro, renderGrid, inject, title, domain, caption,
-           variant, lightbox, t, plural, localizeChrome };
+           variant, lightbox, t, plural, localizeChrome, applyHtmlLang };
 })();

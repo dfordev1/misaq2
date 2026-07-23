@@ -36,6 +36,9 @@
   const d = await (await fetch('data/downloads.json')).json();
   const ur = CT.lang()==='ur';
   document.querySelector('.hub-title').textContent = ur ? d.title_ur : d.title_en;
+  document.getElementById('dl-intro').textContent = ur
+    ? 'PDF کتابیں اور خاکوں کے مجموعے۔'
+    : 'PDF books and diagram collections.';
   const g = document.getElementById('dl-grid');
   if (!d.items.length) { g.innerHTML = '<p class="empty">No PDFs synced yet.</p>'; return; }
   d.items.forEach(it=>{

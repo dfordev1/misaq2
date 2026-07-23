@@ -15,7 +15,7 @@
 .tfnav a.on{background:var(--paper2);color:var(--teal);border-inline-start-color:var(--gold)}
 .tfnav a small{color:var(--line2);font-size:.76rem}
 .shead{border-bottom:1px solid var(--line);padding-bottom:18px;margin-bottom:26px}
-.shead .ar{direction:rtl;font-family:'Segoe UI','Times New Roman',serif;font-size:2.2rem;
+.shead .ar{direction:rtl;font-family:"Scheherazade New","Noto Naskh Arabic","Times New Roman",serif;font-size:2.2rem;
   color:var(--teal);line-height:1.6}
 .shead h1{font-size:1.5rem;font-weight:500;margin:2px 0 4px}
 .shead .en{color:var(--muted);font-style:italic;font-size:.95rem}
@@ -28,7 +28,7 @@
 .ayah .num{display:inline-flex;align-items:center;justify-content:center;min-width:30px;height:30px;
   border-radius:50%;border:1px solid var(--line2);color:var(--gold);font-size:.8rem;flex:none}
 .ayah .row{display:flex;gap:14px;align-items:flex-start}
-.ayah .ar{direction:rtl;text-align:right;flex:1;font-family:'Segoe UI','Times New Roman',serif;
+.ayah .ar{direction:rtl;text-align:right;flex:1;font-family:"Scheherazade New","Noto Naskh Arabic","Times New Roman",serif;
   font-size:1.62rem;line-height:2.15;color:var(--ink)}
 .ayah .tr{margin:12px 0 0 44px;line-height:1.75;color:#4a443b;font-size:1.02rem}
 .note{margin:14px 0 0 44px;background:var(--paper2);border-inline-start:4px solid var(--gold);
@@ -101,13 +101,9 @@
         shead=document.getElementById('shead');
   let cur=0;
 
-  const total = book.surahs.reduce((a,s)=>a+s.items.filter(i=>i.t==='v').length,0);
-  if(total < 200){
-    document.getElementById('banner').innerHTML =
-      '<div class="banner"><strong>Preview.</strong> This is a '+total+'-verse sample built to '+
-      'settle the format. The full run covers 16 sūrahs and 1,692 āyāt, and needs the '+
-      'Qurʾānic text file — no scripture is generated here.</div>';
-  }
+  document.getElementById('banner').innerHTML =
+    '<div class="banner"><strong>First Edition:</strong> 201 covenant loci across 60 sūrahs '+
+    '(sampled āyāt with notes — not a full-sūrah tafsīr).</div>';
 
   book.surahs.forEach((s,i)=>{
     const a=document.createElement('a');

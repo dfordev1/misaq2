@@ -26,25 +26,53 @@
   <h1 class="hub-title">Hadith notes</h1>
   <p class="hub-lede">Fifty covenant-themed hadith dossiers (H01–H50).</p>
   <div class="hub-table-wrap"><table class="hub-table" id="had-table">
-    <thead><tr><th>ID</th><th>Title</th><th>Grade</th><th>Collections</th><th>Theme</th></tr></thead>
+    <thead><tr><th>ID</th><th>Title</th><th>Grade</th><th>Collections</th><th>Axis</th><th>Qurʾān links</th><th>Theme</th></tr></thead>
     <tbody></tbody>
   </table></div>
 </main>
+
+<footer class="bot"><div class="wrap">
+  <p>Every diagram and note here is an ijtihādī study aid, not a fatwā.</p>
+</div></footer>
+
+<script src="app.js"></script>
 <script>
 (async function(){
   const d = await (await fetch('data/hadith.json')).json();
   const tb = document.querySelector('#had-table tbody');
+  document.querySelector('.hub-title').textContent = CT.t('Hadith');
+  if (!d.entries.length) {
+    tb.innerHTML = '<tr><td colspan="7"><p class="empty">No hadith entries yet.</p></td></tr>';
+    return;
+  }
+  const axisLabels = {
+    alast: 'Allah & humanity (Alast)',
+    prophet: 'Allah & prophets',
+    book: 'Scripture communities',
+    polity: 'Political & communal',
+    person: 'Interpersonal',
+    eschaton: 'Eschatological'
+  };
+  function qLinks(links) {
+    if (!links || !links.length) return '—';
+    return links.map(ref => {
+      const [s, a] = ref.split(':');
+      return '<a href="tafsir.html" title="Q '+ref+'">Q '+ref+'</a>';
+    }).join(' · ');
+  }
   d.entries.forEach(h=>{
     const tr = document.createElement('tr');
-    tr.innerHTML = '<td><code>'+h.id+'</code></td><td>'+h.title+'</td><td>'+h.grade+'</td><td>'+h.collections+'</td><td>'+h.theme+'</td>';
+    tr.innerHTML =
+      '<td><code>'+h.id+'</code></td>'+
+      '<td>'+h.title+'</td>'+
+      '<td>'+h.grade+'</td>'+
+      '<td>'+h.collections+'</td>'+
+      '<td>'+(axisLabels[h.axis] || h.axis || '—')+'</td>'+
+      '<td>'+qLinks(h.quran_links)+'</td>'+
+      '<td>'+h.theme+'</td>';
     tb.appendChild(tr);
   });
 })();
 </script>
-<footer class="bot"><div class="wrap">
-  <p>Every diagram and note here is an ijtihādī study aid, not a fatwā.</p>
-</div></footer>
-<script src="app.js"></script>
-
 </body>
 </html>

@@ -82,6 +82,12 @@
     cnt.textContent = CT.plural(out.length);
     if (ur) cnt.classList.add('ur');
     CT.renderGrid(grid,out);
+    const params = new URLSearchParams();
+    if (p) params.set('part', p);
+    if (ax) params.set('axis', ax);
+    if (q) params.set('q', document.getElementById('q').value.trim());
+    const qs = params.toString();
+    history.replaceState(null, '', qs ? '?' + qs : location.pathname);
   }
   document.getElementById('q').addEventListener('input',apply);
   sel.addEventListener('change',apply);
