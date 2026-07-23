@@ -1,81 +1,89 @@
-{
-  "title_en": "Start here",
-  "title_ur": "یہاں سے شروع کریں",
-  "intro_en": "An ordered path through this site — from method to tafsir, concept maps, quiz, and the deep GitHub corpus.",
-  "intro_ur": "اس سائٹ کا ترتیب شدہ راستہ — منہج سے تفسیر، تصوراتی خاکے، کوئز اور گہرے GitHub ذخیرے تک۔",
-  "steps": [
-    {
-      "n": 1,
-      "title_en": "Method & limits",
-      "title_ur": "منہج اور حدود",
-      "href": "about.html",
-      "blurb_en": "Source hierarchy, six axes, and how to read applied diagrams.",
-      "blurb_ur": "ماخذ کی ترتیب، چھ محور، اور اطلاقی خاکے کیسے پڑھیں۔"
-    },
-    {
-      "n": 2,
-      "title_en": "Urdu introduction",
-      "title_ur": "اردو تعارف",
-      "href": "read.html",
-      "blurb_en": "Six-chapter Urdu primer on ahd, mithaq, amanah and uqud.",
-      "blurb_ur": "عہد، میثاق، امانت اور عقود پر چھ بابوں کا اردو تعارف۔"
-    },
-    {
-      "n": 3,
-      "title_en": "Mithaq Tafsir (First Edition)",
-      "title_ur": "میثاق تفسیر",
-      "href": "tafsir.html",
-      "blurb_en": "201 covenant loci across 60 surahs with Arabic text and study notes.",
-      "blurb_ur": "60 سورتوں میں 201 covenant loci — عربی متن اور مطالعہ نوٹس۔"
-    },
-    {
-      "n": 4,
-      "title_en": "Lexicon",
-      "title_ur": "فرہنگ",
-      "href": "lexicon.html",
-      "blurb_en": "Core terms: ahd, mithaq, amanah, bayah, uqud, wad, dhimma.",
-      "blurb_ur": "بنیادی اصطلاحات: عہد، میثاق، امانت، بیعت، عقود، وعد، ذمہ۔"
-    },
-    {
-      "n": 5,
-      "title_en": "Hadith notes",
-      "title_ur": "حدیث نوٹس",
-      "href": "hadith.html",
-      "blurb_en": "Fifty covenant-themed reports (H01-H50) with grades and Quran links.",
-      "blurb_ur": "پچاس میثاقی احادیث (H01–H50) — درجہ بندی اور قرآنی حوالے۔"
-    },
-    {
-      "n": 6,
-      "title_en": "Concept maps",
-      "title_ur": "تصوراتی خاکے",
-      "href": "browse.html?part=16",
-      "blurb_en": "312 paradigm concept plates — method, proof, dossiers, and architecture.",
-      "blurb_ur": "312 تصوراتی پلیٹیں — منہج، دلیل، ڈوسیے اور ڈھانچہ۔"
-    },
-    {
-      "n": 7,
-      "title_en": "Application quiz",
-      "title_ur": "اطلاقی آزمائش",
-      "href": "qbank/index.html",
-      "blurb_en": "420 scenario questions with diagram plates across 25 domains.",
-      "blurb_ur": "25 میدانوں میں 420 منظرنامہ سوالات — خاکوں کے ساتھ۔"
-    },
-    {
-      "n": 8,
-      "title_en": "PDF downloads",
-      "title_ur": "PDF ڈاؤن لوڈ",
-      "href": "downloads.html",
-      "blurb_en": "Books and diagram collections for offline study.",
-      "blurb_ur": "آف لائن مطالعہ کے لیے کتابیں اور خاکوں کے مجموعے۔"
-    },
-    {
-      "n": 9,
-      "title_en": "Deep corpus (GitHub)",
-      "title_ur": "گہرا ذخیرہ",
-      "href": "https://dfordev1.github.io/misaq/",
-      "external": true,
-      "blurb_en": "Full Mithaq corpus: QUSX packages, METHOD review, and edition builds.",
-      "blurb_ur": "مکمل میثاق ذخیرہ: QUSX پیکج، METHOD جائزہ اور ایڈیشن بلڈز۔"
-    }
-  ]
-}
+{
+  "title_en": "Start here",
+  "title_ur": "یہاں سے شروع کریں",
+  "intro_en": "No prior knowledge assumed. Follow these steps in order — plain language first, then diagrams, then deeper shelves.",
+  "intro_ur": "پہلے سے کچھ جاننے کی ضرورت نہیں۔ ترتیب سے چلیں — آسان زبان، پھر خاکے، پھر گہری الماریاں۔",
+  "steps": [
+    {
+      "n": 1,
+      "title_en": "Home — what this is",
+      "title_ur": "صفحۂ اول — یہ کیا ہے",
+      "href": "index.html#what",
+      "blurb_en": "One-minute explanation: promises, trusts, and keep vs break.",
+      "blurb_ur": "ایک منٹ کی وضاحت: وعدے، امانتیں، اور نبھانا بمقابلہ توڑنا۔"
+    },
+    {
+      "n": 2,
+      "title_en": "Method & limits",
+      "title_ur": "منہج اور حدود",
+      "href": "about.html",
+      "blurb_en": "How we rank sources (Qurʾān first) and what we refuse to claim.",
+      "blurb_ur": "ماخذ کی ترتیب (قرآن پہلے) اور ہم کیا دعویٰ نہیں کرتے۔"
+    },
+    {
+      "n": 3,
+      "title_en": "Urdu introduction",
+      "title_ur": "اردو تعارف",
+      "href": "read.html",
+      "blurb_en": "Six-chapter Urdu primer on ahd, mithaq, amanah and uqud.",
+      "blurb_ur": "عہد، میثاق، امانت اور عقود پر چھ بابوں کا اردو تعارف۔"
+    },
+    {
+      "n": 4,
+      "title_en": "One life diagram",
+      "title_ur": "ایک زندگی کا خاکہ",
+      "href": "browse.html?part=1",
+      "blurb_en": "Open Business & Finance — see keep vs break in an everyday scene.",
+      "blurb_ur": "کاروبار و مالیات کھولیں — روزمرہ منظر میں نبھانا بمقابلہ توڑنا۔"
+    },
+    {
+      "n": 5,
+      "title_en": "Mithaq Tafsir (First Edition)",
+      "title_ur": "میثاق تفسیر",
+      "href": "tafsir.html",
+      "blurb_en": "201 short Qurʾān notes — Arabic, translation, then the covenant comment.",
+      "blurb_ur": "201 مختصر قرآنی نوٹس — عربی، ترجمہ، پھر میثاقی تبصرہ۔"
+    },
+    {
+      "n": 6,
+      "title_en": "Lexicon",
+      "title_ur": "فرہنگ",
+      "href": "lexicon.html",
+      "blurb_en": "Plain glosses: ahd, mithaq, amanah, bayah, uqud, wad, dhimma.",
+      "blurb_ur": "آسان معانی: عہد، میثاق، امانت، بیعت، عقود، وعد، ذمہ۔"
+    },
+    {
+      "n": 7,
+      "title_en": "Hadith notes",
+      "title_ur": "حدیث نوٹس",
+      "href": "hadith.html",
+      "blurb_en": "Fifty covenant-themed reports (H01–H50) with grades and Qurʾān links.",
+      "blurb_ur": "پچاس میثاقی احادیث (H01–H50) — درجہ بندی اور قرآنی حوالے۔"
+    },
+    {
+      "n": 8,
+      "title_en": "Application quiz",
+      "title_ur": "اطلاقی آزمائش",
+      "href": "qbank/index.html",
+      "blurb_en": "Scenario questions: pick the faithful path. Instant feedback.",
+      "blurb_ur": "منظرنامہ سوالات: وفادار راستہ چنیں۔ فوری جواب۔"
+    },
+    {
+      "n": 9,
+      "title_en": "PDF downloads",
+      "title_ur": "PDF ڈاؤن لوڈ",
+      "href": "downloads.html",
+      "blurb_en": "Books and diagram collections for offline study.",
+      "blurb_ur": "آف لائن مطالعہ کے لیے کتابیں اور خاکوں کے مجموعے۔"
+    },
+    {
+      "n": 10,
+      "title_en": "Deep corpus (GitHub)",
+      "title_ur": "گہرا ذخیرہ",
+      "href": "https://dfordev1.github.io/misaq/",
+      "external": true,
+      "blurb_en": "Full Mithaq corpus for researchers — after the beginner path above.",
+      "blurb_ur": "محققین کے لیے مکمل میثاق ذخیرہ — اوپر والے ابتدائی راستے کے بعد۔"
+    }
+  ]
+}

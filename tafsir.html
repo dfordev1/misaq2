@@ -102,8 +102,11 @@
   let cur=0;
 
   document.getElementById('banner').innerHTML =
-    '<div class="banner"><strong>First Edition:</strong> 201 covenant loci across 60 sūrahs '+
-    '(sampled āyāt with notes — not a full-sūrah tafsīr).</div>';
+    '<div class="banner"><strong>How to use this (beginners welcome).</strong> '+
+    'Pick a sūrah on the left. Read the Arabic, the translation, then the gold-bordered note — '+
+    'that note is the covenant lens. First Edition: 201 notes across 60 sūrahs '+
+    '(sampled verses, not a full-sūrah tafsīr). '+
+    '<a href="index.html#start3" style="color:inherit;text-decoration:underline">3-step start →</a></div>';
 
   book.surahs.forEach((s,i)=>{
     const a=document.createElement('a');

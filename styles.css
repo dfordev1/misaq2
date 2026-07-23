@@ -185,7 +185,28 @@ footer.bot p{margin:0 0 8px;line-height:1.7}
   .cta{flex-direction:column;align-items:stretch}
   .cta .btn{text-align:center}
 }
-/* ---------- hub pages (study, lexicon, hadith, downloads) ---------- */
+.eli5-band{padding:48px 0 8px;max-width:720px}
+.eli5-band h2{font-size:1.35rem;font-weight:500;color:var(--teal);margin:0 0 14px}
+.eli5-card{background:var(--card);border:1px solid var(--line);border-radius:5px;padding:18px 20px}
+.eli5-card p{margin:0 0 12px;line-height:1.65;color:#514b41;font-size:.95rem}
+.eli5-card .textlink{color:var(--teal);font-size:.92rem;border-bottom:1px solid var(--gold)}
+.eli5-card .textlink:hover{color:var(--ink)}
+/* Beginner / ELI5 */
+.hub-kicker{font-size:.72rem;letter-spacing:.16em;text-transform:uppercase;color:var(--gold);margin:0 0 10px}
+.eli5{margin:36px 0}
+.eli5 h2{font-size:1.25rem;font-weight:500;color:var(--teal);margin:0 0 12px}
+.eli5 h3{font-size:1.02rem;font-weight:600;margin:0 0 8px;color:var(--ink)}
+.eli5 p,.eli5 li{line-height:1.75;color:#514b41}
+.eli5-list{margin:0;padding-left:1.2rem}
+.eli5-list li{margin:0 0 10px}
+.eli5-note{margin:16px 0 0;font-size:.95rem;color:var(--muted);line-height:1.7}
+.eli5-grid{display:grid;grid-template-columns:1fr 1fr;gap:22px;margin-top:8px}
+.eli5-grid ul{margin:0;padding-left:1.1rem}
+.eli5-grid li{margin:0 0 8px}
+.eli5-share .share-url{display:inline-block;margin-top:8px;padding:10px 14px;background:var(--paper2);
+  border:1px solid var(--line);border-radius:4px;font-size:.9rem;word-break:break-all}
+@media(max-width:700px){.eli5-grid{grid-template-columns:1fr}}
+
 .hub-main{padding:52px 0 80px;max-width:860px}
 .hub-rule{width:96px;height:4px;background:var(--gold);margin-bottom:22px}
 .hub-title{font-size:2rem;font-weight:500;margin:0 0 12px}
